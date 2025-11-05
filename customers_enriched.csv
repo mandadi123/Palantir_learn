@@ -1,0 +1,1001 @@
+Customer_ID,Full_Name,Gender,Age,Email,Phone,City,State,Country,Zip_Code,Join_Date,Customer_Segment,Preferred_Channel,Payment_Preference,Churn_Risk_Score,ARPU
+CUST000001,Jessica Smith,Male,69,powerschristopher@example.com,000.597.9721,Lake Danny,Alabama,USA,66441,2024-12-10,Small Business,Web,Card,73.9,47.07
+CUST000002,Dr. Austin Weaver,Other,76,rjones@example.org,904.814.7543x37808,North Matthewfort,Texas,USA,49960,2022-08-27,Small Business,Call Center,ACH,64.6,51.79
+CUST000003,Billy Crawford,Male,68,grantdrew@example.com,001-182-470-6402x42427,New Paulstad,New York,USA,45289,2021-08-31,Residential,Web,ACH,34.0,54.0
+CUST000004,Julie Williams,Other,74,mberg@example.org,874.412.6618x176,Daniellestad,Connecticut,USA,92599,2025-03-23,Residential,Web,Wallet,23.1,39.86
+CUST000005,Tracey Carpenter,Other,35,teresa57@example.net,163-040-3815,Sierraland,Pennsylvania,USA,34242,2023-05-23,Enterprise,Retail,ACH,39.3,32.27
+CUST000006,Melissa Herring,Male,30,sandersjanet@example.com,353.862.9340x58278,Cookberg,Arkansas,USA,82356,2020-03-20,Residential,App,ACH,46.3,52.73
+CUST000007,Charles Payne,Male,23,george01@example.org,066.536.4846,Ginaberg,Ohio,USA,12673,2020-11-08,Small Business,Retail,Bank Transfer,22.1,45.17
+CUST000008,Diana Ross,Female,29,alicia64@example.org,960-573-7264x0176,Royfort,Idaho,USA,52996,2021-03-30,Enterprise,Web,ACH,40.8,58.24
+CUST000009,Brooke Vargas,Male,60,jamie89@example.com,+1-707-105-7129x55449,Annaport,Oregon,USA,26003,2020-06-13,Enterprise,Retail,ACH,27.7,61.74
+CUST000010,Nicole Jones,Male,48,matthewcook@example.com,418.998.1345x206,Lake Vickiborough,Texas,USA,20792,2024-04-30,Small Business,App,ACH,3.6,45.69
+CUST000011,Kelli Hamilton DDS,Female,37,anthonysusan@example.com,001-793-581-0959x327,Cohenberg,Ohio,USA,82110,2021-11-27,Residential,App,Wallet,27.5,20.92
+CUST000012,Brianna Rush,Female,40,haleysloan@example.net,001-652-898-9970x515,Mercadoland,Massachusetts,USA,30375,2022-01-30,Enterprise,Web,ACH,20.7,48.94
+CUST000013,Christina Case,Male,20,dlawrence@example.org,146.527.3059x562,Lake Andrewborough,Rhode Island,USA,81820,2022-11-12,Enterprise,Retail,Wallet,33.4,53.93
+CUST000014,Brenda Waller,Female,38,denise09@example.com,(954)665-3405x941,Port Jefferyshire,Pennsylvania,USA,48919,2023-08-18,Residential,Retail,Card,28.5,37.05
+CUST000015,Erica Cox,Female,32,jennifer27@example.org,8633742596,Fischershire,New Mexico,USA,63441,2022-06-17,Residential,Call Center,Wallet,47.0,13.86
+CUST000016,Misty Lara,Male,71,christine86@example.net,(177)188-2431,Philipport,Virginia,USA,68945,2022-11-20,Enterprise,Web,ACH,11.7,5.0
+CUST000017,Joshua Lopez,Male,36,rlowe@example.com,781-871-1329x52643,Anthonymouth,Rhode Island,USA,13575,2025-02-25,Enterprise,Retail,ACH,33.1,80.61
+CUST000018,Robert Green,Other,50,matthew96@example.net,001-266-049-9459,East Mary,Illinois,USA,80466,2022-04-12,Small Business,Retail,ACH,47.3,51.9
+CUST000019,Jeremy Shaw,Other,66,alexandra66@example.com,+1-975-342-2620x39858,South Samantha,Alaska,USA,72574,2023-09-29,Small Business,Retail,Card,49.0,65.52
+CUST000020,Benjamin Wilkerson,Male,76,jonesjohn@example.net,(763)485-8871x4082,East Nicholas,Idaho,USA,69646,2021-12-01,Residential,Web,Bank Transfer,26.5,38.83
+CUST000021,Eric Freeman,Other,44,carolyn46@example.net,452.173.7314x2842,Mcgrathborough,Oklahoma,USA,68974,2024-11-07,Enterprise,App,Wallet,28.9,31.42
+CUST000022,Daniel Ramsey,Female,41,hfrazier@example.com,380.057.3066,Fishershire,North Dakota,USA,33178,2023-06-01,Small Business,Retail,Card,19.0,68.84
+CUST000023,Patricia Deleon,Female,44,ltorres@example.org,4917936630,Myerschester,Idaho,USA,23321,2024-08-07,Residential,Web,ACH,40.1,32.46
+CUST000024,Susan Le,Female,26,juliehall@example.org,602.480.5804x80067,Lake Karenburgh,Iowa,USA,82112,2023-05-03,Residential,App,Bank Transfer,15.1,56.06
+CUST000025,Antonio Phillips MD,Other,52,josebutler@example.net,804-593-2049x7062,Lucasport,Connecticut,USA,10982,2024-04-07,Small Business,Call Center,ACH,52.9,45.35
+CUST000026,Morgan Hudson,Male,42,tonya90@example.net,(782)618-8598x83816,West Heatherberg,South Dakota,USA,09999,2022-01-30,Residential,Call Center,Wallet,21.9,36.55
+CUST000027,Erin Barber,Other,30,xbaker@example.org,979-050-9931,Haynesburgh,Oregon,USA,05939,2025-10-26,Residential,Web,ACH,1.3,52.86
+CUST000028,Ronald Webster,Female,43,ncollins@example.org,+1-958-531-8314x01104,Christinechester,South Carolina,USA,02866,2020-04-20,Small Business,Retail,Wallet,52.3,40.6
+CUST000029,Brandon Miller,Other,18,michael51@example.org,(275)210-4920,Annfort,Rhode Island,USA,11277,2023-05-08,Enterprise,Call Center,Bank Transfer,23.0,28.51
+CUST000030,Tiffany Graham,Female,72,mary65@example.org,+1-299-362-6726,Moranfurt,Maryland,USA,75208,2023-02-16,Small Business,Call Center,Wallet,3.5,39.24
+CUST000031,Charles Anderson,Female,70,christina34@example.org,(997)046-5050,East Christinaborough,New Mexico,USA,89366,2022-12-31,Small Business,Web,Bank Transfer,31.6,18.37
+CUST000032,Marissa Rhodes,Other,74,leslie86@example.com,780-995-4351x695,Ronaldfurt,Nebraska,USA,88949,2021-07-15,Residential,Web,Bank Transfer,6.7,63.19
+CUST000033,Micheal Bernard,Female,32,shawnhoward@example.net,001-206-979-2364x569,Jeffreyside,New Hampshire,USA,41628,2023-07-06,Enterprise,Web,Wallet,3.1,79.51
+CUST000034,Becky Reese,Other,28,jennifercastro@example.org,(744)712-8770x0436,South Sharon,Pennsylvania,USA,09831,2025-06-11,Residential,Web,Wallet,34.5,68.27
+CUST000035,William Berg,Male,34,nancy29@example.net,(703)997-6129x01122,South Mitchellville,Oklahoma,USA,03256,2021-10-27,Enterprise,Retail,Card,0.0,45.17
+CUST000036,Willie Taylor,Male,18,uscott@example.com,+1-457-315-0346x85874,Soniaburgh,Idaho,USA,42091,2022-09-23,Enterprise,App,Wallet,42.2,65.4
+CUST000037,Amanda Cooper,Other,77,cheryl71@example.com,468-152-6470,Smithtown,South Dakota,USA,29592,2025-01-02,Enterprise,App,Card,0.0,78.26
+CUST000038,Kendra Peters,Other,47,aguilarapril@example.com,001-700-009-8391x648,West Victoria,Texas,USA,83829,2020-10-17,Small Business,Call Center,ACH,35.0,80.71
+CUST000039,Patrick Carter,Female,73,roger07@example.com,+1-533-340-6807,West Ryantown,Pennsylvania,USA,07605,2020-08-02,Residential,Call Center,ACH,22.3,47.62
+CUST000040,Jennifer Jackson,Other,20,westveronica@example.net,3140396680,Lake Douglas,Connecticut,USA,44815,2025-06-14,Small Business,Web,Wallet,30.5,30.12
+CUST000041,Joseph Russo,Other,64,wilsonshannon@example.org,663.595.0068,Wallacebury,New Hampshire,USA,76317,2024-08-26,Residential,Retail,Bank Transfer,33.4,46.71
+CUST000042,Megan Dixon,Other,19,michele95@example.net,001-471-847-5751,East Susan,Connecticut,USA,36442,2022-11-09,Enterprise,App,Wallet,28.0,5.0
+CUST000043,Eddie Bond,Male,54,lshaw@example.com,189-807-5781x803,East Christopherfurt,Montana,USA,48507,2024-03-02,Small Business,Retail,Wallet,2.3,65.99
+CUST000044,Sarah Brock,Other,67,brookefrost@example.net,(554)870-8706,East Danielport,Idaho,USA,35062,2022-12-25,Residential,Retail,Wallet,24.8,43.53
+CUST000045,Jessica George,Male,52,kellyhammond@example.net,357-179-1776,Kellychester,Iowa,USA,05014,2023-08-12,Residential,Retail,ACH,0.2,79.69
+CUST000046,Kayla Brewer,Other,58,tylerjimenez@example.net,337-881-6113x09643,Villanuevaburgh,Washington,USA,25379,2024-07-31,Enterprise,Retail,Wallet,35.7,59.92
+CUST000047,David Martinez,Other,32,juarezjoshua@example.org,(099)465-7322,Snydermouth,Hawaii,USA,18650,2024-08-03,Small Business,App,ACH,3.1,47.35
+CUST000048,Jesse Cooper II,Male,24,greenmichael@example.com,+1-439-861-5666x3354,East Brandi,Nevada,USA,33379,2024-03-07,Small Business,App,Bank Transfer,54.0,63.02
+CUST000049,Joyce Graham,Other,72,fhaley@example.org,490-010-1743x42191,Port Karenmouth,Pennsylvania,USA,04510,2025-06-22,Residential,Call Center,Bank Transfer,19.8,41.95
+CUST000050,Charles Griffin,Other,43,benjaminroger@example.org,278.258.8038x3902,Michaeltown,Kansas,USA,06462,2023-10-05,Residential,Call Center,ACH,60.4,36.51
+CUST000051,Mary Gilmore,Other,20,kristenmiller@example.com,001-651-445-6210x3380,North Ronald,Tennessee,USA,61716,2025-04-21,Residential,Call Center,ACH,71.8,25.71
+CUST000052,Stephanie Riley,Female,73,blawrence@example.com,992-185-9714x86798,Lake David,North Dakota,USA,28568,2025-03-12,Small Business,Call Center,Bank Transfer,41.0,50.72
+CUST000053,Jesse Cardenas,Male,54,joseph14@example.com,(147)541-7194x995,Jacksonborough,Rhode Island,USA,73510,2022-03-28,Residential,Call Center,Card,82.3,54.76
+CUST000054,Michael Anthony,Female,39,bellbianca@example.com,+1-737-007-1951x3458,Leeside,Maryland,USA,98741,2022-12-02,Small Business,App,Bank Transfer,22.4,60.38
+CUST000055,Danielle Boyd,Male,50,lflores@example.com,4748499584,Williamfurt,Idaho,USA,39841,2020-02-06,Residential,Call Center,Bank Transfer,0.0,19.27
+CUST000056,Melissa Martin,Female,26,woodwardnicole@example.org,598-801-4978x57630,South Richard,Ohio,USA,54773,2025-01-29,Small Business,Call Center,Wallet,7.8,52.99
+CUST000057,Debbie Orr,Male,18,mary16@example.org,4608971427,Michelleburgh,Wyoming,USA,07049,2022-11-29,Small Business,Call Center,Bank Transfer,14.5,37.15
+CUST000058,Mary Higgins,Female,73,dpearson@example.org,+1-550-453-1698x9296,South Christie,Kentucky,USA,06006,2021-10-07,Small Business,Call Center,Bank Transfer,35.5,95.24
+CUST000059,Rodney Thompson,Male,26,epatrick@example.net,214.369.3650x832,West Melissa,Maine,USA,87561,2020-04-09,Enterprise,Web,Card,23.8,49.28
+CUST000060,Mary Allen,Other,36,tarascott@example.net,149-210-0532x00675,Ericfort,Georgia,USA,90698,2024-04-10,Small Business,Retail,Wallet,4.6,68.97
+CUST000061,Gregory Bell,Male,34,david74@example.org,787.404.8493,Brayview,Maryland,USA,73066,2025-10-28,Enterprise,Web,Wallet,2.0,53.73
+CUST000062,Lauren Dixon,Male,65,cassandrarojas@example.org,806-954-7438x96807,Amberhaven,North Dakota,USA,16318,2022-01-09,Small Business,Retail,Wallet,42.8,61.86
+CUST000063,Michael Murphy,Female,25,christiancontreras@example.org,988-757-2830,Rachaelview,Iowa,USA,21099,2023-10-07,Small Business,App,ACH,56.9,74.95
+CUST000064,Matthew Henson,Female,71,crawfordryan@example.org,(466)182-5854,West Ross,Utah,USA,38791,2021-11-17,Residential,Retail,Card,33.8,31.03
+CUST000065,Kim Davis,Male,66,kellerandrea@example.org,+1-634-629-1793x71614,North Emma,North Carolina,USA,69694,2023-01-28,Small Business,Retail,Bank Transfer,86.5,37.5
+CUST000066,Michael Hunt,Other,19,cjohnson@example.net,766-464-9422,Larryborough,North Dakota,USA,67653,2024-08-19,Residential,Retail,Bank Transfer,79.7,45.58
+CUST000067,Peggy Salazar,Female,43,wilsonjon@example.com,(460)544-2200x9004,Tracyview,Minnesota,USA,48991,2020-03-13,Small Business,Web,ACH,36.0,31.58
+CUST000068,Ariel Boone,Female,50,bmorris@example.net,001-993-902-2864x089,North Denise,Michigan,USA,57451,2024-09-23,Small Business,Retail,ACH,57.1,34.87
+CUST000069,Shannon Hensley,Female,74,edickson@example.org,115-849-4718,Deniseland,Kentucky,USA,20006,2020-03-10,Small Business,App,Bank Transfer,23.2,69.97
+CUST000070,Ms. Allison Watson MD,Male,74,tfox@example.org,1753252007,New Jeremyview,Maine,USA,22571,2022-05-07,Enterprise,App,Bank Transfer,21.2,49.07
+CUST000071,Alicia Bryant,Other,42,andersonheather@example.com,001-077-653-9235x91245,Butlerport,Maine,USA,52719,2020-10-23,Small Business,Retail,Card,37.6,12.69
+CUST000072,Edward Carroll,Female,64,dawn63@example.net,001-369-348-5532x5438,West Ashley,California,USA,81526,2020-05-15,Enterprise,Call Center,Card,27.3,68.45
+CUST000073,Rose Jones,Other,79,ronnieshepherd@example.net,526-891-4150x29452,Lake John,New Jersey,USA,42049,2025-10-21,Small Business,App,Card,47.6,34.37
+CUST000074,Peggy Walker,Male,57,myersbianca@example.net,+1-117-208-7824x748,Jessicaborough,Mississippi,USA,49534,2022-01-17,Small Business,Web,Wallet,43.9,26.4
+CUST000075,Ashley Ferguson,Female,65,dgray@example.org,800.396.3611x014,East Allisonside,Rhode Island,USA,54962,2025-02-22,Enterprise,Call Center,Card,28.3,65.72
+CUST000076,Carolyn Garcia,Other,22,markmoore@example.net,236-903-1307x928,Watkinsport,Oregon,USA,76689,2023-08-28,Enterprise,Web,Wallet,0.0,20.23
+CUST000077,Cynthia Adams,Male,79,millercynthia@example.com,(491)472-8728x45545,East Kimberly,Indiana,USA,58101,2025-08-08,Residential,Call Center,Wallet,11.0,54.72
+CUST000078,Amy Gallagher,Female,28,xnunez@example.net,(975)273-6830x2571,Penningtonside,Florida,USA,50939,2024-09-12,Enterprise,Web,ACH,75.7,10.26
+CUST000079,Carol Fisher,Other,41,lisacastaneda@example.org,+1-507-642-7312x8538,Andersonmouth,Connecticut,USA,64198,2022-01-18,Enterprise,Call Center,Bank Transfer,63.7,71.71
+CUST000080,Melissa Parker,Other,41,connie90@example.net,+1-011-253-5285x1882,Warrenside,Maryland,USA,06808,2021-02-14,Enterprise,Retail,Card,56.1,61.49
+CUST000081,Kyle Rowland,Other,23,michael04@example.com,001-049-482-9720x19143,Nelsonville,Vermont,USA,27992,2023-09-15,Small Business,Web,Card,0.0,49.4
+CUST000082,Alexis Lewis,Other,44,billy36@example.org,120-666-6368,Harrellberg,Georgia,USA,28117,2020-02-13,Enterprise,Web,ACH,56.7,51.21
+CUST000083,Donna Davis,Other,26,blakebrandon@example.net,(641)444-3081,North Yvonne,Arkansas,USA,58961,2022-01-03,Enterprise,App,Wallet,52.8,51.09
+CUST000084,Michael Brown,Male,18,dunlapbrittney@example.org,+1-516-923-5390x163,Michelleton,Alabama,USA,22986,2020-05-12,Enterprise,Call Center,Bank Transfer,13.7,36.98
+CUST000085,Leslie Simpson,Female,69,gbrown@example.com,(417)481-6362x458,Ortizbury,Delaware,USA,53945,2022-09-25,Enterprise,Web,Card,30.6,41.37
+CUST000086,Erin Mitchell,Female,23,longjustin@example.net,248-943-1197x30707,Port Danielshire,Montana,USA,67054,2023-11-15,Residential,Web,ACH,14.5,11.65
+CUST000087,Amber Lambert,Other,70,travishouse@example.net,001-426-584-7978x62687,North Kathrynmouth,Ohio,USA,04861,2022-06-12,Residential,App,Wallet,19.5,59.71
+CUST000088,Bruce Harvey,Male,64,linda75@example.org,886-996-4579,East Michaelfort,Arkansas,USA,42878,2020-05-07,Small Business,Retail,Card,42.6,59.03
+CUST000089,Steve Hernandez,Other,74,jeffreysantos@example.net,798.701.0252x821,Diazburgh,Connecticut,USA,55833,2021-10-11,Small Business,App,Card,11.2,27.62
+CUST000090,Cindy Lewis,Other,78,robert45@example.net,(064)335-9652,Debraside,California,USA,22365,2024-01-14,Small Business,Retail,Bank Transfer,14.7,53.33
+CUST000091,Kevin Wilkins,Other,20,vserrano@example.org,+1-953-987-9593,Thomasburgh,Tennessee,USA,54706,2021-12-02,Enterprise,Retail,ACH,8.5,54.68
+CUST000092,Trevor Murray,Female,29,henry18@example.com,001-024-087-6391x930,Oliverside,Georgia,USA,01919,2025-05-03,Residential,Call Center,Bank Transfer,10.4,62.11
+CUST000093,Jessica Hudson,Male,22,jonesbreanna@example.net,+1-974-570-7019x511,Thorntonside,West Virginia,USA,53178,2022-12-05,Small Business,Retail,ACH,23.7,60.5
+CUST000094,Kimberly Murphy,Male,46,richard89@example.net,967.627.1110x48395,Port Tim,Pennsylvania,USA,37240,2024-09-14,Enterprise,Web,Card,59.2,12.57
+CUST000095,Candace Wright DVM,Female,61,henrylaura@example.org,299-836-4194x8885,South Charlotte,Ohio,USA,50248,2023-06-09,Enterprise,App,Wallet,0.2,49.54
+CUST000096,Cristina Shea,Female,42,davidrodriguez@example.com,+1-685-148-4545x54764,Santosside,Nevada,USA,73720,2024-04-23,Residential,Web,Wallet,23.3,91.53
+CUST000097,Robert Silva,Female,70,nkramer@example.net,(273)638-3850x0597,Natalieport,Wyoming,USA,70635,2023-07-15,Small Business,App,Wallet,14.4,55.91
+CUST000098,John Rodriguez,Other,55,nancymontoya@example.org,(069)464-1843,North Jessicaborough,Indiana,USA,12848,2023-02-28,Small Business,Retail,ACH,18.4,5.0
+CUST000099,Samuel Lewis,Other,32,robert79@example.org,+1-602-594-0058x1280,South Jessicashire,Kentucky,USA,45347,2022-04-02,Small Business,Web,ACH,14.8,8.06
+CUST000100,Jeremy Nelson,Male,55,ericrodriguez@example.net,241.077.7259x10429,Brookschester,Kansas,USA,72637,2021-06-27,Small Business,App,Wallet,0.0,77.1
+CUST000101,Richard Bond,Male,51,bradfordlori@example.net,+1-833-841-2387,Jameshaven,Wyoming,USA,13101,2024-12-15,Small Business,Retail,Wallet,38.0,38.51
+CUST000102,Troy Obrien,Female,57,cshields@example.net,001-259-142-4757x54575,Lake Kennethside,Indiana,USA,61696,2025-01-15,Enterprise,Retail,ACH,31.3,23.15
+CUST000103,Chelsea Christensen,Female,70,howardsandra@example.org,395-308-7926x7437,Bradshawfort,Tennessee,USA,04044,2020-07-14,Enterprise,App,Bank Transfer,8.7,19.36
+CUST000104,Brian Scott,Female,59,moorecolin@example.com,896-097-3896x90862,Joshuabury,Maryland,USA,57742,2020-10-18,Residential,Call Center,Wallet,52.2,76.68
+CUST000105,Jared Webb,Male,37,thompsonnatalie@example.org,3577843603,South Matthew,Rhode Island,USA,89005,2024-11-19,Residential,App,ACH,44.1,49.8
+CUST000106,Michael Morris,Female,65,rbarton@example.org,001-591-786-8144x173,West Justinhaven,Oklahoma,USA,53827,2020-08-09,Residential,Web,ACH,77.0,78.0
+CUST000107,Kenneth James,Female,68,nicholsmiguel@example.com,597-613-8072,Raymondview,Virginia,USA,70154,2020-03-27,Enterprise,Call Center,ACH,32.5,31.65
+CUST000108,Crystal Castro,Male,18,michael69@example.com,770-203-9469x1371,East Aaronchester,Pennsylvania,USA,77812,2024-10-01,Residential,Call Center,ACH,46.6,43.0
+CUST000109,Joann Carr,Other,74,qmolina@example.com,910-102-8858x3973,New Michelle,West Virginia,USA,62302,2023-07-08,Enterprise,App,Wallet,34.7,61.25
+CUST000110,Jonathan Dean,Female,53,davidjohnson@example.net,788.503.2950,Wrightport,New Jersey,USA,49584,2025-07-15,Enterprise,Retail,Bank Transfer,27.9,94.99
+CUST000111,John Brown,Female,72,ywiggins@example.com,+1-276-517-2711,Randallberg,Maryland,USA,17329,2020-03-26,Residential,Call Center,Wallet,43.3,12.95
+CUST000112,Cristina Martin,Other,72,susanmccoy@example.net,001-267-298-0154x42717,Lake Jasonside,South Dakota,USA,80034,2024-11-26,Small Business,App,Card,30.8,28.3
+CUST000113,Steven Terry,Female,41,aguilarmichelle@example.net,+1-184-198-0066x86462,Phillipsfurt,Montana,USA,63166,2021-07-12,Residential,App,Card,23.8,98.11
+CUST000114,Abigail King,Other,19,scottcruz@example.net,332-488-9321x32600,New Timothy,Massachusetts,USA,81767,2022-06-28,Small Business,Web,Card,5.0,40.27
+CUST000115,Kevin Mullins,Other,36,robert05@example.org,001-858-071-6472,Tylertown,West Virginia,USA,53079,2024-01-30,Residential,Web,Bank Transfer,36.8,46.78
+CUST000116,Dennis Moore,Female,55,susan17@example.com,(342)565-2010x09186,Saraborough,South Dakota,USA,20861,2024-04-25,Enterprise,Retail,Wallet,0.0,43.66
+CUST000117,Christopher Wiggins,Female,69,lindsay08@example.net,001-903-982-5527x00855,North Kelly,New York,USA,69636,2020-09-15,Enterprise,Call Center,ACH,29.4,28.42
+CUST000118,Elizabeth Vasquez,Other,35,tmartinez@example.com,001-480-478-4470x609,Lake Sherryhaven,Nebraska,USA,26721,2020-06-02,Residential,Retail,Bank Transfer,0.0,65.76
+CUST000119,Brian Burgess,Male,77,burtonsarah@example.net,244.055.0332,Stacyside,Virginia,USA,48781,2023-01-21,Small Business,Web,ACH,18.3,28.08
+CUST000120,Jennifer Sheppard,Female,78,vargaswayne@example.com,+1-111-940-9051,North Lydialand,Arizona,USA,54869,2024-11-09,Residential,Web,ACH,56.5,45.0
+CUST000121,William Harrison,Other,35,gsmith@example.net,157-942-9223,Scotttown,North Dakota,USA,79906,2020-12-27,Residential,Web,Bank Transfer,41.0,35.35
+CUST000122,Tammy Marsh,Male,77,pbridges@example.com,(287)272-1158x429,New Jacobbury,New Jersey,USA,22489,2022-12-10,Enterprise,App,Card,36.8,71.44
+CUST000123,Stanley Rodgers,Male,68,caitlin85@example.com,652-579-7915x8420,Holdenton,South Carolina,USA,65190,2021-08-08,Small Business,Web,Card,6.0,83.79
+CUST000124,Jamie Fernandez,Other,57,stanley76@example.com,001-783-051-2011x42210,North Jennifer,Tennessee,USA,25607,2020-05-09,Enterprise,Retail,Wallet,13.5,56.49
+CUST000125,Jasmin Jackson,Other,73,brandymiller@example.com,4195846078,North Clarence,Kansas,USA,43856,2023-10-14,Residential,App,ACH,49.3,52.85
+CUST000126,Mr. Matthew Lee III,Other,28,lynchalyssa@example.com,721.315.5141x773,North Timothy,Massachusetts,USA,19813,2024-12-26,Enterprise,Call Center,Wallet,59.3,39.34
+CUST000127,Amanda Morales,Female,35,dsmith@example.com,+1-971-589-0735x728,North Matthew,Alaska,USA,23760,2023-03-19,Small Business,App,Wallet,48.3,60.4
+CUST000128,Robin Miller,Female,64,fparker@example.com,395-259-6030,South Jacobville,New Hampshire,USA,51911,2021-03-07,Small Business,Web,Wallet,43.9,77.47
+CUST000129,Tricia Harrell,Female,35,dvargas@example.com,+1-356-240-2513,East Michelleburgh,Nevada,USA,38760,2025-02-08,Enterprise,Web,Card,16.1,37.46
+CUST000130,Aaron Chapman,Male,39,ycampos@example.org,2277362931,East William,New Jersey,USA,35792,2023-08-14,Residential,Web,Bank Transfer,20.9,43.22
+CUST000131,Christopher Miller,Male,68,donaldfernandez@example.com,338-640-5211x9135,South Ashley,Florida,USA,05273,2021-01-04,Small Business,Call Center,Wallet,13.8,56.97
+CUST000132,Jennifer Ruiz,Female,24,johnsonanthony@example.net,699-185-0107,Sharptown,Ohio,USA,29515,2022-03-16,Small Business,Retail,Wallet,60.0,5.0
+CUST000133,Sean Castro,Male,22,baileyhunter@example.net,857-594-1791x855,Lake Andreahaven,Wisconsin,USA,17708,2025-10-06,Residential,Web,ACH,5.7,47.65
+CUST000134,Brittany Bailey,Female,18,sara36@example.org,(090)262-0191x22993,Andrewtown,Oregon,USA,09674,2021-03-31,Small Business,App,Bank Transfer,40.0,37.3
+CUST000135,Joseph Nicholson,Female,30,teresaadams@example.org,940-633-2884x446,Brendamouth,Georgia,USA,77143,2020-10-14,Residential,Retail,Wallet,37.9,43.62
+CUST000136,James Williams,Female,28,moniqueperry@example.com,853-180-7677x137,Elijahmouth,Mississippi,USA,40328,2025-03-04,Residential,App,Wallet,52.5,64.41
+CUST000137,Karina Bradford,Female,59,andrewking@example.net,(012)499-2525x1804,Lake Alexandra,New Hampshire,USA,63171,2024-09-14,Small Business,Call Center,Bank Transfer,53.8,50.23
+CUST000138,Lauren Morales,Female,19,abyrd@example.com,743-499-7318x1864,Lake Heatherville,Texas,USA,09417,2025-08-02,Enterprise,Retail,Bank Transfer,71.1,25.43
+CUST000139,Dean House,Other,41,christopherlopez@example.net,+1-239-854-7435x2938,East John,Nevada,USA,12344,2021-02-25,Enterprise,Retail,Card,33.9,37.64
+CUST000140,Mike Sherman,Male,52,djones@example.net,557-901-1783,Jacksonhaven,Florida,USA,93184,2024-05-05,Residential,Retail,Bank Transfer,31.3,87.74
+CUST000141,Kristin Lara,Other,66,theresasanchez@example.com,925.944.2113x55198,North Karlabury,New Jersey,USA,25704,2022-10-08,Residential,Call Center,Wallet,28.8,41.87
+CUST000142,Michael Williams,Other,71,dennisburton@example.org,355-813-9414,North David,New York,USA,86827,2021-06-16,Residential,Call Center,ACH,14.8,38.01
+CUST000143,Melissa Brown,Male,63,camachostacy@example.net,289.772.1429x150,New Elizabeth,New York,USA,82641,2021-11-22,Residential,Retail,Wallet,9.5,39.01
+CUST000144,Debra Cooper,Female,40,qwilliams@example.com,001-067-690-5375x8626,Port Kathrynside,Iowa,USA,09340,2025-07-15,Enterprise,Retail,Card,24.0,55.81
+CUST000145,Angela Peterson,Other,19,whitedanielle@example.net,+1-749-963-8964x17643,Joneshaven,Kentucky,USA,90847,2024-01-17,Enterprise,Call Center,Bank Transfer,39.7,18.22
+CUST000146,Emily Knox,Male,72,joe32@example.net,1074186719,South Robert,Connecticut,USA,65448,2024-05-21,Small Business,App,Bank Transfer,11.0,67.37
+CUST000147,Ruben Davenport,Female,63,theresa70@example.net,(120)707-6420,Maryville,New Jersey,USA,54584,2022-11-13,Small Business,Call Center,ACH,37.1,53.19
+CUST000148,Seth Haynes MD,Other,42,bishopwilliam@example.net,+1-973-425-3138x3593,South Austinside,Louisiana,USA,71301,2022-10-12,Enterprise,Call Center,Wallet,37.8,42.94
+CUST000149,Chad Newman,Male,71,kendramorgan@example.net,484.492.5305,Jessicaton,Michigan,USA,20682,2020-08-11,Small Business,App,Wallet,33.5,47.38
+CUST000150,Richard Dennis,Female,69,beanthomas@example.com,+1-348-138-0564,Maryside,Illinois,USA,19765,2022-02-02,Small Business,Call Center,Card,27.4,37.47
+CUST000151,John Weeks,Male,35,rebekahanderson@example.net,7395871317,Carolinefort,West Virginia,USA,31179,2021-07-27,Small Business,App,ACH,21.4,48.01
+CUST000152,Bryan Kelly,Male,36,piercetanya@example.com,410-715-5106,North Sarah,Missouri,USA,32089,2021-11-05,Enterprise,Call Center,Card,27.8,14.02
+CUST000153,Sandra Porter,Male,59,gcalhoun@example.com,0390770310,New Robert,Ohio,USA,19042,2025-08-12,Residential,Call Center,Wallet,26.6,42.04
+CUST000154,Janice Quinn,Female,73,sandrathomas@example.net,683-030-9707,Millerfurt,Nebraska,USA,36412,2022-08-20,Small Business,Retail,Card,58.8,39.71
+CUST000155,Donna Bradley,Male,47,danielkim@example.org,+1-160-447-0939x8994,Sylviaview,Virginia,USA,77271,2024-05-24,Residential,Call Center,ACH,44.7,51.39
+CUST000156,Michael Ryan,Male,53,prodgers@example.com,575.931.0009,Christophermouth,Oregon,USA,33892,2020-05-10,Small Business,Web,Bank Transfer,42.4,23.68
+CUST000157,Michelle Roberts,Other,34,thomas69@example.com,(415)850-9194x712,Douglasville,Nevada,USA,42435,2025-03-27,Residential,Call Center,ACH,25.5,26.82
+CUST000158,Kimberly Hickman,Other,52,nathaniel59@example.org,451-783-4349x2327,North Katelynland,North Dakota,USA,66601,2024-11-21,Enterprise,Retail,Card,60.4,43.23
+CUST000159,Todd Holland,Female,26,ellen81@example.net,001-178-686-6282x26621,Blairville,Alaska,USA,41713,2024-01-06,Enterprise,Call Center,ACH,0.0,60.82
+CUST000160,Yvette Spears,Other,67,michellezimmerman@example.com,(138)645-4223,Martinezside,South Dakota,USA,75549,2022-10-11,Enterprise,App,ACH,47.2,5.0
+CUST000161,Joseph Hernandez,Male,55,gthompson@example.org,001-232-636-2175x78357,Amandaport,Maine,USA,97338,2023-01-27,Small Business,App,Wallet,46.0,39.51
+CUST000162,Corey Nguyen,Other,47,rfranklin@example.net,(109)990-7381,Port Sarah,Nebraska,USA,56891,2025-01-30,Residential,Web,ACH,61.9,23.7
+CUST000163,Ashley Spencer,Male,24,rebecca21@example.com,+1-517-912-1855x523,Coxfort,Georgia,USA,97509,2023-03-23,Enterprise,App,Bank Transfer,12.3,23.57
+CUST000164,Shannon Lopez,Other,41,phillipscurtis@example.com,+1-297-694-4666,Nathanville,Connecticut,USA,56390,2020-08-08,Enterprise,Web,Wallet,18.1,8.32
+CUST000165,Samuel Mccarthy,Other,21,lynnwilkinson@example.net,614.342.7907x1317,North Reginabury,Michigan,USA,46989,2023-01-31,Residential,App,Card,24.0,23.52
+CUST000166,Stephanie Montgomery,Female,71,youngjorge@example.org,673.125.5281x9119,Jacquelineview,Tennessee,USA,64977,2025-08-06,Small Business,Web,Bank Transfer,49.7,26.99
+CUST000167,Patrick Rhodes,Other,62,cbrooks@example.org,(197)636-6639x1693,Lake Diana,Florida,USA,64137,2024-10-21,Small Business,Call Center,Wallet,54.5,49.97
+CUST000168,Victoria Figueroa,Female,52,turnerbradley@example.net,001-248-467-8182,Williamborough,Ohio,USA,16376,2025-01-05,Small Business,Web,Wallet,33.1,91.03
+CUST000169,Autumn Rasmussen,Other,53,sheasue@example.net,001-789-540-3633x71717,West Courtney,Arizona,USA,09985,2025-10-19,Enterprise,Call Center,Wallet,13.7,36.63
+CUST000170,Marie Miller,Male,63,oashley@example.com,958.507.8305x77897,Port Cheyenne,Oregon,USA,01056,2024-07-20,Residential,Retail,Card,46.3,40.5
+CUST000171,David Odonnell,Female,45,tina88@example.net,876-573-4297x077,Thomastown,Idaho,USA,63020,2020-10-12,Enterprise,Web,Card,20.4,67.17
+CUST000172,Samantha Olsen,Male,32,elizabethowens@example.net,618-274-2244x3528,Brandonview,New Jersey,USA,71274,2025-07-10,Residential,App,Bank Transfer,5.6,17.07
+CUST000173,Mallory Nichols,Other,43,tommy16@example.com,001-849-436-5911x6618,Elizabethtown,Washington,USA,50013,2024-08-12,Enterprise,App,Wallet,84.0,38.81
+CUST000174,Aaron Jones,Female,31,johnsonkevin@example.org,653.603.8377,Kendraborough,Kentucky,USA,96106,2023-09-09,Residential,Web,Wallet,45.9,31.19
+CUST000175,Sheila Carrillo,Female,74,branchnathan@example.net,(467)071-0243x3596,Lake Latashaland,Pennsylvania,USA,73407,2025-05-26,Enterprise,Retail,ACH,66.3,10.97
+CUST000176,Lori Silva,Other,72,teresa87@example.com,(769)233-8998x1107,West Michaelchester,North Dakota,USA,52782,2021-12-05,Residential,App,ACH,37.8,16.84
+CUST000177,Corey Wallace,Other,19,adamsmichael@example.com,001-756-179-6319,East Bonnieland,Michigan,USA,99746,2020-07-09,Small Business,Web,Wallet,48.0,41.97
+CUST000178,Sean Vargas,Other,67,olee@example.com,699-919-2967,East Barbaraside,Oregon,USA,36854,2022-06-17,Residential,Retail,ACH,11.1,59.15
+CUST000179,Sara Perez,Male,24,scott20@example.net,909-062-0422,Port Gregory,Vermont,USA,17754,2024-09-27,Small Business,App,Bank Transfer,24.2,45.49
+CUST000180,Erin Duarte,Male,18,jasminetaylor@example.net,026.766.0565,Miaview,Nebraska,USA,64772,2020-10-17,Enterprise,Web,Wallet,0.0,63.51
+CUST000181,Ryan Gay,Male,27,feliciasanchez@example.com,+1-033-966-2981x67346,West Shelley,Georgia,USA,68419,2024-06-11,Residential,Web,Bank Transfer,45.4,30.1
+CUST000182,Kiara Estrada,Other,31,whitelaura@example.org,(785)238-5044x1031,Janicehaven,New York,USA,39685,2023-10-01,Enterprise,Call Center,Bank Transfer,19.5,81.28
+CUST000183,Joel Mills,Female,66,poolejenny@example.net,001-705-537-1365x702,Evansshire,Rhode Island,USA,74139,2025-10-21,Enterprise,Call Center,Card,45.1,42.07
+CUST000184,Paul Rodriguez,Male,68,mcdonaldmary@example.com,+1-014-400-3943x010,North Andre,North Carolina,USA,54990,2021-07-27,Small Business,Retail,Card,48.1,48.47
+CUST000185,Teresa Olsen,Other,51,robertsdaniel@example.com,743-380-6621x629,Kimberlyberg,Louisiana,USA,95966,2025-07-04,Small Business,App,Bank Transfer,23.2,35.57
+CUST000186,Gregory Bailey,Female,46,danny16@example.org,596.399.1406x855,Crossmouth,Nevada,USA,14235,2022-10-26,Enterprise,Call Center,Card,7.2,39.3
+CUST000187,Thomas Warren,Male,76,thomasjon@example.com,001-648-037-6032x00835,Tinaland,Ohio,USA,37116,2022-12-27,Small Business,App,Wallet,39.6,94.0
+CUST000188,Eddie Dawson,Other,22,showard@example.com,+1-828-009-9119x555,Port William,Louisiana,USA,07565,2022-12-12,Enterprise,Call Center,Wallet,35.1,99.54
+CUST000189,Luis Kelley,Male,23,pattersonjohn@example.org,2970875274,New Connorland,New York,USA,59801,2020-07-07,Small Business,Web,Card,51.3,17.71
+CUST000190,Jordan Ward,Other,41,jacksondavid@example.org,2615457477,Jessicaborough,California,USA,17366,2020-06-20,Enterprise,Call Center,ACH,3.7,28.79
+CUST000191,Joel Owens,Female,59,krystalfrazier@example.com,001-447-293-8137,West Alexmouth,Louisiana,USA,92516,2022-11-17,Small Business,App,Card,4.4,40.88
+CUST000192,Katie Jones,Male,33,craigfoster@example.com,744-196-1660x879,Ashleyton,Hawaii,USA,36790,2025-08-29,Residential,App,Wallet,51.9,65.7
+CUST000193,Amanda Adams,Female,67,lopezjuan@example.net,100-282-0885,South Emilytown,Nebraska,USA,64969,2020-10-16,Residential,App,Wallet,34.0,20.06
+CUST000194,John Johnson,Male,76,anthonyschmidt@example.net,635.167.3501x6945,Deborahchester,South Carolina,USA,15766,2022-04-10,Residential,Call Center,Bank Transfer,20.9,83.08
+CUST000195,Jason Mejia,Female,18,kelsey66@example.net,(807)969-6921x69335,East Carlton,Florida,USA,98737,2021-07-13,Enterprise,Web,ACH,22.7,44.62
+CUST000196,Theresa Smith,Female,63,priscillaconner@example.org,6457760297,Fullertown,Arizona,USA,46927,2022-10-08,Enterprise,Web,Bank Transfer,51.0,43.74
+CUST000197,John Simpson,Male,50,barberjustin@example.com,(474)430-0779x43578,West Sara,Colorado,USA,56922,2025-09-12,Enterprise,Call Center,ACH,27.9,69.56
+CUST000198,Thomas Joseph,Other,33,wagnermichael@example.net,(692)252-1827x445,Charlestown,Texas,USA,12990,2023-04-11,Small Business,Web,Bank Transfer,21.4,43.21
+CUST000199,Christina Porter,Other,50,michellepena@example.com,3305575494,Tammyberg,Indiana,USA,46168,2022-03-23,Residential,Web,ACH,22.0,52.55
+CUST000200,Brittany Butler,Other,70,nicole34@example.net,(814)589-2588x941,Barkertown,Louisiana,USA,38790,2025-07-29,Residential,Retail,Card,15.8,52.76
+CUST000201,Michael Robinson,Male,33,kylekennedy@example.com,662.353.0951x16831,Aliciaport,Texas,USA,75428,2025-08-22,Residential,Retail,ACH,29.4,74.67
+CUST000202,Alyssa Doyle,Female,18,aaroncook@example.com,624-129-5361x78298,West Katherinehaven,West Virginia,USA,23812,2020-06-12,Small Business,App,ACH,50.3,35.61
+CUST000203,Austin Payne,Other,25,robertgreene@example.com,676.050.6230x317,Donovanburgh,Maryland,USA,53690,2022-12-26,Enterprise,Call Center,Bank Transfer,26.5,56.37
+CUST000204,Juan Snyder,Female,23,gregoryrussell@example.org,437-288-2491,South Jeffery,Montana,USA,71404,2022-10-13,Small Business,Call Center,ACH,24.6,53.18
+CUST000205,Mrs. Diane Morrison,Male,40,ehester@example.org,001-943-479-9957x8465,South Brandiberg,New Mexico,USA,54280,2023-06-03,Enterprise,Call Center,Wallet,36.7,10.47
+CUST000206,Philip Johnson,Female,74,michael89@example.com,395.227.3276,West Lindsay,Delaware,USA,89564,2022-01-13,Small Business,Web,Card,28.2,38.73
+CUST000207,Adrian Moore,Male,64,laura25@example.net,001-561-189-8503x7298,East George,California,USA,60986,2025-06-22,Enterprise,Web,Card,29.1,64.2
+CUST000208,Jason Watts,Male,52,camposrobin@example.org,280.695.4925x4289,East Brian,Delaware,USA,81964,2025-01-11,Residential,Retail,Card,22.4,70.18
+CUST000209,Vanessa Kennedy,Other,42,chunter@example.org,086-612-8410,Donnaside,Nevada,USA,08977,2025-08-12,Small Business,Retail,Card,26.2,68.43
+CUST000210,Jessica Carpenter,Female,22,rodney14@example.net,3990154437,Laneberg,Illinois,USA,69195,2024-11-14,Residential,App,ACH,31.1,69.72
+CUST000211,Cynthia Guerra,Other,18,john34@example.org,839.182.2830x1844,Lake Christian,Nevada,USA,03827,2020-09-19,Small Business,Call Center,Wallet,38.8,41.38
+CUST000212,Derrick Schaefer,Male,74,williamsonsara@example.com,4469926340,Sanchezville,Arizona,USA,98055,2025-02-28,Small Business,Web,Wallet,1.7,38.46
+CUST000213,Donna Lopez,Other,78,fray@example.com,001-996-815-4791x84964,North Shanemouth,Colorado,USA,30273,2025-08-19,Enterprise,Web,ACH,33.0,38.28
+CUST000214,Amber Diaz,Other,77,vaughannicole@example.com,970-791-7813x641,Jenniferton,California,USA,31774,2023-05-21,Residential,App,Wallet,33.7,35.34
+CUST000215,Scott Dean,Other,49,keith40@example.com,054.529.8153,South Andrew,Illinois,USA,59621,2022-01-22,Residential,App,Card,26.7,40.09
+CUST000216,Cynthia Montoya,Male,52,johnny06@example.org,637-049-1127x131,West Heatherport,Alaska,USA,73811,2021-05-26,Small Business,Call Center,Card,21.2,79.78
+CUST000217,James Acevedo,Other,64,wmullins@example.net,6683534667,North Kimberlymouth,Arkansas,USA,27338,2020-10-16,Small Business,Web,ACH,31.7,52.47
+CUST000218,Jordan Smith,Other,50,sarah63@example.net,+1-525-390-3120x23002,Cameronburgh,Alabama,USA,59405,2024-07-28,Small Business,Retail,Bank Transfer,39.9,76.0
+CUST000219,Misty Alvarez,Female,62,njohnson@example.com,075-205-5550x12181,New Sarahview,New Hampshire,USA,87375,2020-12-15,Small Business,App,Wallet,24.0,62.79
+CUST000220,Christopher Smith,Male,62,hansengeorge@example.net,+1-840-156-4696,East Kaylachester,Colorado,USA,74038,2020-11-21,Enterprise,Call Center,ACH,22.4,69.8
+CUST000221,Christina Wells,Other,40,gcummings@example.com,051.397.6068x869,Lindaborough,South Carolina,USA,32131,2022-10-15,Residential,Call Center,Wallet,43.8,44.5
+CUST000222,Stephanie Welch,Other,46,dawnmelton@example.org,+1-324-074-6726x80706,Danielton,Oregon,USA,88759,2021-09-01,Enterprise,Call Center,Card,26.3,68.36
+CUST000223,Curtis Johnson,Male,79,curtismark@example.net,8165465127,Theresaberg,Connecticut,USA,24010,2025-07-02,Enterprise,Retail,ACH,73.3,66.34
+CUST000224,Robin Bond,Male,47,daysarah@example.com,(667)419-4629,Hardingfort,Oregon,USA,71933,2023-07-24,Small Business,Web,Wallet,69.3,30.35
+CUST000225,Amy Ward,Other,62,millerryan@example.net,(135)740-5756x3215,East Stephanie,Iowa,USA,67074,2020-08-09,Residential,Retail,Bank Transfer,14.4,37.5
+CUST000226,Stephen Brooks,Other,38,alexanderjoshua@example.net,839-734-6067x486,Brianchester,Montana,USA,97819,2024-03-07,Residential,App,Bank Transfer,22.1,62.66
+CUST000227,Lisa White,Other,27,angela65@example.org,578.082.7436,Jasonstad,Utah,USA,78180,2024-05-24,Small Business,Web,Card,53.6,39.3
+CUST000228,Mary Allison,Female,75,jnguyen@example.org,867.467.9184x35479,Costafurt,Colorado,USA,38335,2021-09-01,Small Business,Retail,Wallet,6.2,41.53
+CUST000229,Stephanie Newman,Female,23,hornaaron@example.com,+1-997-569-0099,Joanside,West Virginia,USA,20267,2025-08-29,Residential,Retail,Wallet,29.2,47.62
+CUST000230,Paul Patel,Male,45,paul26@example.com,(407)880-2008x129,Lake Anna,Kentucky,USA,26409,2024-05-24,Enterprise,Web,Card,44.2,40.15
+CUST000231,Mike Hawkins,Other,59,melissabrown@example.org,001-086-324-2137x63202,New Kristashire,Massachusetts,USA,44558,2024-04-28,Residential,Web,Wallet,22.8,49.01
+CUST000232,Laura Hicks,Male,30,christinanichols@example.org,(809)309-7909x16138,Michaelshire,Arizona,USA,06907,2022-02-22,Small Business,Retail,Bank Transfer,3.9,51.35
+CUST000233,Wendy Rose,Male,48,ytaylor@example.net,+1-968-131-6997x187,Lindseyborough,Missouri,USA,53624,2022-08-19,Enterprise,Call Center,Bank Transfer,39.6,41.95
+CUST000234,Jeffrey Haynes,Female,29,lle@example.org,(255)857-7169x7049,South Danielleberg,Vermont,USA,84368,2024-04-07,Enterprise,Retail,Card,44.7,47.01
+CUST000235,Suzanne Garcia,Female,27,jhayes@example.com,108-207-4538x879,Millershire,North Dakota,USA,85808,2021-11-29,Small Business,Call Center,Bank Transfer,28.5,18.22
+CUST000236,Scott Carter,Female,68,mark80@example.com,(488)401-2260x40281,Lake Davidshire,Wisconsin,USA,11968,2020-01-23,Enterprise,Call Center,ACH,0.0,71.29
+CUST000237,James Ramirez,Male,52,tiffany30@example.net,+1-940-273-9150x791,North Philip,Maine,USA,18157,2020-11-01,Enterprise,Retail,ACH,53.5,44.24
+CUST000238,Michele Ward,Male,49,ufrank@example.net,121-539-3091,South Patrick,Wisconsin,USA,08495,2023-04-16,Small Business,Call Center,Bank Transfer,15.4,72.03
+CUST000239,Timothy Little,Other,38,andrew12@example.org,654.337.1020x524,East Christina,Washington,USA,62222,2022-04-16,Small Business,App,ACH,27.5,38.58
+CUST000240,Julie Riddle,Male,21,mendozachristopher@example.org,696.063.8060,New Michelle,Colorado,USA,30697,2024-07-02,Small Business,App,Wallet,7.0,23.56
+CUST000241,Nathan Sanchez,Male,41,spencernancy@example.com,402.561.9804x71385,South Justinfurt,Nebraska,USA,43248,2022-09-30,Enterprise,Call Center,ACH,27.1,44.87
+CUST000242,Angelica Brooks,Male,22,williammoran@example.org,+1-861-708-5567x678,Matthewmouth,Delaware,USA,60729,2024-08-17,Residential,App,Card,53.2,35.49
+CUST000243,Kara Long,Other,19,colenicholas@example.org,+1-482-661-7403x0965,North Robert,Georgia,USA,70903,2024-09-20,Residential,Web,Wallet,44.1,75.82
+CUST000244,Jesus Morgan,Male,40,matthew18@example.com,(024)000-8529x55654,Cannonborough,Pennsylvania,USA,38599,2024-12-16,Enterprise,Retail,Card,25.7,56.26
+CUST000245,Billy Jackson,Female,59,zkirk@example.org,(985)983-5009x1056,Taylormouth,Utah,USA,70398,2024-03-10,Residential,App,Bank Transfer,29.0,18.41
+CUST000246,Deborah Peck,Other,62,laurenbarker@example.com,+1-209-187-1886x43634,Lake Nicholas,Mississippi,USA,32964,2025-06-13,Residential,Call Center,Bank Transfer,23.4,29.12
+CUST000247,Michael Adams,Other,66,lisamiller@example.org,398.781.6587x94084,New Christinaside,Oklahoma,USA,41299,2020-07-04,Small Business,Call Center,Bank Transfer,43.7,58.39
+CUST000248,Joseph Wheeler,Male,28,joseph20@example.com,489.262.9105,Johnsonfurt,Wisconsin,USA,63319,2020-11-07,Small Business,Retail,Wallet,0.0,31.69
+CUST000249,Brian Moran,Female,46,lisaharris@example.org,4766877636,Smithmouth,Kansas,USA,57003,2023-08-11,Residential,Web,Wallet,46.1,11.24
+CUST000250,Erika Williams,Other,27,maystephanie@example.com,615-396-4230x8137,Patriciaton,New York,USA,95514,2023-01-24,Enterprise,Call Center,Bank Transfer,43.5,10.65
+CUST000251,Katie Taylor,Male,68,fburke@example.net,+1-624-228-7880x991,North Robertside,Texas,USA,67444,2025-04-15,Small Business,Web,Wallet,56.7,47.66
+CUST000252,Michael Murillo,Male,28,nguyenemily@example.net,(664)781-4533x9876,Lake Steven,Idaho,USA,76041,2023-01-18,Residential,Retail,Card,11.3,23.64
+CUST000253,Donna Turner,Male,60,jared44@example.org,775.460.3386x65243,East Michelle,New Mexico,USA,64692,2024-11-13,Residential,Retail,ACH,26.6,40.34
+CUST000254,Jennifer Rodriguez,Female,64,davisbianca@example.com,3368151335,Kruegerchester,Louisiana,USA,85219,2021-01-16,Enterprise,App,Bank Transfer,49.8,49.76
+CUST000255,Michael Hill,Other,29,ebony94@example.org,890.443.9866,South Ashley,Indiana,USA,97534,2024-12-17,Residential,Call Center,Wallet,39.3,55.17
+CUST000256,Suzanne Perry,Other,72,kimberly36@example.org,659-955-2921,Lisatown,Massachusetts,USA,82782,2020-04-30,Small Business,Retail,ACH,54.9,52.8
+CUST000257,Kevin Ellis,Other,51,kli@example.com,895-200-2100,North Carolfurt,Arizona,USA,99330,2020-09-19,Enterprise,Retail,Card,12.7,8.79
+CUST000258,Christina Porter,Other,57,david92@example.org,(303)649-5051x019,West Hayden,Rhode Island,USA,28346,2021-01-25,Residential,App,ACH,55.9,59.34
+CUST000259,Gwendolyn Edwards,Female,46,muellermadison@example.org,532.492.9771x2397,South Amanda,Massachusetts,USA,69319,2020-06-21,Enterprise,Call Center,Card,19.9,38.27
+CUST000260,Jeremy Ward,Other,59,amckinney@example.com,001-109-216-4957,Mooreberg,Wisconsin,USA,45368,2021-12-14,Residential,Call Center,Bank Transfer,51.2,16.79
+CUST000261,Jordan Robles DDS,Male,18,jonathanleon@example.org,007-810-8841,Kellybury,Nevada,USA,79783,2021-03-03,Residential,Call Center,Card,39.8,16.68
+CUST000262,Steven Young,Other,32,sfoster@example.net,896.444.4065x2907,Lake Benjamin,Rhode Island,USA,69839,2021-06-01,Small Business,Web,Bank Transfer,0.0,48.08
+CUST000263,John Martinez,Male,57,james37@example.net,001-490-784-5043x1527,West Michaelstad,Nebraska,USA,38106,2024-01-21,Small Business,Web,ACH,42.0,56.19
+CUST000264,William Martinez,Male,50,jasonhudson@example.org,001-501-296-8676,Lake Robertview,Utah,USA,86891,2022-01-17,Small Business,App,Bank Transfer,8.4,76.47
+CUST000265,Sandra Martinez,Male,50,craigmccarty@example.net,486.943.2143,Gilberthaven,Wyoming,USA,53922,2024-01-15,Enterprise,App,Wallet,9.6,43.05
+CUST000266,Lindsey Bailey,Male,64,jamesortega@example.org,(199)456-6498x09732,Port Lacey,Mississippi,USA,12748,2023-09-12,Residential,Call Center,Bank Transfer,24.6,75.5
+CUST000267,Nicholas Allen,Female,20,uspears@example.org,(412)172-5416x04981,North Juliaberg,West Virginia,USA,16983,2025-01-22,Enterprise,App,Card,32.2,73.24
+CUST000268,Darlene Crawford,Male,66,john10@example.com,137-230-7854x715,Jenniferview,Alaska,USA,75519,2020-07-14,Enterprise,App,Bank Transfer,0.0,56.78
+CUST000269,Bonnie Kim,Female,64,jessepratt@example.com,001-718-365-3446x910,Port Beverlyberg,Alabama,USA,12471,2022-01-13,Small Business,Call Center,Bank Transfer,0.0,47.25
+CUST000270,Kevin Valdez,Female,36,jeff83@example.net,686-361-6032x19553,North Lauren,Maryland,USA,57797,2023-02-05,Enterprise,App,Bank Transfer,28.5,23.41
+CUST000271,Robert Wright,Female,73,hawkinsthomas@example.com,(282)858-2279,Perryport,Illinois,USA,78970,2024-12-01,Residential,App,Card,66.0,46.69
+CUST000272,Martin Hernandez,Male,21,eric76@example.net,001-018-183-7226x9175,Port Ricardo,Delaware,USA,11872,2021-04-23,Residential,App,Wallet,47.6,76.61
+CUST000273,Rhonda Higgins,Other,33,cindy55@example.com,(298)195-5610x3546,Port Thomasmouth,California,USA,51696,2025-09-15,Small Business,App,Wallet,6.7,58.17
+CUST000274,Matthew Merritt,Female,30,hendersonjames@example.net,499-682-7231,Staceyville,Oklahoma,USA,90746,2025-01-25,Residential,App,Card,47.1,51.91
+CUST000275,Edward Lee,Male,18,brooksthomas@example.com,836.101.1136,North Molly,Nebraska,USA,56091,2020-07-12,Enterprise,Retail,Bank Transfer,50.5,72.7
+CUST000276,Thomas Dunlap,Male,29,jessedennis@example.com,001-160-112-6593x8435,Port Danafurt,West Virginia,USA,98483,2024-05-29,Residential,App,Card,8.7,52.62
+CUST000277,Christopher Rodgers,Male,44,webbjennifer@example.org,7270244453,Jonview,Kansas,USA,82891,2021-09-08,Small Business,Retail,Bank Transfer,45.8,18.75
+CUST000278,Candace Valencia,Male,41,tina34@example.org,(300)761-1490,Williamsstad,Texas,USA,65371,2024-02-04,Residential,App,Bank Transfer,51.0,82.11
+CUST000279,Carl Rodriguez,Male,48,jaredhogan@example.net,(922)705-8810x784,Gutierrezmouth,Texas,USA,62910,2020-05-18,Small Business,Call Center,Bank Transfer,0.0,62.63
+CUST000280,Angel Wilson,Female,19,stephaniegonzalez@example.org,+1-789-083-4536x89283,East Stephanie,Arkansas,USA,59891,2022-11-15,Residential,Call Center,ACH,41.1,90.4
+CUST000281,Robert Lopez,Other,19,zross@example.net,111-091-9694,Amyhaven,New Mexico,USA,14089,2022-12-14,Enterprise,Retail,Bank Transfer,23.1,42.94
+CUST000282,Anna King,Other,38,elizabethreynolds@example.org,642.070.9064,East Tylerside,Washington,USA,13705,2023-08-27,Enterprise,Call Center,Bank Transfer,45.1,16.1
+CUST000283,Jeremy Austin,Female,41,gwebb@example.org,001-900-404-1265,West Troy,Iowa,USA,69320,2025-09-17,Residential,Retail,Wallet,6.7,24.5
+CUST000284,Amanda Beltran,Male,63,wayneboyd@example.net,346.901.0785x6856,Ryanview,Vermont,USA,18437,2024-08-20,Small Business,Web,Wallet,40.6,43.66
+CUST000285,John Wright,Female,25,derekali@example.com,256.245.6001,Lake Brandybury,Virginia,USA,30070,2020-11-14,Residential,Web,Bank Transfer,0.0,72.23
+CUST000286,Melissa Johnson,Other,43,sstewart@example.net,071-363-0723,Port Jorgeland,Washington,USA,83961,2025-02-01,Enterprise,Retail,Card,32.1,52.22
+CUST000287,Mrs. Jennifer Gross,Female,24,derrickbrown@example.org,313.669.8839,North Georgemouth,Iowa,USA,32389,2024-10-03,Enterprise,Web,ACH,30.2,19.43
+CUST000288,Richard Lopez,Female,72,tracey40@example.net,002-000-4838x4406,Randallview,West Virginia,USA,74146,2025-05-25,Small Business,App,Wallet,54.1,56.04
+CUST000289,Michael Gonzalez,Male,32,ytaylor@example.org,(589)453-4266,North Briannaton,Hawaii,USA,40981,2020-04-13,Small Business,Call Center,Card,34.2,37.88
+CUST000290,Miranda Carpenter,Female,31,deaton@example.com,828-687-2139,Port Timothyhaven,North Dakota,USA,18968,2024-07-04,Enterprise,App,ACH,0.0,59.79
+CUST000291,Patricia Rogers,Male,65,allenlouis@example.org,(748)533-8695,Kennethport,Tennessee,USA,04743,2024-04-02,Small Business,Web,Card,0.0,60.71
+CUST000292,Bianca Terry,Female,63,hollowaylinda@example.org,383.753.3196,Porterbury,Pennsylvania,USA,32620,2025-08-18,Enterprise,Retail,ACH,14.4,35.47
+CUST000293,John Walker,Other,64,rachelwilson@example.com,(867)025-8386x179,South Kennethton,Nevada,USA,54079,2023-02-22,Enterprise,Web,ACH,6.9,68.71
+CUST000294,Ashley Simon,Female,49,leejames@example.net,034-640-1605,Mckenzieshire,Minnesota,USA,83402,2021-01-12,Residential,Retail,ACH,45.3,67.77
+CUST000295,Jason Francis,Female,30,rebeccatodd@example.com,581-628-3115x157,South Wendy,Illinois,USA,99822,2023-03-03,Enterprise,Call Center,Bank Transfer,17.5,24.38
+CUST000296,Jocelyn Hines,Other,74,boydjoseph@example.net,(751)353-2423x008,Justinshire,South Dakota,USA,86123,2024-04-03,Residential,Retail,Bank Transfer,39.9,112.35
+CUST000297,Patty Mccarthy,Female,19,sarah20@example.net,416-583-9969x158,West Joshuaberg,California,USA,45628,2025-03-05,Enterprise,Call Center,Card,34.3,15.25
+CUST000298,Dr. Casey Mcfarland,Female,46,ernestfrey@example.net,(188)033-2797,Port Tiffany,Massachusetts,USA,87953,2022-11-22,Small Business,Call Center,Wallet,24.6,73.77
+CUST000299,Bryan Martin,Other,31,barkerbryce@example.com,697-025-1806,Lake Stevenport,Minnesota,USA,78580,2023-04-02,Enterprise,App,Wallet,15.3,20.01
+CUST000300,Allen Torres,Female,26,wbrown@example.com,001-183-355-0909x008,Lake Ritamouth,Oklahoma,USA,11066,2025-04-14,Residential,App,Bank Transfer,31.7,25.53
+CUST000301,Anna Fisher,Other,30,villaandrew@example.net,+1-603-686-1347x027,Port Jonathanburgh,Montana,USA,33359,2022-05-09,Enterprise,App,Wallet,28.3,49.12
+CUST000302,Dustin Garcia,Male,30,chelseanguyen@example.org,977.963.7128x6828,Solomonton,Montana,USA,48777,2023-02-27,Small Business,Web,Bank Transfer,14.1,61.98
+CUST000303,Kyle Evans,Female,64,christopherhall@example.com,271-614-9798,Kimberlyborough,South Carolina,USA,11470,2021-08-17,Small Business,App,Wallet,54.3,29.44
+CUST000304,Jason Juarez,Male,27,kimberlyharris@example.org,994-802-8192,Lake Williamchester,New Jersey,USA,19605,2021-01-10,Residential,Retail,Bank Transfer,28.3,53.85
+CUST000305,Lisa Hughes DDS,Other,42,jodi09@example.net,2808249959,Sharonville,New Hampshire,USA,16561,2024-09-28,Small Business,Call Center,ACH,35.9,70.38
+CUST000306,Kirk Silva,Other,18,matthew81@example.org,427.720.2592,Christophertown,Connecticut,USA,28312,2020-07-21,Enterprise,Retail,Wallet,50.8,41.31
+CUST000307,Joshua Floyd,Other,21,zmichael@example.org,001-539-234-8052,New Elizabeth,Maine,USA,57303,2023-04-03,Residential,Call Center,Card,34.5,45.95
+CUST000308,Thomas Johnson,Male,79,pcollier@example.org,(848)335-6229,Melissaport,Michigan,USA,68165,2025-10-24,Small Business,Call Center,Wallet,60.6,55.27
+CUST000309,Christina Neal,Other,51,pettyjessica@example.net,+1-474-463-3752x2791,Port Adrianaview,Arizona,USA,18715,2020-11-12,Enterprise,Web,Card,38.0,53.45
+CUST000310,Joseph Hinton,Female,52,jenniferallen@example.com,3828570524,West James,Maine,USA,76755,2021-09-07,Residential,App,ACH,35.3,48.35
+CUST000311,Cheryl Myers,Female,26,shaunvelazquez@example.net,(280)188-9281,Evansborough,South Carolina,USA,24366,2023-10-08,Small Business,Retail,ACH,45.4,51.94
+CUST000312,Tonya Sanford,Other,57,kingjames@example.org,458.059.1258x553,West Meganmouth,Oregon,USA,24844,2024-10-24,Residential,Web,Card,15.6,40.29
+CUST000313,Bernard Farrell,Male,19,linda23@example.net,+1-578-206-9937x45900,Scottstad,North Carolina,USA,75492,2022-08-14,Enterprise,Web,Bank Transfer,33.1,75.06
+CUST000314,Christina Shelton,Other,54,dhale@example.com,001-065-075-0077x87131,Port Christianborough,West Virginia,USA,93150,2025-06-17,Small Business,Web,Card,45.4,86.02
+CUST000315,Joanne Wilson,Female,29,sross@example.net,+1-390-792-5879,Wrightton,Illinois,USA,54938,2024-04-13,Residential,Call Center,Card,62.4,54.14
+CUST000316,Michael Snyder,Other,39,williamsjamie@example.net,(229)910-7874x9880,South Lauraview,Illinois,USA,75371,2023-05-19,Small Business,App,Wallet,33.6,26.28
+CUST000317,Benjamin Dunlap,Male,35,tracey83@example.com,749.266.1850,Brianmouth,Washington,USA,66766,2024-02-24,Enterprise,Web,Wallet,15.4,65.09
+CUST000318,Shawn Bailey,Female,36,frankjessica@example.com,(479)249-6144,Alvarezton,Florida,USA,15321,2022-04-17,Small Business,Retail,Card,18.6,38.89
+CUST000319,Patricia Smith,Other,48,bcastro@example.com,297.603.6863x7831,Port Michelle,North Carolina,USA,16288,2020-08-13,Residential,Call Center,Bank Transfer,40.3,70.72
+CUST000320,Zachary Jones,Male,24,patriciaparker@example.org,001-117-381-1608x136,Juliestad,Idaho,USA,64879,2025-07-15,Small Business,App,Wallet,11.6,37.12
+CUST000321,Ryan Spencer,Female,27,emily04@example.com,(774)404-0501x563,Dorseyfurt,North Dakota,USA,56958,2024-05-24,Residential,Web,ACH,0.0,48.0
+CUST000322,Elizabeth Palmer,Female,26,marcus65@example.com,070-681-7431,West Joyce,Idaho,USA,51046,2022-11-09,Small Business,Web,ACH,30.8,38.38
+CUST000323,James Garcia,Other,26,vaughnlauren@example.com,001-755-554-8845x3432,North Mauriceland,Wisconsin,USA,93769,2025-10-31,Enterprise,App,Bank Transfer,0.0,65.22
+CUST000324,Melissa Cooper,Female,28,cynthiatownsend@example.com,(227)575-3602x930,Gonzalezton,Tennessee,USA,01650,2024-10-13,Residential,Retail,Wallet,53.6,51.41
+CUST000325,Nathan Kelly,Male,39,josephnunez@example.org,1928552521,South Eugenebury,Alabama,USA,77549,2023-05-26,Small Business,App,Card,50.2,47.62
+CUST000326,Roberta Jones,Male,73,waltersvalerie@example.net,815-193-0237,Roseshire,Florida,USA,19361,2022-02-17,Small Business,App,Wallet,19.9,29.14
+CUST000327,Martha Lucas,Female,53,ann17@example.net,432-304-0615,Hollyburgh,Montana,USA,51128,2020-07-17,Small Business,Call Center,Wallet,40.6,59.93
+CUST000328,Glenn Thompson,Other,18,williamssherri@example.com,141.569.1214x745,Port Meganland,Ohio,USA,89722,2022-01-08,Small Business,Web,ACH,41.8,57.85
+CUST000329,Carol Keller,Female,52,noblepreston@example.com,+1-494-443-0451x54931,West Carolyn,Nevada,USA,73849,2020-11-05,Small Business,Retail,Card,28.6,66.77
+CUST000330,Robert Campos,Male,35,james71@example.net,001-883-458-5171x42047,West Kimberlybury,New Mexico,USA,90946,2025-04-25,Enterprise,App,Card,22.0,42.36
+CUST000331,Andrew Horton,Female,43,smithandrew@example.com,675.827.0957,Anthonyfurt,South Carolina,USA,29024,2021-08-11,Residential,Call Center,ACH,30.3,24.6
+CUST000332,John Turner,Female,29,afisher@example.net,5345945583,Dudleyton,Utah,USA,73157,2022-07-19,Small Business,Call Center,ACH,65.4,57.22
+CUST000333,Sharon Gallegos,Male,68,richardgreen@example.net,001-541-284-4870x2028,Lake Marissaport,Iowa,USA,67507,2022-07-31,Small Business,Call Center,Wallet,2.7,34.14
+CUST000334,Katherine Hudson,Other,52,martin17@example.com,782-089-5609x07143,Johnport,Vermont,USA,08130,2024-06-11,Small Business,Web,Bank Transfer,27.5,45.36
+CUST000335,James Edwards,Male,28,daviddean@example.net,131.540.9244x01723,Stephanieburgh,Alabama,USA,30427,2024-04-22,Residential,App,Card,26.0,37.5
+CUST000336,Jeffrey Hodges,Other,38,greenedouglas@example.com,(236)057-5213x80379,South Stacyland,Oklahoma,USA,11260,2020-01-08,Enterprise,App,ACH,5.5,30.93
+CUST000337,April Jones,Male,53,michaelabbott@example.com,959-353-4330,Port Jeffery,Virginia,USA,44513,2023-05-14,Residential,Web,Card,2.8,19.86
+CUST000338,Timothy Clarke,Male,30,joymckinney@example.org,831.584.7361x487,West Janet,California,USA,40958,2023-11-03,Enterprise,App,Bank Transfer,39.1,70.37
+CUST000339,Courtney Pratt,Male,37,david19@example.net,(503)246-6116,Carneyfort,Indiana,USA,04591,2024-11-08,Enterprise,Retail,Bank Transfer,18.4,65.59
+CUST000340,Daniel Davis,Male,24,brice@example.com,001-681-266-4377,Paulstad,Idaho,USA,74990,2020-04-21,Residential,App,Wallet,42.5,41.82
+CUST000341,Jennifer Sanchez,Female,25,johnsonkenneth@example.org,464-085-3807,South Nancy,Texas,USA,19014,2021-11-15,Small Business,Call Center,ACH,21.3,64.08
+CUST000342,Darlene Everett,Female,49,igomez@example.com,818-812-1615x9167,Lake Nicole,New Mexico,USA,86115,2025-03-19,Enterprise,App,ACH,85.7,68.42
+CUST000343,Jennifer Simon,Male,35,rodriguezkyle@example.org,7892380620,Robinsonmouth,California,USA,88273,2021-08-20,Small Business,App,Wallet,74.3,11.39
+CUST000344,Ronald White,Female,32,michael52@example.org,340.764.5725,Lake Douglas,Pennsylvania,USA,71025,2021-07-18,Residential,Web,Wallet,25.2,37.87
+CUST000345,Cheryl Dean,Other,67,thomasramirez@example.org,587.493.9292,South Lisastad,Indiana,USA,10612,2023-06-16,Enterprise,Retail,Bank Transfer,18.0,37.15
+CUST000346,Chad Molina,Other,28,jonessarah@example.net,319-805-5139x1735,Tamimouth,New York,USA,46136,2021-07-16,Small Business,Retail,ACH,11.2,24.82
+CUST000347,Andrew Gaines,Other,19,lparker@example.org,733.428.4521x6835,West Steven,Mississippi,USA,71797,2021-11-24,Enterprise,Web,Card,56.3,42.24
+CUST000348,Joyce Harvey,Other,53,thomas27@example.org,001-306-353-0490x80482,West Xavier,Wyoming,USA,48447,2023-10-28,Residential,App,Card,25.6,67.87
+CUST000349,Julie Gallegos,Male,28,ashley19@example.com,(372)369-0613x87025,Lake Curtisport,Idaho,USA,97132,2021-01-02,Enterprise,Retail,Card,16.6,28.67
+CUST000350,Thomas Rios,Other,28,johnsonhannah@example.net,001-428-841-3062x71402,Jonesmouth,Alaska,USA,71013,2021-12-14,Enterprise,Call Center,Card,50.0,5.0
+CUST000351,Andrew Dawson,Female,72,tinabarr@example.net,001-344-973-2333x187,East Heather,Arizona,USA,53065,2020-06-26,Residential,App,Wallet,0.0,73.08
+CUST000352,Mary Ortiz,Female,53,david87@example.com,(081)680-7554,Gloriaton,Louisiana,USA,09766,2024-05-26,Small Business,App,Card,12.2,35.15
+CUST000353,Breanna Moore,Other,64,nbarker@example.com,233.105.3099x949,Mendezberg,Colorado,USA,07837,2024-10-19,Residential,Call Center,Bank Transfer,11.6,52.07
+CUST000354,Anthony Anderson,Other,53,parkerjim@example.org,385-823-0596,Laurenview,Massachusetts,USA,27468,2021-06-04,Enterprise,Retail,Card,5.4,35.17
+CUST000355,Jesse Hernandez,Other,62,nicole62@example.org,172.628.1714,Ryanbury,South Carolina,USA,43696,2022-08-23,Small Business,Web,Bank Transfer,37.1,5.0
+CUST000356,Penny Moore,Other,47,camposluke@example.com,3844392132,Timothyberg,Louisiana,USA,21224,2020-12-28,Residential,Call Center,ACH,19.7,35.31
+CUST000357,Ryan Warren,Other,57,nathanielgriffin@example.org,001-611-428-2308x50921,Marymouth,Louisiana,USA,20899,2023-07-21,Enterprise,Web,ACH,54.4,37.88
+CUST000358,Jasmine Allen,Other,37,tgreen@example.net,(499)631-3143x3940,Lucastown,Missouri,USA,00639,2020-12-04,Enterprise,App,Bank Transfer,52.0,20.3
+CUST000359,Tyler Hester,Female,34,peggy39@example.com,(147)445-6924x58961,Sandersberg,New Mexico,USA,21643,2023-01-23,Residential,Call Center,Wallet,61.2,33.82
+CUST000360,Connie Golden,Female,45,michael48@example.net,9747517175,Monicabury,Rhode Island,USA,71529,2021-10-17,Small Business,Web,ACH,55.6,5.0
+CUST000361,Shawn Johnson,Female,51,tmorris@example.org,+1-492-654-4212x7091,West Hollymouth,Virginia,USA,91217,2022-06-08,Residential,Call Center,ACH,53.5,22.68
+CUST000362,Patrick Campbell,Female,69,barbara42@example.org,5184085151,South Josephhaven,Minnesota,USA,22358,2020-02-15,Residential,Web,ACH,32.3,44.71
+CUST000363,Gabrielle Mason,Other,20,vbrock@example.org,+1-372-745-5312,East Dana,Oklahoma,USA,47377,2022-04-04,Small Business,App,Bank Transfer,43.8,65.42
+CUST000364,Valerie Scott,Other,77,sarahkelly@example.com,288-379-1068x57758,Shafferton,Kentucky,USA,56714,2022-12-03,Enterprise,Web,Bank Transfer,0.0,37.06
+CUST000365,Todd Williams,Other,23,zburns@example.com,(807)354-2391,Port Cynthiamouth,Montana,USA,17905,2025-09-27,Residential,Call Center,Wallet,42.6,75.0
+CUST000366,Sarah Yoder,Male,80,bsmith@example.com,+1-340-465-3140x2510,New Shannonhaven,Oregon,USA,37993,2025-05-13,Residential,Call Center,Wallet,29.9,41.66
+CUST000367,Stacy Smith,Male,66,khess@example.org,001-557-061-4792,Crystalchester,Pennsylvania,USA,28041,2023-04-07,Small Business,Call Center,ACH,52.6,35.61
+CUST000368,Hunter Morrison,Other,26,doughertyjohn@example.net,853.829.5217,West Juliaburgh,Montana,USA,46026,2021-05-16,Small Business,Web,Wallet,22.7,14.13
+CUST000369,Amy Castro,Other,55,lorimoore@example.org,+1-791-759-8903x97556,Lake Andrea,New Hampshire,USA,85741,2023-06-25,Residential,App,Card,34.2,42.3
+CUST000370,Jamie Mcgee,Male,32,brandon09@example.net,001-322-937-0349,West Kevin,New Hampshire,USA,50771,2022-02-21,Enterprise,Call Center,Card,18.4,51.55
+CUST000371,Cynthia Savage,Female,75,changryan@example.com,+1-806-325-2786x01517,Nataliefort,Illinois,USA,36910,2025-04-17,Enterprise,Retail,Bank Transfer,0.0,12.0
+CUST000372,Tamara Martin,Male,76,jennifer53@example.net,(312)291-2278,North Erika,Alabama,USA,07016,2023-05-17,Enterprise,Web,Bank Transfer,10.3,12.68
+CUST000373,Mark Zamora,Male,44,steven67@example.net,(828)277-0008x04129,North Michaelmouth,Iowa,USA,84582,2021-06-14,Enterprise,Call Center,ACH,54.0,37.02
+CUST000374,Daniel Whitney,Male,52,cmason@example.net,001-238-448-0435x43235,Port Tina,Montana,USA,26617,2025-08-20,Enterprise,Web,Wallet,27.0,53.37
+CUST000375,Melissa Watts,Female,47,rebecca52@example.net,(575)991-6479x8012,Williamsbury,Pennsylvania,USA,18054,2020-01-11,Enterprise,Web,Card,21.9,17.05
+CUST000376,Valerie Ross,Male,72,pattersonmonica@example.net,324.183.3066,Clarkberg,New Jersey,USA,19094,2020-12-09,Small Business,Call Center,ACH,0.0,68.9
+CUST000377,Manuel Gonzalez,Other,33,ecooper@example.com,3447939523,New Matthewfort,New York,USA,52675,2020-02-05,Small Business,Web,Wallet,51.9,62.6
+CUST000378,Jordan Ward,Other,65,william00@example.org,(368)348-6505,Kevinchester,Florida,USA,21262,2023-03-31,Residential,App,Wallet,21.3,38.4
+CUST000379,Tammy Taylor,Other,42,mshelton@example.com,001-455-903-7922,Lake Katherine,Kansas,USA,75705,2024-04-19,Small Business,Call Center,Bank Transfer,38.3,32.55
+CUST000380,Larry Robinson,Other,34,connor93@example.com,059.542.1272x25633,Port Christine,Rhode Island,USA,93507,2021-10-09,Residential,Call Center,Bank Transfer,35.5,53.62
+CUST000381,Karen Hill,Other,56,jessicaliu@example.net,724.666.0966x24615,Lake Jennifer,Rhode Island,USA,65145,2022-02-02,Small Business,Call Center,ACH,18.3,48.1
+CUST000382,Eric Solis,Female,51,anitasmith@example.net,(204)488-4338x8448,East William,New Hampshire,USA,53409,2025-08-31,Small Business,Call Center,Bank Transfer,16.6,59.55
+CUST000383,Carolyn Campbell,Other,26,calvin30@example.com,(253)224-2669,Kennedyborough,Tennessee,USA,78089,2025-01-10,Residential,Call Center,Bank Transfer,54.0,60.94
+CUST000384,Danny Guzman,Other,69,brownjason@example.net,900.364.8080x974,Benjaminshire,Vermont,USA,31184,2024-11-17,Small Business,App,ACH,52.5,51.07
+CUST000385,Jeffery Williams,Female,24,longraymond@example.org,001-934-403-8798x8912,Desireebury,Indiana,USA,46559,2025-02-08,Enterprise,App,Wallet,0.0,50.83
+CUST000386,Leah Moore,Male,76,npowell@example.com,225-556-2712x395,South Bonnie,Mississippi,USA,88062,2022-07-29,Residential,Web,Bank Transfer,61.2,29.26
+CUST000387,Jessica Bowers,Male,49,parkerkrystal@example.org,+1-027-518-4008,Port Becky,New Hampshire,USA,24524,2021-02-28,Residential,Web,Card,40.8,41.22
+CUST000388,Nicole Ware,Male,76,john20@example.com,622.484.9559,Davisland,Wyoming,USA,56470,2022-02-23,Residential,Retail,Wallet,20.7,53.07
+CUST000389,Timothy Mcdonald,Other,72,rachael47@example.com,001-837-217-7292,Christopherstad,Utah,USA,67397,2022-12-24,Small Business,Call Center,Wallet,22.5,73.84
+CUST000390,Luis Conway,Male,32,vanderson@example.com,001-123-517-8251x77869,Amyborough,Oklahoma,USA,40059,2020-07-21,Small Business,Retail,Card,39.3,5.0
+CUST000391,William Smith,Female,48,douglasbowman@example.org,119.038.3061,Durantown,New Jersey,USA,43739,2022-09-24,Residential,Retail,Bank Transfer,23.2,45.04
+CUST000392,Susan Ward,Female,77,andreasmith@example.org,752-316-9649,West Adambury,Pennsylvania,USA,26032,2025-10-02,Residential,Call Center,ACH,10.9,29.45
+CUST000393,Kathleen Bruce,Female,59,ashley97@example.net,283.785.7925x7223,South Sherrytown,Georgia,USA,16356,2021-01-09,Small Business,Call Center,Card,46.2,52.97
+CUST000394,Jeffrey Williams,Male,56,fthomas@example.com,(283)152-7039,Thomasport,California,USA,03150,2022-02-08,Residential,Retail,Wallet,42.0,54.64
+CUST000395,Meredith Smith,Other,29,selena66@example.net,(724)824-6174x69138,Port Adam,Oregon,USA,48258,2024-06-30,Residential,App,Card,23.5,18.32
+CUST000396,Alexandria Lee,Other,23,michaeljustin@example.org,(562)110-9893,Stephenfort,Massachusetts,USA,04108,2023-02-02,Enterprise,Web,Wallet,5.1,26.3
+CUST000397,Albert Powell,Other,34,kanegrant@example.net,(909)510-6867,North Jeremyport,Alaska,USA,53325,2020-03-20,Enterprise,App,Bank Transfer,31.2,80.14
+CUST000398,David Snyder,Female,72,michael27@example.com,6042849568,Port Abigail,New York,USA,92597,2022-03-13,Residential,Retail,Bank Transfer,5.7,85.51
+CUST000399,Mark Gates,Other,52,lisarichardson@example.com,679.122.9683,Evanshire,Virginia,USA,22954,2024-11-02,Enterprise,Web,Bank Transfer,56.8,9.8
+CUST000400,Jacqueline Ramirez,Male,19,williamslaura@example.org,+1-569-180-3154,Millershire,Mississippi,USA,32035,2023-08-02,Residential,App,Card,39.3,61.76
+CUST000401,Sarah Jones,Other,39,wchen@example.net,081.316.0797,Port Jennifer,Wyoming,USA,45001,2020-05-31,Residential,App,ACH,33.7,53.6
+CUST000402,Carla Woodward,Male,39,robertfreeman@example.org,674-629-9268x27084,Sandrahaven,Nevada,USA,51211,2025-02-12,Residential,Retail,Wallet,11.6,38.88
+CUST000403,Patricia Gray,Female,68,beth93@example.net,+1-584-757-3486x4701,Kyleland,Michigan,USA,54267,2023-10-13,Small Business,Retail,ACH,31.7,49.36
+CUST000404,Adam Carney,Male,64,gregory75@example.org,001-916-123-4320,North Stephen,Wyoming,USA,58791,2020-01-17,Residential,App,ACH,0.0,25.02
+CUST000405,Elizabeth Morris,Female,18,nwhite@example.net,(136)708-8412,Port Peggyville,California,USA,51122,2022-01-31,Residential,Retail,ACH,17.6,17.18
+CUST000406,Eric Smith,Other,64,jerrylong@example.net,(782)896-3983x80330,Williamsbury,Louisiana,USA,08773,2024-09-18,Small Business,Retail,Bank Transfer,22.2,39.88
+CUST000407,Jonathan Burgess,Male,56,richardbecker@example.net,012-427-3949x528,Jennyside,Maine,USA,92771,2025-02-11,Residential,Web,Bank Transfer,39.6,53.15
+CUST000408,Christopher Roy,Male,28,suzannemartinez@example.net,(600)238-2042x3264,Lake Shannonstad,New Mexico,USA,54103,2021-07-23,Enterprise,Call Center,Bank Transfer,31.0,5.0
+CUST000409,Tiffany Castro,Male,54,owensryan@example.net,264.343.9378,Pamelaton,Missouri,USA,80943,2024-08-07,Residential,Call Center,Bank Transfer,36.4,43.65
+CUST000410,Amy Nelson,Male,58,ejohnson@example.org,+1-964-544-3004,Lake Brian,Kentucky,USA,28124,2021-05-05,Enterprise,App,Bank Transfer,23.2,54.83
+CUST000411,Arthur Green,Other,37,stephanie19@example.com,066.059.3528x6780,Brennanport,Kentucky,USA,60338,2024-07-26,Residential,Web,Bank Transfer,29.9,40.46
+CUST000412,James Graves DVM,Male,28,ppadilla@example.net,031.599.1119,Jacquelinehaven,Maryland,USA,68445,2024-08-12,Small Business,Web,Card,9.3,33.46
+CUST000413,Vincent Bishop,Other,78,normantimothy@example.org,001-426-085-9509x853,Parksburgh,Maryland,USA,69728,2024-08-05,Enterprise,Retail,Card,54.9,45.6
+CUST000414,Patrick Riley,Female,44,sschmidt@example.org,245.054.0355,Danielleberg,Oklahoma,USA,67196,2020-07-27,Enterprise,Call Center,Wallet,74.2,59.26
+CUST000415,Raymond Thomas,Other,26,haasgary@example.org,+1-495-506-1238,Timothyton,South Dakota,USA,45295,2024-02-01,Small Business,App,Card,0.0,5.0
+CUST000416,Ms. Sierra Johnson,Male,69,brendajennings@example.com,001-553-009-9281x11703,Williamsstad,Virginia,USA,18386,2023-12-19,Enterprise,Retail,Bank Transfer,28.0,21.11
+CUST000417,Vicki Wilkerson,Male,62,zwhite@example.org,668-218-5133x4807,Rodneyton,New Jersey,USA,13416,2023-12-01,Small Business,Retail,ACH,18.8,59.89
+CUST000418,Caitlin Butler,Other,21,sherry59@example.com,(332)124-4589x258,Port Traci,Virginia,USA,20374,2020-07-05,Residential,Retail,Card,48.8,49.6
+CUST000419,Michael Smith DDS,Male,61,sara10@example.net,063.369.7896x5634,Williamside,Maryland,USA,51359,2020-10-11,Residential,Retail,Wallet,56.2,14.74
+CUST000420,Julie Erickson,Male,25,morenokatelyn@example.org,472.162.8909x931,East Sarah,Oregon,USA,65517,2020-02-12,Small Business,App,Bank Transfer,65.6,61.74
+CUST000421,Ronald Jones,Male,52,christinaquinn@example.com,(409)744-2186,Underwoodville,New Mexico,USA,02517,2020-08-20,Residential,App,Bank Transfer,0.0,29.2
+CUST000422,Kelly Vasquez,Female,51,zachary11@example.org,+1-390-231-0398x08359,Kentborough,Oregon,USA,42909,2023-02-24,Residential,Call Center,Card,24.0,64.65
+CUST000423,Sarah Tran,Female,41,ericagonzalez@example.com,238.780.1841,Swansonfort,Ohio,USA,55355,2020-11-24,Enterprise,Retail,Wallet,8.8,46.45
+CUST000424,Breanna Hill,Male,55,michaelelliott@example.com,(910)313-3002x46628,Lake George,Ohio,USA,10587,2022-12-01,Enterprise,Call Center,Bank Transfer,55.2,26.12
+CUST000425,Ann White,Male,33,moorealan@example.org,(422)174-4438,South Saraland,Michigan,USA,27167,2020-03-09,Small Business,App,Card,0.0,67.55
+CUST000426,Chelsey Delacruz,Female,65,bruce71@example.com,3628151206,Carlview,Idaho,USA,61811,2023-08-27,Small Business,Call Center,Wallet,55.0,97.9
+CUST000427,Amanda Smith,Male,66,bbell@example.org,001-084-141-8657,South Michelleborough,Rhode Island,USA,06416,2024-01-16,Residential,App,Card,45.1,46.72
+CUST000428,Anthony Snyder,Male,23,elizabeth49@example.net,+1-857-520-9046x534,Jamesbury,Kentucky,USA,58640,2023-02-13,Enterprise,Retail,Wallet,21.0,36.75
+CUST000429,Adam Sexton,Other,77,mevans@example.com,587.331.2323x4760,Rogersshire,Illinois,USA,11489,2025-09-22,Enterprise,Call Center,Bank Transfer,36.2,6.17
+CUST000430,Patrick Parks,Other,37,festes@example.com,298-908-7568,Colinbury,North Dakota,USA,84310,2024-12-07,Small Business,App,Wallet,55.4,37.36
+CUST000431,Erin Lindsey,Female,76,hvazquez@example.org,236-237-4849,East Eric,California,USA,93655,2022-03-21,Enterprise,Call Center,Bank Transfer,43.6,35.17
+CUST000432,Brittney Johnson,Male,60,josephmann@example.com,291-823-8492,Lake Ryan,Indiana,USA,02942,2025-03-24,Enterprise,App,Wallet,37.3,49.16
+CUST000433,Veronica Velazquez,Female,68,pmoore@example.com,123-170-2012x28324,Lake Nicole,Maine,USA,63204,2022-07-07,Enterprise,Call Center,Wallet,24.4,35.73
+CUST000434,Randy Wright,Other,70,robert91@example.com,7080929467,Michaelfurt,North Dakota,USA,76068,2022-05-10,Enterprise,Retail,Bank Transfer,61.6,52.19
+CUST000435,Steven Landry,Male,52,amanda82@example.net,837-731-4983x976,New Joe,Louisiana,USA,16583,2024-02-15,Enterprise,Retail,Wallet,39.6,13.41
+CUST000436,Lori Foster,Male,30,billy58@example.com,888-741-5927,Lake Deborahberg,Arkansas,USA,47216,2022-10-20,Residential,Call Center,ACH,40.3,41.73
+CUST000437,Timothy Edwards,Female,62,rollinsrebecca@example.net,9998550806,Ginamouth,Iowa,USA,03055,2021-04-19,Small Business,Web,Wallet,19.6,46.08
+CUST000438,Jeffrey Lewis,Male,66,xwilkinson@example.com,(826)474-1214,Christinefurt,Illinois,USA,91134,2020-04-30,Residential,Retail,ACH,56.0,62.43
+CUST000439,Tracey Richardson,Female,30,marypierce@example.org,206.875.6818x65528,Haneychester,Arizona,USA,74257,2021-06-07,Residential,Web,Bank Transfer,13.6,29.83
+CUST000440,Rodney Cox,Female,32,bradytimothy@example.org,+1-341-820-8120x29015,New Daltonside,Iowa,USA,49352,2024-11-18,Enterprise,Call Center,Wallet,19.2,40.15
+CUST000441,Emily Smith,Other,68,robert31@example.net,567.144.8862,Victoriatown,Minnesota,USA,23357,2021-06-23,Enterprise,Call Center,Card,39.2,33.64
+CUST000442,Christine Maldonado,Male,74,kristin61@example.net,389-157-4599,Mitchellton,Delaware,USA,77765,2021-04-03,Residential,Retail,ACH,31.0,16.19
+CUST000443,Carlos Mitchell,Other,55,hughesmadison@example.com,(128)031-7497x103,Fieldsshire,Oregon,USA,43704,2020-06-28,Enterprise,Web,Card,48.6,66.03
+CUST000444,Allison Ortiz,Male,46,bradleybailey@example.com,206-925-4229x71894,Piercehaven,Wyoming,USA,74691,2022-08-16,Small Business,Retail,Wallet,7.2,68.65
+CUST000445,Mr. Jeremy Knight,Male,70,stephenskatherine@example.com,(884)872-6303,East Michael,Kansas,USA,98952,2022-05-03,Enterprise,Retail,ACH,59.0,72.86
+CUST000446,Stephen Lee,Other,73,edwardsanders@example.net,507-112-4957x5202,West Darleneshire,Ohio,USA,62914,2020-12-19,Small Business,Retail,ACH,28.3,6.39
+CUST000447,Jason Williams,Female,69,hayden13@example.com,+1-676-036-5490,West Kenneth,Idaho,USA,13943,2021-12-18,Residential,Retail,Card,41.4,33.36
+CUST000448,Sara Dyer,Female,27,shawdiana@example.org,(700)235-1254,Lake Ryan,Wyoming,USA,81904,2022-07-24,Enterprise,Call Center,Card,18.4,24.87
+CUST000449,Madison Smith MD,Female,75,john90@example.org,755-811-6010,North Kerryville,Pennsylvania,USA,68450,2024-11-04,Small Business,Web,ACH,42.7,59.8
+CUST000450,Mark Clark,Male,43,taylorkevin@example.net,001-983-171-3098x69984,Andreburgh,New York,USA,15982,2020-07-12,Small Business,Call Center,ACH,36.0,67.73
+CUST000451,Travis Vance,Male,20,cameronmartinez@example.net,+1-227-307-0274x3902,South Sherry,New Hampshire,USA,96713,2021-02-07,Small Business,Call Center,Card,23.0,42.49
+CUST000452,Gary Kim,Other,59,chernandez@example.org,437.036.8964x45092,New Raven,Oklahoma,USA,95687,2020-05-23,Enterprise,App,Wallet,0.0,5.0
+CUST000453,Dustin Gallagher,Male,59,reynoldsvirginia@example.net,(816)855-3255x51535,North Michael,Utah,USA,18563,2024-11-23,Small Business,App,Wallet,6.1,35.3
+CUST000454,James Gilbert,Female,53,ggutierrez@example.com,+1-613-135-1305x543,South Vanessa,Kansas,USA,44775,2024-04-30,Small Business,Call Center,Wallet,32.5,52.43
+CUST000455,Danielle Jenkins DVM,Female,57,robinsonjoshua@example.com,659.447.7658,East Michaelborough,Virginia,USA,20062,2022-08-24,Small Business,Web,Card,44.4,67.83
+CUST000456,Michael Benton,Other,18,victoria11@example.com,+1-332-609-0921x19545,Port Wesleymouth,Florida,USA,85999,2020-09-13,Residential,App,ACH,46.2,22.16
+CUST000457,Ana Edwards,Male,41,maurice97@example.net,181.448.9810x270,Keithburgh,New Mexico,USA,81313,2022-05-10,Enterprise,Web,ACH,21.9,49.57
+CUST000458,Kelly Ball,Other,19,aaguirre@example.net,186.357.4963,Carlside,Maine,USA,31848,2023-06-03,Residential,Web,Bank Transfer,5.3,51.47
+CUST000459,Kristen Nguyen,Female,77,hobbssandra@example.com,354-138-7639x29262,North Brianshire,New Jersey,USA,49835,2025-02-05,Enterprise,Retail,Card,15.4,50.23
+CUST000460,Kim Ward,Other,35,vwilkinson@example.com,5212617940,South James,Montana,USA,89066,2021-04-16,Residential,Call Center,Card,0.0,66.32
+CUST000461,Evan Palmer,Other,80,imason@example.net,+1-859-002-6801x006,Johnsonburgh,Arkansas,USA,94224,2025-09-15,Small Business,App,Bank Transfer,5.9,33.15
+CUST000462,Juan Moran,Other,47,terry90@example.net,014-313-9881x553,East Keith,Pennsylvania,USA,95037,2022-01-06,Small Business,Retail,Bank Transfer,34.6,36.52
+CUST000463,Brian Garcia,Other,77,hutchinsonchristina@example.org,432-405-3465x2677,Valdezside,Alabama,USA,99681,2022-08-13,Residential,Call Center,ACH,4.1,56.15
+CUST000464,Christopher Taylor,Other,55,nicole35@example.org,(012)001-4924x6285,West Jessicaland,Oklahoma,USA,05863,2020-12-30,Small Business,Retail,Wallet,32.6,26.99
+CUST000465,Rachel Steele,Male,18,eric82@example.com,(522)424-2099x8808,South Lorifurt,Missouri,USA,56973,2023-06-24,Enterprise,Call Center,Bank Transfer,56.4,37.51
+CUST000466,Nicole Jefferson,Female,52,timothygarcia@example.org,441-555-1950,Wrightfurt,Kentucky,USA,59775,2023-10-05,Enterprise,Call Center,Bank Transfer,25.4,7.81
+CUST000467,Amanda Castillo,Other,28,ramoskristi@example.com,+1-528-668-4319x62472,Lake Kevin,Arizona,USA,41109,2024-07-02,Enterprise,Retail,ACH,69.6,47.56
+CUST000468,Gregory Powell,Female,53,wilkinsbrian@example.com,(287)994-9193x250,Jeffreyville,Oregon,USA,18328,2022-06-04,Small Business,Retail,Card,38.5,42.47
+CUST000469,Margaret Stephens,Male,51,lucasmary@example.org,(439)779-4985x53813,South Lesliemouth,California,USA,18376,2023-04-26,Small Business,Retail,Wallet,43.2,23.75
+CUST000470,Elizabeth Barnett,Male,56,kevin83@example.net,001-468-437-7313,Mcdanielville,Massachusetts,USA,23218,2020-01-18,Enterprise,Web,ACH,39.0,39.18
+CUST000471,Adam Mills,Female,29,lauriethompson@example.net,099.930.3443,Christinaton,Maryland,USA,67087,2024-01-22,Enterprise,Web,ACH,16.7,46.91
+CUST000472,Jeffrey Gardner,Male,35,karensutton@example.net,933.604.3023x890,North John,Indiana,USA,02488,2022-12-15,Enterprise,Web,Wallet,29.9,30.4
+CUST000473,Cassandra Johnston,Male,24,matthewtaylor@example.com,+1-493-377-5753x9649,North Blakemouth,Tennessee,USA,61950,2023-05-05,Residential,Web,Wallet,74.2,38.21
+CUST000474,Mary Kirby,Male,74,melissamedina@example.org,(641)470-8566x1355,New Alexismouth,Illinois,USA,16252,2025-04-22,Residential,App,Bank Transfer,24.6,53.52
+CUST000475,Richard Higgins,Other,58,tanya29@example.net,+1-836-946-3617x3202,Lake Wendystad,Washington,USA,70809,2024-03-31,Enterprise,App,Wallet,18.8,8.89
+CUST000476,Deborah Mccarthy,Female,35,judyturner@example.net,+1-215-842-9915x04114,Port Rebecca,Alaska,USA,39687,2025-06-09,Enterprise,Web,ACH,27.8,50.25
+CUST000477,Joseph Molina,Other,56,sellersbruce@example.org,+1-347-134-6017,Catherineshire,Kansas,USA,32257,2020-04-26,Small Business,Web,Bank Transfer,50.6,64.9
+CUST000478,Christopher Sheppard,Male,43,meghanstanley@example.net,+1-201-118-1674,Port Jonathan,Kentucky,USA,49527,2021-08-02,Enterprise,Retail,Bank Transfer,5.7,66.56
+CUST000479,Michael Navarro,Other,39,tina30@example.com,(471)302-6902x334,South Annette,Maine,USA,67094,2020-09-30,Small Business,Retail,Card,26.2,44.95
+CUST000480,Natalie Pearson,Female,35,michaelhill@example.org,001-736-236-8756,Henryside,Florida,USA,15568,2020-01-17,Small Business,Web,ACH,29.6,22.37
+CUST000481,Taylor Montes,Female,28,hcollins@example.org,+1-883-062-4169x7359,Sotoview,Michigan,USA,79185,2023-03-19,Enterprise,Web,Card,25.0,42.71
+CUST000482,April Anthony,Other,50,ibrown@example.com,(614)374-6133,Port Michaeltown,Idaho,USA,77941,2020-02-05,Enterprise,Web,Bank Transfer,32.5,29.35
+CUST000483,Jennifer Walters,Other,24,victoriarodriguez@example.org,518-936-7956x0313,East Scottmouth,Kansas,USA,38809,2025-09-04,Enterprise,Call Center,Wallet,45.2,44.74
+CUST000484,Mary Vargas,Male,23,michael05@example.net,976.539.1854,West Charles,Washington,USA,74930,2022-11-10,Small Business,Retail,Wallet,9.9,40.0
+CUST000485,Allison Lawrence,Other,51,timothy25@example.com,(352)203-7324x62252,Patrickmouth,Maryland,USA,67560,2025-02-02,Residential,Web,Card,56.6,33.21
+CUST000486,John Miller,Other,24,davidchristian@example.net,+1-549-247-5640x4115,Rhondaburgh,Maryland,USA,81694,2020-07-11,Residential,App,Wallet,29.8,47.92
+CUST000487,Rita Flores,Female,52,josephharris@example.org,+1-364-931-1777x77210,Richardview,New York,USA,87196,2023-03-24,Small Business,App,ACH,2.0,49.06
+CUST000488,Emily Brown,Other,46,sarmstrong@example.com,453-550-8709x6715,Michaelchester,New Hampshire,USA,53630,2020-11-20,Small Business,Web,Wallet,13.5,38.62
+CUST000489,Monica Wood,Female,61,sandrakaufman@example.net,980.960.0550x767,Nelsonberg,West Virginia,USA,87882,2021-04-25,Small Business,Web,ACH,1.1,40.47
+CUST000490,Joseph Jones,Female,45,adamallen@example.net,849-323-5894x7123,New David,Wyoming,USA,36440,2022-06-28,Small Business,Web,Wallet,8.3,67.0
+CUST000491,Jenna Carrillo,Male,35,millerdebra@example.org,490-397-7209x536,North Jeremy,Kentucky,USA,05676,2021-04-15,Residential,Call Center,Bank Transfer,14.5,42.67
+CUST000492,Jason Cohen,Male,73,mallory17@example.net,001-977-436-6276x7430,Brownstad,Illinois,USA,47330,2025-04-26,Residential,Web,Bank Transfer,40.4,53.26
+CUST000493,Joshua Johnson,Other,18,watkinszachary@example.net,+1-470-355-1877,Lake Erinfort,Colorado,USA,82464,2023-02-10,Small Business,Web,Card,40.3,77.01
+CUST000494,Brian Vaughn,Female,31,econner@example.org,731-290-0817x3569,Jonathonfort,Indiana,USA,98417,2024-09-05,Small Business,Retail,Bank Transfer,2.7,57.09
+CUST000495,Carlos Mercado,Female,67,amy68@example.com,+1-348-982-8273x842,North Eric,Georgia,USA,47510,2021-07-14,Enterprise,Web,Card,45.4,27.62
+CUST000496,Dawn Khan,Male,41,elivingston@example.net,337.926.7285x806,New Timothy,Maine,USA,82712,2022-12-13,Residential,App,Wallet,31.1,73.38
+CUST000497,Vanessa Peterson,Other,32,bautistacheryl@example.com,966.072.0830x356,Baileytown,Illinois,USA,24634,2022-07-25,Residential,Call Center,Wallet,16.7,53.55
+CUST000498,Walter Smith,Male,56,stephanie58@example.com,631-826-7354x5868,Lake John,West Virginia,USA,91631,2021-11-17,Small Business,App,Bank Transfer,26.7,35.37
+CUST000499,Michelle Wilson,Other,65,nicholasbradley@example.net,595-546-9721,New Jamesmouth,New Hampshire,USA,41988,2025-03-08,Enterprise,Retail,Bank Transfer,65.7,68.06
+CUST000500,Kimberly Shepard,Female,40,scott56@example.org,+1-353-088-3851x59830,Matthewchester,Connecticut,USA,77036,2021-07-27,Small Business,Web,ACH,31.4,56.74
+CUST000501,Laura Gonzales,Female,47,vperez@example.net,263-262-6594x7332,North Danielview,New Mexico,USA,74965,2022-05-21,Enterprise,Call Center,Wallet,37.8,23.44
+CUST000502,Megan Barajas,Other,64,tapiakenneth@example.com,707.849.3350,North Natalie,Maryland,USA,72815,2020-10-04,Enterprise,App,Bank Transfer,36.3,61.56
+CUST000503,Sandra Travis,Male,18,jeffrey90@example.com,693-630-6950x286,Garyside,Kansas,USA,05444,2021-08-30,Enterprise,Web,ACH,35.4,48.15
+CUST000504,Derek Fuentes,Female,74,alexa22@example.com,715.012.3219,Johntown,Delaware,USA,34855,2025-09-11,Residential,App,ACH,19.5,12.44
+CUST000505,Krista Miranda,Female,26,zbutler@example.net,544.350.3365,Brookebury,Florida,USA,17505,2020-08-22,Enterprise,Retail,Card,67.6,66.96
+CUST000506,Justin Wolf,Other,70,salaserin@example.net,3702298494,New Christopherland,Wisconsin,USA,24694,2024-01-25,Small Business,Retail,Card,55.7,40.19
+CUST000507,Lisa Mccann,Other,51,guerrerojennifer@example.net,7424769382,East Rodneytown,Kentucky,USA,11364,2024-01-29,Small Business,App,Wallet,38.6,33.65
+CUST000508,Carrie Cruz,Female,30,andrew55@example.org,001-717-014-1967,Ericstad,Georgia,USA,01905,2021-08-05,Residential,App,Card,27.9,36.59
+CUST000509,Michael Parker,Other,63,smooney@example.net,(681)026-7573x56599,Morristown,Florida,USA,71760,2021-02-22,Small Business,Retail,ACH,63.0,10.83
+CUST000510,Cody Hunter,Female,51,robert89@example.org,536.013.2108,Port Tracy,Maine,USA,05134,2022-12-16,Residential,App,Wallet,39.5,26.93
+CUST000511,Joseph Hughes,Other,38,smann@example.net,383.564.6633,East Robert,Iowa,USA,50892,2021-02-22,Small Business,Web,Bank Transfer,39.6,82.88
+CUST000512,Laura Henry,Male,72,laceyharmon@example.net,750.244.8033x8742,South Hannah,Washington,USA,61570,2024-06-23,Small Business,Retail,Wallet,61.9,31.5
+CUST000513,Douglas Decker,Male,33,abridges@example.org,3793429400,Reevesstad,Montana,USA,22460,2020-05-21,Residential,Web,Card,36.9,48.35
+CUST000514,Natasha Petersen,Male,47,amandadavis@example.com,942-625-8712x44258,Steventon,Louisiana,USA,64925,2023-10-15,Small Business,Web,Bank Transfer,0.0,27.19
+CUST000515,William Houston,Female,61,ricewilliam@example.org,253.844.6730,Latoyafort,Indiana,USA,49532,2021-06-25,Enterprise,Web,Bank Transfer,8.6,46.8
+CUST000516,William Fisher,Other,65,ronaldwatson@example.net,+1-512-492-6649x91736,West Amandaburgh,Delaware,USA,87868,2023-11-24,Enterprise,Web,Card,30.6,37.2
+CUST000517,Sarah Williams,Other,54,catherinevaughan@example.org,280-367-5700x0789,South Kristinberg,Oregon,USA,61968,2023-07-14,Small Business,App,Wallet,27.2,41.29
+CUST000518,James Phelps,Male,41,andrewwatkins@example.net,4692233172,North Sean,New York,USA,69692,2020-03-20,Small Business,App,ACH,15.3,5.0
+CUST000519,Stephanie Taylor,Other,42,nsmith@example.com,221.795.9392x7314,Webstermouth,Pennsylvania,USA,37248,2024-11-06,Enterprise,Web,ACH,31.8,95.91
+CUST000520,Laura Johnson,Female,64,pkoch@example.org,566.315.2996x66160,North Walterburgh,Montana,USA,74638,2022-08-10,Residential,App,Card,29.7,24.39
+CUST000521,Colleen Snyder,Other,18,floresdavid@example.com,908.818.6453x23816,Snyderborough,Oregon,USA,61714,2020-06-29,Small Business,Retail,Wallet,63.1,43.81
+CUST000522,Laura York,Other,37,mpope@example.net,(977)885-4460,West Alexandria,South Dakota,USA,85597,2024-04-22,Small Business,Retail,Wallet,14.5,25.98
+CUST000523,Cameron Barajas,Other,30,mathewdyer@example.org,(988)007-9211x050,Johnsonburgh,Wisconsin,USA,21481,2022-05-03,Small Business,Web,ACH,41.5,55.98
+CUST000524,Dale Morgan,Female,26,lmorrison@example.net,042-408-9351,West Mark,Massachusetts,USA,42229,2025-10-14,Enterprise,Web,Bank Transfer,4.6,72.51
+CUST000525,Traci Thompson,Male,60,steven26@example.org,532-896-8235,Donnaborough,Oklahoma,USA,01591,2022-03-26,Small Business,Web,ACH,31.9,36.11
+CUST000526,Samuel Thomas,Male,69,pnolan@example.net,246-719-0814,Bethview,Wisconsin,USA,58769,2020-05-16,Small Business,Web,ACH,14.2,20.69
+CUST000527,Wendy Rowland,Female,29,howelldonald@example.com,(194)771-4418x256,New Rebecca,Wisconsin,USA,38836,2025-10-23,Enterprise,Call Center,Card,16.0,73.21
+CUST000528,Francisco Mitchell,Other,72,colleenramos@example.com,+1-604-438-4071x45703,West Joshua,West Virginia,USA,34989,2022-06-14,Residential,App,Bank Transfer,10.1,80.44
+CUST000529,Tony Johnson,Other,38,deborahhudson@example.com,001-388-746-9406,Brandyland,Rhode Island,USA,92675,2020-01-18,Enterprise,App,Wallet,30.5,48.53
+CUST000530,Andrew Maldonado,Male,31,samuelbutler@example.net,(369)836-9218x987,New Sarah,South Carolina,USA,64927,2023-01-09,Small Business,Call Center,ACH,0.0,52.41
+CUST000531,William Haynes,Other,26,ryan63@example.net,001-602-683-5816x9905,Cynthiaburgh,Michigan,USA,39045,2021-11-30,Small Business,App,ACH,27.9,45.42
+CUST000532,Theresa Mcgee,Other,23,acoleman@example.net,001-213-047-4578x233,Gutierrezview,Massachusetts,USA,79893,2021-08-15,Enterprise,Retail,ACH,36.1,5.0
+CUST000533,Robert Cummings,Male,18,jimeneztim@example.net,(528)579-4044,East Christopherhaven,Virginia,USA,89749,2022-01-15,Enterprise,Call Center,ACH,43.2,45.57
+CUST000534,Cynthia Romero,Other,36,edwardsdaniel@example.org,763.467.2279x507,Stevenhaven,Nevada,USA,54115,2021-06-09,Residential,Call Center,Wallet,25.1,79.91
+CUST000535,Mark Moore,Female,62,rgolden@example.org,764.605.3441x9580,New Ashley,Connecticut,USA,09925,2023-11-22,Enterprise,Retail,Wallet,24.8,26.5
+CUST000536,Rebecca Allen,Female,29,smithjanice@example.com,+1-688-699-6198x10175,Brendaview,Minnesota,USA,73176,2022-08-26,Enterprise,Web,ACH,36.7,22.88
+CUST000537,Barry Morse,Male,56,alexandercordova@example.com,001-870-965-0781x18847,Chapmanbury,New Hampshire,USA,82332,2025-09-25,Small Business,Call Center,Card,18.4,39.22
+CUST000538,James Fisher,Male,70,melissa27@example.com,5689573729,Carolfurt,Vermont,USA,48612,2024-08-20,Enterprise,Web,ACH,54.3,38.31
+CUST000539,Anna Jordan,Male,43,timothysmith@example.com,001-584-062-9757x039,Shaneport,Alaska,USA,26730,2020-01-16,Residential,Call Center,Wallet,38.4,48.74
+CUST000540,Amanda Pierce,Male,43,dhayes@example.org,001-961-828-7235x1765,Joshuaton,Alabama,USA,12639,2022-09-20,Enterprise,Retail,ACH,45.6,5.0
+CUST000541,Nichole Wolf,Other,29,klove@example.net,197-133-3545x2853,Dawnchester,Wisconsin,USA,04519,2022-02-23,Enterprise,App,Wallet,31.1,67.01
+CUST000542,Nicole Martinez,Female,54,suttonjennifer@example.com,001-341-825-3002x800,East Erinberg,Hawaii,USA,42126,2022-03-15,Enterprise,Web,Bank Transfer,24.9,5.49
+CUST000543,Erika Murphy,Female,20,brownmisty@example.com,138.564.8648x22402,Lewisburgh,Pennsylvania,USA,74743,2024-05-16,Residential,App,Card,21.2,74.12
+CUST000544,Patricia Wilson,Other,59,mcarter@example.net,894.237.1094,South Jennifermouth,Delaware,USA,77176,2020-06-20,Residential,Call Center,ACH,27.4,58.46
+CUST000545,Monique Morris,Female,23,stuartlisa@example.net,(668)116-0590x50752,Port Danielmouth,Louisiana,USA,09547,2020-12-31,Residential,App,ACH,0.0,33.93
+CUST000546,Julie House,Male,51,mark64@example.com,553-891-9506x619,Waltermouth,Arkansas,USA,88730,2025-05-21,Residential,App,Bank Transfer,13.4,59.19
+CUST000547,Bethany Lynch,Female,30,samantha00@example.com,+1-107-912-4493x7220,Virginiastad,Iowa,USA,08393,2025-09-21,Residential,Web,Card,0.3,16.33
+CUST000548,John Miller,Female,47,dlee@example.net,046.030.4363,Murraymouth,Oregon,USA,22398,2023-08-09,Small Business,App,Bank Transfer,52.7,36.52
+CUST000549,Kelly Miller,Female,52,jjohnson@example.com,6664058646,North David,Kansas,USA,36393,2020-10-08,Small Business,App,ACH,14.8,39.68
+CUST000550,Karen Burke,Male,35,johnsonkerry@example.net,+1-127-971-8969x6874,West Kenneth,South Carolina,USA,27142,2021-01-27,Enterprise,Web,Card,4.0,26.73
+CUST000551,Kathleen Johnson,Male,45,allenbilly@example.org,(957)550-8561x015,Port Hannah,Texas,USA,17841,2020-09-14,Enterprise,App,ACH,30.5,34.59
+CUST000552,Monica Campos,Other,71,fosterkristin@example.net,476-479-5774,Lake David,Illinois,USA,97824,2023-06-03,Small Business,Web,Bank Transfer,1.8,69.1
+CUST000553,Stephanie White,Male,75,brandonramirez@example.com,410.623.4528,New Staceyside,South Dakota,USA,76134,2025-01-25,Small Business,Call Center,ACH,49.3,27.28
+CUST000554,Kathleen Jennings,Other,40,fgiles@example.com,001-623-223-6943x51906,Myersside,Indiana,USA,03629,2024-02-06,Residential,Web,Card,0.0,61.24
+CUST000555,Jeanette Sanchez,Other,63,amywright@example.com,785.867.4005,Jasonhaven,Hawaii,USA,59895,2024-04-22,Residential,Retail,Bank Transfer,41.2,48.28
+CUST000556,Mark Russell,Female,49,chad65@example.net,314-104-7045x7026,East Crystal,Arkansas,USA,19377,2023-07-27,Enterprise,Web,Bank Transfer,39.4,60.97
+CUST000557,Suzanne Baldwin,Female,74,huntmichael@example.org,350-248-3427,Port Isaachaven,Arkansas,USA,04449,2022-03-28,Small Business,App,ACH,57.2,5.0
+CUST000558,Heather Martin,Other,46,garciastephanie@example.net,049.756.0641x612,Lake Dustinfort,Pennsylvania,USA,70447,2020-01-18,Small Business,Call Center,Wallet,0.0,76.68
+CUST000559,Christopher Leach,Female,36,jacobthomas@example.org,001-332-423-7658x1777,Jessicaborough,Pennsylvania,USA,95406,2024-09-22,Enterprise,Retail,Bank Transfer,7.7,76.43
+CUST000560,Marie Williams,Male,18,jmartinez@example.com,(427)739-3215x92938,South Loretta,Illinois,USA,19255,2020-05-30,Enterprise,App,ACH,22.2,32.55
+CUST000561,Richard Smith,Female,70,wadedavid@example.net,001-129-074-0335x092,North Tarachester,Connecticut,USA,59017,2025-09-01,Small Business,App,Bank Transfer,19.9,53.71
+CUST000562,Valerie Rodriguez,Male,30,geoffreywebster@example.org,+1-853-876-1889x694,Angelaport,Utah,USA,62816,2021-08-23,Small Business,App,Card,19.9,22.54
+CUST000563,Kayla Conrad,Other,42,lesterdaniel@example.net,+1-022-327-2613x63346,Cameronville,Colorado,USA,32765,2022-09-13,Small Business,Retail,Bank Transfer,0.0,47.7
+CUST000564,Tyler Austin DVM,Other,50,guerrapatricia@example.com,+1-829-723-1899x40715,Cruzmouth,North Carolina,USA,20339,2020-04-02,Residential,Call Center,Card,39.3,9.64
+CUST000565,Debra Davis,Male,69,millerrebecca@example.org,8246094620,Marshville,Idaho,USA,68786,2022-06-07,Small Business,App,Wallet,11.9,85.21
+CUST000566,Megan Cooper,Other,30,jenniferschroeder@example.com,001-874-873-3189x775,Port Charles,Connecticut,USA,59264,2021-09-28,Enterprise,App,ACH,29.6,16.31
+CUST000567,Samantha Wilson,Male,79,jessica78@example.com,969-829-8285x2286,Richardsonland,Texas,USA,62850,2025-05-04,Small Business,App,Card,18.2,30.23
+CUST000568,Alan Pena,Other,37,haleysanders@example.com,001-816-150-3159,Port Charles,Massachusetts,USA,19042,2023-12-07,Residential,Call Center,Card,57.8,55.32
+CUST000569,Kristen Nelson,Other,48,sara14@example.net,(634)218-5274x47430,Montoyabury,North Dakota,USA,93235,2021-03-13,Small Business,App,ACH,12.0,13.95
+CUST000570,Ruth Mcmahon,Male,66,daniel56@example.org,+1-939-191-8766,Grayton,Vermont,USA,21064,2020-01-09,Residential,Call Center,Card,26.1,30.07
+CUST000571,David Walton,Male,21,susan99@example.net,001-327-789-8480x5138,North Dannytown,Minnesota,USA,78403,2023-01-22,Residential,Web,Card,27.7,39.02
+CUST000572,Brittany Parker,Female,59,maciaslori@example.org,451-139-5625x3698,South Angelicashire,Maine,USA,80237,2020-03-10,Residential,Call Center,Bank Transfer,50.5,42.19
+CUST000573,David Patterson,Male,68,ryanbarrett@example.com,+1-910-521-6780x95111,Lake Davidchester,Maryland,USA,68718,2023-03-26,Enterprise,Call Center,Bank Transfer,14.8,41.01
+CUST000574,Gregory Johnson,Other,41,lkrueger@example.net,777-739-1698x030,Colinchester,Wyoming,USA,09999,2020-08-23,Enterprise,App,Bank Transfer,22.7,51.65
+CUST000575,Don Johnson,Female,51,johnfoster@example.net,+1-177-657-3387x35152,Markborough,California,USA,97223,2023-05-01,Residential,Web,Bank Transfer,40.3,57.28
+CUST000576,Brenda Mcpherson,Female,56,donald20@example.org,143.506.9594x422,New Gail,Kansas,USA,26208,2023-12-03,Enterprise,App,Bank Transfer,36.6,50.83
+CUST000577,Leslie Owens,Male,28,nmorton@example.com,114.889.1761,Conniemouth,Pennsylvania,USA,05391,2023-12-10,Small Business,Web,Wallet,9.3,61.51
+CUST000578,Melanie Reed,Female,48,christopher50@example.net,001-036-921-8359x96538,Johnborough,Arkansas,USA,37450,2024-02-13,Residential,Web,ACH,12.5,35.35
+CUST000579,Molly Young,Female,46,jeremy95@example.com,0760182556,Carrillofurt,Utah,USA,33766,2024-09-03,Small Business,App,Wallet,20.0,43.47
+CUST000580,Jasmine Adkins,Male,31,lewiscrystal@example.org,001-291-415-6460x8376,New Taylor,West Virginia,USA,77479,2023-02-05,Residential,App,Card,52.4,47.42
+CUST000581,Laura Morgan,Other,19,rachaelcohen@example.net,(560)034-5100,Port Emilyfort,North Carolina,USA,36557,2020-01-25,Small Business,Retail,Wallet,31.4,40.8
+CUST000582,Jennifer Swanson,Female,27,debbiehernandez@example.org,248-114-5986,East Aprilbury,Connecticut,USA,28788,2020-09-28,Residential,Call Center,ACH,44.1,37.12
+CUST000583,Laura Washington,Other,24,dgray@example.org,1416923800,Jonesmouth,Nebraska,USA,01294,2023-08-13,Enterprise,Web,Card,19.4,44.21
+CUST000584,Eugene Schultz,Other,67,spencerjoshua@example.org,181.190.1478,Smithbury,Alaska,USA,52284,2021-04-19,Enterprise,Call Center,Wallet,0.0,15.83
+CUST000585,Jeffrey Wright,Male,60,kevin69@example.com,004.104.7303x0419,Thomaschester,Virginia,USA,03110,2023-07-04,Enterprise,Web,Card,38.8,28.79
+CUST000586,Jaime Scott,Male,23,rogerskarla@example.net,001-906-689-8312x69775,Jaredside,Arkansas,USA,28170,2024-12-03,Residential,App,Bank Transfer,43.9,46.42
+CUST000587,Dr. Joseph Levy DVM,Female,78,mollynelson@example.net,(762)059-0003,Nicolefurt,Kentucky,USA,42794,2025-06-25,Residential,Retail,ACH,0.0,42.99
+CUST000588,Thomas Wright,Male,64,ronald78@example.org,(007)746-9215x94851,East Stephenport,California,USA,52025,2021-02-03,Small Business,App,ACH,34.7,38.45
+CUST000589,David Sullivan,Male,43,mcleancrystal@example.net,(105)689-5052,Silvamouth,Oregon,USA,06262,2020-10-19,Residential,Web,Card,41.6,48.88
+CUST000590,Mary Long,Female,23,christyhines@example.com,+1-795-575-7095x7222,New Davidmouth,Florida,USA,79210,2024-06-10,Small Business,App,Wallet,42.2,55.9
+CUST000591,Heidi Martinez,Other,66,pricehannah@example.org,001-598-827-2928x7436,Emilyfort,Georgia,USA,68602,2023-04-30,Small Business,Retail,ACH,24.0,40.41
+CUST000592,William Gonzalez,Female,62,janetpope@example.com,305.490.4042x7778,Hoffmanland,Iowa,USA,37004,2025-03-27,Enterprise,Call Center,Wallet,37.7,15.79
+CUST000593,Elizabeth Cordova,Female,67,flevy@example.com,218-976-4455x246,West Timothymouth,Pennsylvania,USA,74782,2025-03-10,Enterprise,Web,Bank Transfer,0.0,27.34
+CUST000594,Julie Phelps,Male,47,millerkimberly@example.org,303.341.1923x23985,New Deannastad,Indiana,USA,83825,2020-05-27,Small Business,Call Center,Bank Transfer,48.1,46.23
+CUST000595,Michael Gray,Female,68,andrew38@example.com,+1-407-224-8054x0820,Rhondafurt,Texas,USA,83780,2022-06-19,Small Business,Call Center,ACH,14.6,53.58
+CUST000596,Destiny Wu,Other,26,walkersamantha@example.org,+1-463-749-5732x019,Williamsshire,Kentucky,USA,92837,2021-05-21,Enterprise,Web,ACH,12.9,57.49
+CUST000597,Denise Allen,Female,28,andrea15@example.org,(917)862-9012,New Virginiachester,Texas,USA,77300,2024-01-19,Residential,Web,Card,20.8,53.12
+CUST000598,Jessica Chase,Male,59,ureyes@example.org,(795)777-7626,Gabrielburgh,Colorado,USA,81539,2020-04-23,Residential,Web,Card,52.2,34.06
+CUST000599,Terri Mahoney,Female,29,pjohnson@example.net,(514)121-4713x48669,Roberttown,Virginia,USA,29608,2021-08-05,Enterprise,Call Center,Card,34.0,42.5
+CUST000600,Richard Rowland,Female,76,brucesummers@example.net,695.848.4141x918,Mcdonaldmouth,Pennsylvania,USA,09949,2022-09-12,Residential,App,Card,18.9,52.24
+CUST000601,Jenna Harrison,Female,71,faulknermario@example.com,001-146-021-9352,New Mariaville,Missouri,USA,95499,2020-04-20,Residential,App,Bank Transfer,0.1,39.14
+CUST000602,Andrea Dyer,Other,35,gonzalesolivia@example.org,+1-762-028-9653x589,Robinport,South Carolina,USA,56661,2024-07-03,Small Business,Web,ACH,30.7,51.89
+CUST000603,Lindsey Avila,Female,18,christopherponce@example.net,500-266-5741x9442,New Candice,Arkansas,USA,78785,2023-07-30,Residential,App,Card,32.1,16.19
+CUST000604,Ashley Robertson,Other,20,tina68@example.org,892-537-5598x84724,Barrettbury,Massachusetts,USA,08564,2024-08-07,Residential,App,ACH,0.0,107.71
+CUST000605,Jasmine Hopkins,Male,28,yellis@example.net,893-142-8248x1225,East Lori,Massachusetts,USA,21401,2025-01-29,Enterprise,App,Bank Transfer,6.4,62.21
+CUST000606,Philip Clark,Male,24,connie31@example.net,+1-807-908-6067x6732,Stephenstown,Tennessee,USA,14621,2024-08-11,Small Business,Web,Bank Transfer,31.0,58.45
+CUST000607,Brooke Evans,Other,63,justin97@example.com,8011585811,Michaelfurt,Maryland,USA,99520,2020-06-06,Enterprise,App,Card,30.0,30.4
+CUST000608,Christie Hall,Female,26,rray@example.net,+1-631-713-2889,Andersonburgh,Indiana,USA,81947,2022-03-03,Small Business,App,Wallet,36.0,42.58
+CUST000609,Jesse Ponce,Other,43,smithtiffany@example.org,(653)668-2560x5411,New Normanmouth,Connecticut,USA,40787,2025-05-15,Residential,App,ACH,56.6,50.64
+CUST000610,Jessica Stevenson,Other,72,tmullen@example.com,(345)454-8339,West Annette,Oregon,USA,18677,2020-02-18,Small Business,App,Card,0.0,91.39
+CUST000611,Molly Walker,Male,43,ana40@example.com,108.809.4921x33036,New Stephen,Connecticut,USA,30306,2025-08-05,Residential,Call Center,Wallet,46.6,43.1
+CUST000612,Richard Carroll,Female,18,clementspaige@example.org,479.098.6922,Lake Zacharyshire,Hawaii,USA,70260,2020-02-18,Small Business,Call Center,Bank Transfer,40.3,24.69
+CUST000613,James Patel,Other,44,dylan52@example.com,389.402.9670,West Megan,Mississippi,USA,14242,2022-08-13,Enterprise,Retail,Bank Transfer,37.5,41.31
+CUST000614,William Mckay,Other,71,hweaver@example.net,7549129103,Lake Adam,New Hampshire,USA,68396,2021-06-17,Residential,Call Center,ACH,11.0,44.33
+CUST000615,Peter Thomas,Female,48,howelllaura@example.org,372-982-9818,Sheltonborough,Washington,USA,56747,2022-01-14,Small Business,Retail,ACH,44.5,64.43
+CUST000616,Amanda Leach,Male,49,georgeolson@example.com,001-610-929-0056x16507,South Paul,Rhode Island,USA,62193,2024-01-16,Enterprise,Web,Bank Transfer,56.4,58.35
+CUST000617,Samuel Baldwin,Male,47,stephen95@example.net,+1-205-898-1347x25134,Andersonmouth,Tennessee,USA,65605,2021-05-31,Residential,Web,Bank Transfer,1.8,5.0
+CUST000618,Katherine Ortega,Other,50,julia31@example.com,103.073.2528,South Josephside,Oregon,USA,60427,2024-03-11,Residential,Call Center,Wallet,1.9,48.53
+CUST000619,Crystal Gamble,Other,46,jamespatrick@example.com,+1-184-417-8618x24488,West Kristenview,Idaho,USA,40315,2022-05-15,Small Business,App,Wallet,31.8,33.67
+CUST000620,Brian Brown,Other,53,kimmichelle@example.com,+1-409-203-4055x70641,West Dianafort,Nebraska,USA,15571,2022-10-09,Enterprise,Call Center,Wallet,26.1,20.22
+CUST000621,Randall Salazar,Other,44,jeremyowens@example.org,+1-843-799-2463,East Willie,Virginia,USA,07820,2021-10-09,Small Business,Call Center,Card,0.0,35.09
+CUST000622,Ariana Taylor,Other,52,ddalton@example.net,5288872344,Bradfordfort,Maine,USA,85793,2020-03-01,Enterprise,Retail,ACH,24.6,64.9
+CUST000623,Wanda Ball,Female,49,markwalker@example.org,314.569.2025,Bellchester,Pennsylvania,USA,37908,2021-09-08,Residential,App,ACH,49.6,38.46
+CUST000624,Monica Smith,Female,47,charlene27@example.net,+1-409-295-6002,East Kevin,Rhode Island,USA,91188,2022-08-30,Enterprise,Web,Card,32.4,72.07
+CUST000625,Keith Adams,Other,69,thomasmorales@example.org,001-882-041-8255x40470,Lawrencehaven,New York,USA,31831,2022-09-02,Enterprise,App,Card,26.3,49.77
+CUST000626,Emma Wheeler,Other,63,victoriabrown@example.org,(089)423-3445x396,East Mark,Tennessee,USA,16791,2023-01-27,Small Business,Call Center,Wallet,48.0,45.12
+CUST000627,Tina Sutton,Male,18,jburgess@example.net,545.502.5353,New James,South Carolina,USA,30992,2021-09-11,Small Business,Retail,Wallet,20.5,75.18
+CUST000628,Ryan Brennan,Other,34,nsantiago@example.com,(535)316-5674x59595,South Lorishire,Maine,USA,07327,2020-10-15,Enterprise,Web,Wallet,4.2,37.47
+CUST000629,Kathy Martinez,Female,35,harrisonandrew@example.org,4752530677,Erinhaven,West Virginia,USA,79393,2021-12-29,Small Business,Web,Bank Transfer,1.3,55.8
+CUST000630,Susan Mullins,Male,36,mpoole@example.net,001-943-373-9685x7262,South Theresa,Connecticut,USA,76520,2025-05-09,Small Business,Web,Wallet,8.4,51.19
+CUST000631,Nicole Parker,Male,56,charlene16@example.org,808-655-9414,New Daniel,North Dakota,USA,40473,2021-11-29,Small Business,App,Wallet,39.0,46.65
+CUST000632,Jacob Arnold,Male,62,kwright@example.net,+1-224-792-7208x72958,Doughertymouth,Florida,USA,96387,2024-07-20,Small Business,Retail,Bank Transfer,5.5,35.42
+CUST000633,Jessica Allen,Male,71,waynelee@example.org,001-954-700-7922,Hernandezport,Connecticut,USA,31951,2021-03-14,Enterprise,Retail,ACH,63.7,35.35
+CUST000634,Victoria Gilmore,Female,21,ashley86@example.com,(007)220-0928x84193,South Adam,New Hampshire,USA,24958,2022-01-28,Small Business,App,Bank Transfer,27.7,53.33
+CUST000635,Kevin Booth,Female,51,derrickmata@example.org,001-675-851-2446,Lake Sherri,Michigan,USA,26022,2021-05-27,Residential,App,Card,21.0,20.43
+CUST000636,Eric Martinez,Other,56,ihodge@example.net,(661)840-3350,North Maria,Maryland,USA,55837,2023-03-14,Small Business,Call Center,ACH,21.3,75.83
+CUST000637,William Vargas,Female,49,joneskrystal@example.net,2366111125,Patriciamouth,California,USA,87761,2024-05-19,Small Business,Retail,ACH,42.6,29.97
+CUST000638,Jacob Warner,Other,73,robert86@example.com,+1-052-421-7424,Lake Natalietown,North Carolina,USA,56271,2021-02-14,Enterprise,Call Center,Card,45.5,66.18
+CUST000639,James Fields,Female,61,foxtanya@example.net,+1-752-729-7226,South Sarah,Iowa,USA,69964,2023-02-15,Residential,Retail,Bank Transfer,41.6,76.37
+CUST000640,Brenda Green,Other,33,amorris@example.org,001-903-886-0122x33802,Jamiemouth,Utah,USA,35047,2021-08-29,Small Business,App,Card,0.0,67.21
+CUST000641,Taylor Williams,Other,74,codyschneider@example.com,218.553.4833x14851,Angelicaberg,Iowa,USA,42229,2020-10-01,Enterprise,Retail,Wallet,46.1,55.31
+CUST000642,Mr. Joshua Johnson,Male,40,suzannecantu@example.com,+1-189-362-4811x66905,North Kellyport,Ohio,USA,46858,2023-12-19,Small Business,Call Center,Card,50.1,58.06
+CUST000643,April Marsh,Male,24,smallcarl@example.com,635.570.8878x61249,Lake Sallymouth,Illinois,USA,85219,2022-01-03,Small Business,Retail,Bank Transfer,5.8,5.0
+CUST000644,Parker Wagner,Other,34,mitchellcobb@example.org,242-635-0454,Natashaside,Iowa,USA,18260,2020-09-14,Small Business,App,Card,39.8,63.04
+CUST000645,Jacob Mooney,Female,34,vhall@example.net,1307382472,Hannahborough,Oklahoma,USA,53306,2021-04-12,Enterprise,App,Wallet,53.9,36.39
+CUST000646,Rebecca Baldwin,Male,48,johnslynn@example.com,3496505111,Lake Heather,Oregon,USA,85766,2021-08-13,Residential,Retail,Bank Transfer,28.1,68.64
+CUST000647,Brian Burton,Male,70,paula02@example.net,849.784.4214,South Melissaburgh,Montana,USA,95656,2023-10-16,Residential,App,Card,3.0,49.66
+CUST000648,Cody Peterson,Other,26,benjaminfisher@example.net,272.493.6601x2693,Andersonview,New York,USA,95145,2020-07-27,Small Business,Web,Bank Transfer,1.0,67.27
+CUST000649,Hannah Clark,Female,18,vgutierrez@example.net,(698)394-1995x08607,Michaelborough,New Mexico,USA,09340,2020-10-19,Small Business,App,Card,70.9,61.4
+CUST000650,Whitney Smith,Other,24,warrencory@example.org,303.451.5824,New Ronald,Utah,USA,31207,2021-01-31,Small Business,Retail,Card,15.1,32.67
+CUST000651,Matthew Bradford,Other,56,hudsonsean@example.com,001-438-178-5678x098,Lake Elizabethland,New York,USA,59866,2020-05-02,Small Business,Web,Card,7.8,25.71
+CUST000652,Ashley Lopez,Other,52,patelchristian@example.net,001-519-478-9203x796,North Matthewside,Connecticut,USA,54940,2022-11-28,Residential,Retail,Bank Transfer,34.3,67.12
+CUST000653,Mitchell Harrison,Female,54,pricejason@example.com,001-761-071-4953x0191,West Katherineberg,Arizona,USA,11877,2023-05-13,Enterprise,Call Center,Card,31.0,58.12
+CUST000654,Lawrence Thompson,Male,24,charles44@example.com,482-424-0202x196,New Cynthia,Florida,USA,91612,2022-03-23,Enterprise,Retail,Card,40.6,50.69
+CUST000655,Amanda Moon,Female,55,kelly05@example.org,570.355.8498x8917,New Briannastad,Rhode Island,USA,35917,2022-10-23,Small Business,App,Card,17.6,17.72
+CUST000656,Erin Roy,Male,24,beltransarah@example.com,459-915-6626x227,Davisberg,Connecticut,USA,15123,2024-08-18,Small Business,Web,ACH,51.2,13.56
+CUST000657,Wanda Anderson,Female,42,amack@example.com,(048)393-1739,West Arianaside,New Jersey,USA,45260,2022-12-23,Residential,App,Bank Transfer,19.2,40.2
+CUST000658,Danielle Wiley,Female,58,rodriguezchad@example.org,001-676-828-0684x2577,Johnview,Alaska,USA,39007,2025-01-11,Residential,Web,Bank Transfer,20.9,44.54
+CUST000659,Omar Barron,Female,35,lyu@example.org,+1-924-412-3710x6863,Riosside,Indiana,USA,48431,2023-01-21,Small Business,App,Card,9.3,34.16
+CUST000660,Roy Flynn,Other,26,ballardjennifer@example.net,001-078-983-2629x908,Roberthaven,Indiana,USA,13169,2025-07-23,Enterprise,App,Wallet,63.7,66.84
+CUST000661,Justin Stephens,Male,65,laurarodriguez@example.org,(322)223-5154x232,Lake Kelsey,New York,USA,05147,2020-01-23,Small Business,Retail,Bank Transfer,9.4,51.8
+CUST000662,Charles Shannon,Female,60,monicafields@example.net,650-175-2291x072,Woodwardfurt,South Carolina,USA,05052,2020-05-01,Enterprise,App,Card,42.6,33.76
+CUST000663,Crystal Gordon,Female,35,juliemarquez@example.net,(874)783-6237x3648,South Jennifershire,Rhode Island,USA,19094,2021-04-20,Small Business,Web,Bank Transfer,26.2,7.8
+CUST000664,Robert Nielsen,Female,45,barryfoster@example.org,+1-118-170-5209x78542,South Jenniferview,Louisiana,USA,67006,2020-09-28,Enterprise,Web,Bank Transfer,28.7,38.92
+CUST000665,David Short,Female,23,kimrandy@example.net,723.687.9329x7332,Francismouth,Florida,USA,75938,2023-01-16,Residential,Call Center,Wallet,0.0,40.38
+CUST000666,Elizabeth Shepherd,Other,58,katrina56@example.com,(771)919-7705x507,Andersonburgh,Arkansas,USA,21000,2024-05-02,Enterprise,Call Center,Bank Transfer,45.8,50.72
+CUST000667,Amy Flores,Male,48,savannah59@example.net,623.713.0716x7849,Smithville,Wyoming,USA,20301,2021-05-17,Residential,Retail,ACH,55.2,41.5
+CUST000668,Julie Nguyen,Male,28,amanda60@example.net,834-908-4567x846,Lake Dustinburgh,North Dakota,USA,87599,2025-01-21,Small Business,Call Center,Wallet,22.7,75.44
+CUST000669,Jacqueline Welch,Other,52,xramirez@example.net,001-914-109-1140x510,New James,Oklahoma,USA,47520,2021-01-24,Enterprise,Web,Wallet,8.3,64.41
+CUST000670,Richard Foley,Male,70,hughesvanessa@example.org,0959624250,Garzachester,Washington,USA,80532,2021-01-21,Small Business,Retail,Card,42.5,62.7
+CUST000671,William Banks,Female,51,vperez@example.org,526-265-6976x2002,Alanberg,South Dakota,USA,34459,2022-04-09,Enterprise,App,ACH,38.0,20.66
+CUST000672,Lindsay Reed,Female,41,lindarodriguez@example.org,(857)455-7405,Everettview,Texas,USA,85155,2020-05-29,Residential,App,Bank Transfer,67.0,36.13
+CUST000673,Cindy Malone,Male,44,vhenderson@example.com,476-028-7586x4678,Garzamouth,Massachusetts,USA,38672,2023-06-04,Enterprise,App,Card,0.0,75.85
+CUST000674,Candice Oconnor,Female,73,tinathompson@example.net,1334004664,Saraview,Wyoming,USA,39332,2023-07-09,Enterprise,Web,ACH,38.6,74.27
+CUST000675,Alexandria Acevedo,Male,59,trobertson@example.org,(552)738-6339,West Daniel,Wyoming,USA,17726,2024-05-30,Enterprise,Retail,Wallet,7.7,5.0
+CUST000676,Robert Knight,Male,18,thomasacosta@example.com,+1-168-403-5618x02307,Cookstad,Connecticut,USA,05733,2020-03-29,Residential,Retail,Bank Transfer,30.6,57.11
+CUST000677,Jamie Price,Other,53,williamsonchristina@example.org,5148139287,West Mirandaberg,Nevada,USA,47428,2021-06-13,Small Business,App,Bank Transfer,41.1,49.83
+CUST000678,Cheryl Martinez,Female,42,biancaweber@example.org,347.185.6489,South Joshua,Indiana,USA,53824,2025-05-04,Small Business,Call Center,Card,57.4,50.55
+CUST000679,Rachel Mcmahon,Male,71,michaelharris@example.org,+1-605-915-9917,Timothyside,Illinois,USA,66565,2021-08-17,Residential,Web,Card,17.5,58.97
+CUST000680,Michael Parks,Female,72,gravescarol@example.net,7900913381,Lake Nancychester,Missouri,USA,14071,2025-10-07,Enterprise,App,Wallet,45.6,25.76
+CUST000681,Brian Nicholson,Other,79,chase18@example.org,001-206-723-2083,Cainstad,Tennessee,USA,89772,2024-08-04,Enterprise,Web,Bank Transfer,31.2,47.51
+CUST000682,Keith Smith,Other,74,hahnmark@example.org,001-225-389-7761x655,New Jesus,Michigan,USA,37288,2023-05-14,Small Business,Call Center,ACH,60.4,74.05
+CUST000683,Nicolas Bailey,Other,62,rachelburke@example.com,(338)970-1356x0747,Anthonyton,South Carolina,USA,16627,2020-01-25,Small Business,App,Bank Transfer,32.6,23.98
+CUST000684,Laura Wright,Male,35,ryancarpenter@example.net,275.366.6710x219,Williamland,Iowa,USA,71945,2024-10-04,Small Business,Call Center,ACH,19.8,5.0
+CUST000685,Nancy Jackson,Male,56,tross@example.org,8143837453,Smallborough,Texas,USA,88111,2021-01-12,Small Business,App,ACH,49.0,20.67
+CUST000686,Jose Lee,Other,45,christopherford@example.org,6026924893,West Stephen,Delaware,USA,70570,2025-10-12,Residential,Retail,Bank Transfer,27.4,26.35
+CUST000687,Sara Lynch,Other,24,sarah32@example.net,990-116-8415x14116,Christopherburgh,Texas,USA,44934,2025-01-30,Residential,Web,Bank Transfer,32.2,31.15
+CUST000688,Theresa Khan,Male,49,brian88@example.net,199-549-8377x314,Thomasview,Washington,USA,55342,2021-12-31,Small Business,App,ACH,53.1,41.24
+CUST000689,Billy Mcknight,Other,75,cmontes@example.net,354-870-3243,West Cody,Kentucky,USA,41740,2025-09-06,Small Business,Web,ACH,0.0,52.33
+CUST000690,Julia Dixon,Male,70,melissa28@example.com,(749)257-7007,Port Sandra,Alabama,USA,06887,2021-03-24,Residential,Retail,ACH,28.0,39.67
+CUST000691,Melissa Hernandez,Female,75,porterjordan@example.com,001-657-556-0924x2379,Smithfurt,Utah,USA,24872,2020-05-25,Enterprise,Web,Card,19.7,30.56
+CUST000692,Jesse Martinez,Female,52,ruiztodd@example.net,(023)971-4006x60341,West Sandra,Nevada,USA,77407,2023-12-29,Enterprise,Retail,ACH,1.6,65.16
+CUST000693,David Wright,Male,68,martinrichard@example.com,948-682-1787x886,Reidhaven,California,USA,50367,2021-09-10,Enterprise,App,Bank Transfer,37.6,60.96
+CUST000694,Frank Norman,Female,65,maguilar@example.org,+1-229-963-7279x7383,Kimberlyfurt,Maryland,USA,83955,2024-06-09,Residential,App,ACH,70.4,44.54
+CUST000695,Eric Charles,Female,42,diazmatthew@example.net,(304)162-0510x7773,Port Karichester,Ohio,USA,97552,2023-03-29,Enterprise,App,ACH,23.6,36.06
+CUST000696,Lori Duncan,Other,47,kristifischer@example.com,461.588.1997x623,Hernandezmouth,Nebraska,USA,58011,2020-09-12,Small Business,App,Bank Transfer,24.9,51.06
+CUST000697,Patrick Lopez,Female,55,wrightwendy@example.com,001-425-489-8972x1824,Grahamside,Illinois,USA,97491,2020-10-08,Small Business,Web,Wallet,10.4,76.19
+CUST000698,Joyce Meyer,Male,60,april82@example.net,352.163.2283,Michaelview,Nevada,USA,71279,2024-05-28,Enterprise,Retail,Bank Transfer,31.8,36.86
+CUST000699,Tiffany Pugh,Other,31,caseyhughes@example.org,(217)778-1277,Port Amberberg,New Mexico,USA,97975,2025-02-20,Small Business,App,Wallet,26.5,48.52
+CUST000700,Lauren Alexander,Male,25,njordan@example.org,351.295.8434,Lake Jennifer,Vermont,USA,95974,2022-08-02,Small Business,Call Center,ACH,16.3,49.77
+CUST000701,Luis Reynolds,Female,54,gbrown@example.net,(691)995-6884x531,Lake Jamesburgh,New Mexico,USA,21239,2025-06-29,Small Business,Web,Card,11.5,39.23
+CUST000702,Anthony Petty,Male,26,fosterjohn@example.com,4421545846,West Ralphfurt,Massachusetts,USA,14740,2022-01-07,Residential,App,Wallet,61.4,43.01
+CUST000703,Austin Kennedy,Other,36,amber14@example.com,196-795-9065,Woodsport,California,USA,02901,2023-12-26,Small Business,Retail,ACH,0.0,43.43
+CUST000704,Logan Gross,Other,42,teresarobinson@example.com,208.602.2982x913,Jacksonview,Arkansas,USA,02913,2022-05-02,Small Business,Call Center,Card,40.4,35.83
+CUST000705,Denise Bell,Female,27,garzadylan@example.org,(005)525-9906,North Jacqueline,Montana,USA,18439,2023-08-19,Small Business,App,ACH,35.7,35.03
+CUST000706,Scott Hunt,Female,28,rogersanthony@example.org,(302)445-9719x154,East Adamshire,New Mexico,USA,83901,2025-05-15,Small Business,Call Center,Bank Transfer,52.1,62.78
+CUST000707,Tamara Young,Male,29,mitchellnatalie@example.com,871-439-9793x82530,West Dylan,Utah,USA,47804,2025-02-09,Small Business,Retail,ACH,17.1,26.23
+CUST000708,Mr. Christopher Morgan,Female,18,elizabethcowan@example.org,022.929.4289x7310,West Kaitlyn,South Dakota,USA,96466,2023-08-02,Enterprise,Web,Wallet,24.4,37.73
+CUST000709,Nathan Mendoza,Other,51,hilltheresa@example.com,001-585-163-6011x766,New Gregg,Louisiana,USA,38377,2024-12-12,Enterprise,Web,Card,52.5,28.55
+CUST000710,Sydney Hutchinson,Other,68,brichards@example.net,+1-003-113-9066x106,Freemanview,Maine,USA,59111,2023-05-07,Small Business,Call Center,ACH,19.0,41.94
+CUST000711,Mary Ramos,Female,44,weaverandrew@example.net,425.521.8636,Richardsonfurt,New Hampshire,USA,59378,2023-10-20,Small Business,Retail,ACH,0.0,34.71
+CUST000712,Kelsey Juarez,Male,22,estevens@example.org,748-313-2817x24118,East David,New York,USA,19272,2023-01-01,Residential,Web,Bank Transfer,39.3,17.92
+CUST000713,Thomas Barrera,Male,64,johnsoncindy@example.com,(731)203-3396x488,New Kristen,Kansas,USA,52228,2021-04-16,Residential,Retail,Wallet,5.9,25.5
+CUST000714,John Stokes,Male,26,marissa44@example.org,(664)889-2092,East Matthewchester,California,USA,18530,2023-12-05,Residential,Retail,Card,4.0,35.39
+CUST000715,Amber Rodriguez,Other,27,richardsmith@example.net,684-776-2454,Montoyaburgh,Delaware,USA,51744,2020-01-23,Residential,Retail,Wallet,6.8,63.61
+CUST000716,Joel Davis,Male,18,brett47@example.net,225.209.0058x41861,New Jennifer,North Dakota,USA,69872,2021-04-14,Residential,App,Bank Transfer,43.7,38.94
+CUST000717,Raven Smith,Other,67,xreynolds@example.com,001-851-582-5915x403,South Jillstad,South Dakota,USA,94806,2021-09-04,Residential,Call Center,Wallet,19.1,39.01
+CUST000718,Brian Novak,Female,34,nancy78@example.net,+1-519-439-8297x41786,Marshallville,Kansas,USA,74529,2024-06-17,Enterprise,Web,Bank Transfer,11.8,65.8
+CUST000719,Andrew Humphrey,Other,24,vmoore@example.net,+1-471-066-1119x565,Yvonneville,Mississippi,USA,66914,2020-04-29,Enterprise,Web,ACH,59.4,39.28
+CUST000720,Linda Mcintosh,Other,25,jonestaylor@example.net,682.800.9797x994,Heatherhaven,Delaware,USA,98019,2020-08-27,Small Business,Web,Bank Transfer,46.2,58.74
+CUST000721,Christopher Hanson,Male,27,spittman@example.org,(287)109-4549x40303,West Katherineborough,Alabama,USA,04883,2023-11-30,Enterprise,Retail,ACH,34.6,40.62
+CUST000722,Katherine Smith,Other,31,fostersara@example.net,+1-775-218-5861x31389,West Melissa,Massachusetts,USA,49847,2024-05-18,Enterprise,App,Card,37.1,51.2
+CUST000723,Victoria Hansen,Female,40,xromero@example.com,+1-817-401-4936x052,Watsonfort,South Dakota,USA,98333,2025-09-10,Small Business,App,ACH,28.9,94.06
+CUST000724,Michelle Martinez,Male,40,crystal08@example.net,185-333-5217,Thomasside,Arizona,USA,57772,2023-07-16,Enterprise,Retail,ACH,0.0,47.21
+CUST000725,Juan Black,Female,50,angelaclements@example.org,8772646832,South Angelaview,Wisconsin,USA,50361,2024-03-03,Enterprise,App,Card,11.1,40.88
+CUST000726,Matthew Marshall,Other,22,estradakimberly@example.net,200-667-6034x9944,Garyville,Montana,USA,79596,2025-01-10,Residential,Web,ACH,46.4,50.0
+CUST000727,Amanda Lawrence,Female,19,patrickporter@example.org,474-607-7090,West Jonathanberg,Michigan,USA,10534,2021-07-23,Small Business,Web,Card,58.9,11.44
+CUST000728,Julia Yang,Other,67,bporter@example.com,655.953.2459x8515,New Katrinaview,Florida,USA,68847,2025-09-12,Residential,Web,Card,0.0,54.23
+CUST000729,Michael Rocha,Male,18,halvarado@example.com,+1-805-076-5933x2508,Mirandaberg,Nebraska,USA,44309,2020-04-05,Enterprise,Call Center,Wallet,29.1,22.34
+CUST000730,Richard Rose,Other,34,samuel98@example.net,001-142-892-2386x34931,Ericfurt,Hawaii,USA,79815,2025-09-28,Enterprise,Web,Card,2.9,47.07
+CUST000731,Theodore Martinez,Male,22,victoria69@example.net,001-435-513-2828,Port Amy,Utah,USA,58486,2022-12-26,Enterprise,Call Center,Wallet,40.3,31.89
+CUST000732,Jacqueline Davies,Male,43,espinozaanthony@example.org,001-904-337-2214x7601,South Ashleymouth,Texas,USA,40364,2020-07-19,Residential,Call Center,Card,15.6,51.33
+CUST000733,Jacqueline Garcia,Other,42,evanstaylor@example.com,725.510.2383,Lake Sarahfurt,Oklahoma,USA,13049,2021-07-01,Enterprise,Retail,Card,34.3,45.55
+CUST000734,Hannah Molina,Female,18,usantiago@example.com,(002)688-1512,Powerschester,New Jersey,USA,42147,2020-03-08,Small Business,Web,Card,56.7,69.2
+CUST000735,Patrick Henry,Male,47,uhall@example.org,001-071-134-0592,North Erinburgh,South Carolina,USA,49277,2023-02-21,Residential,Web,Wallet,44.0,42.91
+CUST000736,James Combs,Other,63,cmiller@example.net,(366)463-0563,Rushburgh,Nevada,USA,38551,2025-08-07,Residential,Web,ACH,0.1,20.55
+CUST000737,Richard Goodman,Female,77,etanner@example.org,(756)835-7639,Livingstonshire,Vermont,USA,96299,2022-04-18,Enterprise,Call Center,Wallet,17.0,55.44
+CUST000738,Kevin Miller,Female,23,melissa87@example.net,+1-526-127-5621x17165,East Michelle,South Dakota,USA,84968,2024-08-11,Residential,Retail,Card,26.1,54.17
+CUST000739,Timothy Garcia,Female,74,lopezpaula@example.com,(984)908-4026,North Christopherbury,Tennessee,USA,72199,2022-08-21,Enterprise,App,Card,19.7,35.83
+CUST000740,Rachel Walsh,Male,23,griffinsarah@example.org,763-518-7140x8813,Monicaberg,New Jersey,USA,68239,2025-03-05,Residential,Web,ACH,5.6,68.93
+CUST000741,Brent Lewis,Female,37,taylorlori@example.org,+1-706-466-3225x993,North Nathan,Idaho,USA,48120,2021-01-05,Residential,Retail,Bank Transfer,17.0,31.6
+CUST000742,Paul Chambers,Male,64,anthony98@example.org,(978)400-7638x2163,Hernandezville,Texas,USA,53055,2020-01-04,Enterprise,Call Center,Bank Transfer,64.0,56.18
+CUST000743,Jacob Calderon,Female,38,shafferian@example.org,(906)063-5550,Lake Rhonda,Louisiana,USA,94283,2025-09-13,Residential,Web,ACH,37.3,23.75
+CUST000744,Michelle Anderson,Male,56,michelle56@example.com,4784981757,East Rhonda,Missouri,USA,28624,2021-12-29,Small Business,App,ACH,22.5,5.0
+CUST000745,Matthew Alexander,Male,32,lewisamy@example.net,(959)724-5101x206,Port Timothymouth,Michigan,USA,27136,2022-03-01,Small Business,Retail,Card,80.6,45.23
+CUST000746,Nathan Johnson,Other,25,andersonjoel@example.com,001-823-484-0483x94670,West Eileenstad,Utah,USA,03230,2022-09-25,Small Business,App,ACH,4.7,42.58
+CUST000747,Debra Williams,Other,60,juarezseth@example.org,(449)358-8482,South Lisatown,Virginia,USA,28492,2020-06-25,Enterprise,App,Card,47.8,43.67
+CUST000748,Heather Hoover,Female,52,marissa37@example.org,(691)992-6132x445,Terrychester,Michigan,USA,31891,2020-07-07,Small Business,Call Center,Card,16.0,50.52
+CUST000749,William Patel,Female,45,xthomas@example.net,739.589.4258,Nicolehaven,Mississippi,USA,16063,2024-12-23,Small Business,Web,Card,0.7,61.72
+CUST000750,Jamie Brown,Other,32,smithchris@example.com,5122004425,Lunaport,Idaho,USA,01517,2022-03-15,Enterprise,App,Card,42.7,55.79
+CUST000751,Thomas Thomas,Female,75,upena@example.org,741.795.2010,South Kelly,Maine,USA,27225,2025-06-20,Small Business,Call Center,ACH,0.0,35.42
+CUST000752,Timothy Schroeder,Other,31,susan15@example.net,001-111-085-4544x262,Johnsonland,Montana,USA,43489,2025-01-16,Small Business,Web,ACH,14.7,71.14
+CUST000753,Megan Allen,Female,41,laurencalderon@example.org,452-800-5670x44401,Melissaton,New York,USA,06866,2021-03-14,Residential,App,Card,54.2,86.12
+CUST000754,Thomas Cole,Female,31,jeremiah55@example.net,001-939-417-0342x94076,Elizabethmouth,Massachusetts,USA,11871,2022-12-30,Residential,Web,ACH,40.4,62.86
+CUST000755,Timothy Perry,Male,74,john81@example.com,201-017-5354x3401,West Davidmouth,Kentucky,USA,37323,2022-10-17,Small Business,Call Center,Bank Transfer,1.1,19.7
+CUST000756,Amber Snyder,Male,63,ihall@example.net,094.011.5037,Lake Jonathan,Oklahoma,USA,86181,2021-05-29,Small Business,App,Wallet,28.9,44.75
+CUST000757,Devin Norris,Female,30,lbeck@example.org,001-049-803-2574x359,Josephmouth,South Carolina,USA,65658,2023-10-21,Residential,Web,Bank Transfer,47.3,56.93
+CUST000758,Lori Leblanc,Female,71,inash@example.com,+1-795-591-2700x391,New Nathan,Iowa,USA,24889,2020-02-05,Small Business,Retail,Wallet,12.1,42.19
+CUST000759,Walter Reese,Other,50,caseymorris@example.org,413.491.8445,Valerieview,Mississippi,USA,18355,2023-12-08,Small Business,App,Bank Transfer,7.3,33.45
+CUST000760,Jamie Cooper,Male,55,alvarezerin@example.org,+1-397-304-5412,East Sarah,Florida,USA,52371,2023-10-28,Small Business,App,ACH,40.9,50.67
+CUST000761,Renee Hensley,Other,19,mendozaaustin@example.com,919-667-8789x56367,East Brianstad,Arizona,USA,43618,2024-02-03,Residential,Web,Card,19.0,36.44
+CUST000762,Kent Nguyen,Other,42,michael22@example.net,001-935-897-9763x40996,Ruizhaven,New Mexico,USA,21550,2020-06-28,Enterprise,Call Center,ACH,24.8,25.01
+CUST000763,Ashley Fletcher,Other,18,vsmith@example.com,213-129-3938x44360,New Anthonyshire,Arizona,USA,64768,2024-12-01,Residential,Call Center,Bank Transfer,23.2,43.56
+CUST000764,Daniel Hinton MD,Other,20,ubrown@example.net,221.381.2094x475,South Stephanieside,Indiana,USA,49870,2025-06-30,Small Business,Web,Card,54.0,28.85
+CUST000765,Chad King,Male,27,gromero@example.com,001-203-603-1819x9296,South Jameshaven,Alaska,USA,63398,2020-12-15,Small Business,Retail,ACH,13.8,42.3
+CUST000766,Robert Lopez,Other,20,xanderson@example.com,(091)144-7246x629,Gonzalesburgh,Georgia,USA,47259,2022-10-06,Small Business,App,Wallet,16.1,58.42
+CUST000767,Matthew Mora,Other,23,lawrencewilson@example.net,(428)168-1958x22332,Port Kathleen,Tennessee,USA,19145,2024-12-17,Enterprise,Retail,Bank Transfer,39.0,55.19
+CUST000768,Emily Simpson,Male,35,michael42@example.net,(136)534-4259x400,Powellburgh,Idaho,USA,14989,2025-01-05,Enterprise,App,Wallet,31.1,24.9
+CUST000769,Lawrence Wise,Male,75,cgonzales@example.org,2682754251,East Todd,South Dakota,USA,59979,2023-03-22,Enterprise,Call Center,ACH,0.0,40.01
+CUST000770,April Garcia,Female,26,dwilliams@example.com,257.904.9018x477,Angelafurt,New York,USA,31031,2024-10-30,Residential,Retail,Card,16.9,36.4
+CUST000771,Laurie Adams,Male,29,shanebennett@example.com,170-592-1201x0073,Silvastad,Hawaii,USA,80001,2023-06-19,Small Business,Retail,Card,20.1,37.18
+CUST000772,Anne Molina,Male,77,matthewguzman@example.com,(387)421-9724,Johnsonfort,California,USA,07403,2025-04-14,Enterprise,App,Bank Transfer,23.3,63.2
+CUST000773,Deanna Moore,Female,59,howarddonald@example.net,926-689-2872x6969,Brianview,Illinois,USA,11465,2022-04-16,Enterprise,App,ACH,29.0,38.0
+CUST000774,Julia Cook,Male,37,timothyhernandez@example.com,368.488.1838,Brownhaven,Arizona,USA,87485,2024-12-23,Enterprise,App,ACH,0.0,64.9
+CUST000775,Stephen Wright,Male,59,martineztyler@example.org,(348)845-5026x469,Wuchester,Kansas,USA,09972,2025-04-02,Enterprise,Web,Bank Transfer,0.0,62.2
+CUST000776,Robert Nguyen,Male,74,schroederallen@example.net,(893)628-7918,Maxwellport,Rhode Island,USA,13388,2020-08-09,Small Business,Call Center,ACH,42.7,10.15
+CUST000777,Brian Watts,Male,27,qwarren@example.com,(321)565-6842x09766,Angelland,New York,USA,48004,2022-05-30,Residential,Call Center,Bank Transfer,0.4,60.78
+CUST000778,Lynn Kramer,Other,54,steinbrandon@example.com,073-941-9127,Millertown,Pennsylvania,USA,70616,2021-05-02,Small Business,Web,ACH,42.1,31.89
+CUST000779,David Jordan,Male,68,patrickmorris@example.org,(876)905-6506x5493,Lake Kathy,Pennsylvania,USA,64899,2025-09-04,Small Business,Web,ACH,49.4,53.77
+CUST000780,Bradley Conrad,Other,61,areynolds@example.net,139.428.3535x1972,Darinshire,Mississippi,USA,46630,2021-07-30,Residential,Web,Card,8.0,42.38
+CUST000781,Daniel Smith,Male,39,unicholson@example.net,469.026.1785,New Rachel,Texas,USA,24878,2020-03-31,Residential,Web,Card,10.6,29.54
+CUST000782,Michele Mason,Female,41,nealsheila@example.com,576.678.1871x931,Brandybury,Vermont,USA,90181,2023-08-30,Small Business,App,ACH,17.4,20.65
+CUST000783,Jeremiah Clark,Other,70,matthew13@example.com,001-561-115-6301x410,Martinside,New Jersey,USA,59846,2025-08-12,Small Business,Retail,ACH,43.1,31.24
+CUST000784,Olivia Wheeler,Female,18,ebrown@example.com,001-882-264-8515x94359,Bergerbury,Alabama,USA,88746,2022-08-11,Small Business,Call Center,ACH,17.6,47.79
+CUST000785,Michael Williams,Female,48,rmalone@example.net,013-048-6966x2909,Michaelstad,Maryland,USA,73381,2025-09-06,Small Business,Web,ACH,34.1,60.13
+CUST000786,Elizabeth Castro,Female,41,woodamy@example.com,001-982-951-4699x9353,Cynthiabury,New Jersey,USA,01276,2023-04-07,Residential,App,ACH,44.1,46.26
+CUST000787,Jeremy Jones,Male,59,scott34@example.com,1540112801,Christopherville,Wisconsin,USA,39296,2023-01-07,Small Business,App,ACH,39.0,84.13
+CUST000788,Earl Jones,Male,69,angel45@example.org,555-573-8930,Rileymouth,Wyoming,USA,67785,2023-08-31,Residential,Web,ACH,21.6,48.07
+CUST000789,Matthew Bell,Male,42,murphymark@example.com,461-523-2404,Port Robert,Michigan,USA,58670,2022-04-22,Residential,Call Center,Card,19.7,44.68
+CUST000790,Jennifer Singh,Female,38,cindy91@example.net,(410)530-2713x470,Lake Mary,Rhode Island,USA,81307,2024-03-04,Enterprise,Call Center,Wallet,58.0,37.27
+CUST000791,Robert Harris,Male,55,ovalencia@example.org,+1-245-649-8521,Onealstad,Maine,USA,96704,2024-08-24,Enterprise,Call Center,Bank Transfer,6.6,27.13
+CUST000792,Kevin Wilkerson,Male,53,meghanwilliams@example.net,+1-952-976-3388x49337,Johnbury,Arkansas,USA,60185,2020-02-07,Small Business,App,ACH,18.2,86.15
+CUST000793,Aaron Williams,Female,59,matthewsdavid@example.org,476-665-6670x0960,Ricardochester,West Virginia,USA,22808,2022-04-29,Residential,App,Wallet,28.3,17.76
+CUST000794,Jennifer Palmer,Male,76,ynewton@example.net,001-718-655-0425,New Stephanie,Oregon,USA,59836,2024-05-07,Enterprise,Call Center,Wallet,46.3,58.34
+CUST000795,Gregory Casey,Other,18,bakerjennifer@example.org,+1-125-544-8657x1876,Port Timothyside,Oklahoma,USA,60824,2021-07-12,Small Business,Web,Wallet,43.8,55.39
+CUST000796,Marilyn Bowman,Female,23,melvin55@example.net,+1-962-585-3444x175,Montoyamouth,New Hampshire,USA,18620,2020-12-23,Residential,App,Bank Transfer,33.0,39.19
+CUST000797,Whitney Nichols,Male,66,zforbes@example.org,368.701.2381x76054,Maureenburgh,Georgia,USA,53233,2023-10-27,Residential,Web,Bank Transfer,14.7,6.7
+CUST000798,Tyrone Acevedo,Female,74,scottstewart@example.net,157-118-2164,Jonathanchester,Wyoming,USA,93367,2020-02-26,Enterprise,Web,Bank Transfer,43.1,55.18
+CUST000799,Stephanie Schneider,Male,67,rocharaymond@example.net,001-609-469-2027x635,New Stephanie,Alaska,USA,86409,2023-11-10,Residential,Call Center,Bank Transfer,33.7,55.67
+CUST000800,Dr. Rhonda Green DVM,Male,52,jeanetteward@example.net,(371)310-0209x52184,Briantown,Maine,USA,11163,2024-06-16,Residential,Call Center,Card,26.0,41.55
+CUST000801,Aaron Brown,Female,46,anthony27@example.org,001-479-395-4749x96794,North Kenneth,Pennsylvania,USA,29084,2021-07-23,Small Business,Retail,Wallet,45.0,76.57
+CUST000802,Sarah Smith,Other,70,edominguez@example.org,+1-671-214-1895,Lake Audreyburgh,Washington,USA,76545,2021-01-01,Enterprise,Retail,Wallet,11.9,45.4
+CUST000803,Tina Fletcher,Male,25,teresasmith@example.net,(442)735-1371x4813,East Robert,North Carolina,USA,47586,2021-09-25,Residential,App,Card,69.6,28.0
+CUST000804,Brett Peterson,Female,62,mosesvictoria@example.org,001-403-241-9306x20058,Mossfort,Arkansas,USA,08255,2024-12-28,Enterprise,Web,ACH,9.9,61.61
+CUST000805,Jason Krause,Other,35,perezdawn@example.net,321.172.9223x0705,Carterhaven,Ohio,USA,98588,2025-02-16,Residential,Web,Card,43.9,38.13
+CUST000806,Michael Deleon,Female,38,sarahbrown@example.org,392.511.5282x448,West Cory,Texas,USA,51876,2021-04-21,Residential,Call Center,ACH,21.5,90.93
+CUST000807,Sierra Schmidt,Female,46,lisafoster@example.org,594-785-7390x4955,West James,Minnesota,USA,85510,2021-08-02,Small Business,App,Bank Transfer,6.1,46.49
+CUST000808,Melissa Trevino MD,Other,69,michealanderson@example.org,(856)295-7256x782,New Richard,West Virginia,USA,51250,2021-10-29,Enterprise,Web,Card,32.9,38.96
+CUST000809,Justin Johnson,Other,67,wilsonmichael@example.org,(778)653-1495x0665,Bryanshire,Texas,USA,17073,2022-11-30,Residential,Retail,ACH,0.0,54.69
+CUST000810,Mr. James Lawson,Female,35,xroy@example.com,639.671.4471,North Juliaville,Maine,USA,56753,2022-08-31,Enterprise,App,ACH,16.9,55.12
+CUST000811,Jennifer Murphy,Other,51,michael09@example.org,(286)887-8428x84366,South Allison,Maryland,USA,07809,2022-12-08,Small Business,Web,ACH,38.6,11.6
+CUST000812,Marc Lee,Other,23,holly75@example.org,626-046-7907x322,Kristyland,Idaho,USA,24609,2021-12-23,Enterprise,Web,Card,55.4,49.16
+CUST000813,James Brown,Female,18,wallercindy@example.net,835.266.9620,West Jacobstad,Utah,USA,16197,2021-08-24,Residential,Call Center,Bank Transfer,19.7,46.4
+CUST000814,Laurie Hernandez,Other,36,martintony@example.com,(678)877-7538,Lake Scott,Oklahoma,USA,50278,2025-04-14,Small Business,Web,ACH,25.5,12.37
+CUST000815,April Shepherd,Other,78,brian02@example.net,185.238.2201x53998,Rubenton,Connecticut,USA,86511,2023-11-11,Residential,Retail,ACH,27.7,54.18
+CUST000816,Sheila Arnold,Other,46,ramoslatoya@example.org,(006)272-4855,Hollowaybury,South Dakota,USA,12114,2023-03-15,Small Business,Call Center,Wallet,10.3,51.26
+CUST000817,Zachary Mitchell,Male,25,whitealicia@example.net,(078)691-4199,East Morgan,Mississippi,USA,90598,2021-05-23,Enterprise,Retail,Wallet,24.1,32.43
+CUST000818,Emily Smith,Other,63,kaitlynstevenson@example.org,249.167.4844x5630,South Cody,Maine,USA,83430,2021-02-10,Enterprise,App,ACH,0.0,23.62
+CUST000819,Justin Brown,Male,74,lrodriguez@example.org,003-196-9196x78717,New Cody,Delaware,USA,61902,2024-09-12,Residential,Call Center,Bank Transfer,15.0,14.45
+CUST000820,Timothy Murray,Other,18,martinezannette@example.net,221-874-6991,East Nicholas,South Carolina,USA,07275,2021-02-15,Enterprise,Call Center,ACH,60.7,37.76
+CUST000821,Angelica Edwards,Female,57,timothy36@example.org,2261831620,New Robertport,Texas,USA,57820,2022-11-10,Enterprise,Call Center,Bank Transfer,23.8,37.01
+CUST000822,Joe Williams,Male,21,lyonsjasmine@example.net,808-188-9594,Mikemouth,Massachusetts,USA,60548,2024-07-27,Small Business,Call Center,Bank Transfer,3.3,56.63
+CUST000823,Brandon Sampson,Female,78,zturner@example.com,9742136808,Allisonmouth,Ohio,USA,19275,2025-01-09,Small Business,Call Center,Wallet,48.8,36.49
+CUST000824,Bruce Lee,Male,25,phillipsjared@example.org,001-984-068-5709,Monroefurt,Oklahoma,USA,27846,2023-03-14,Residential,App,Bank Transfer,0.0,33.38
+CUST000825,Katherine Lopez,Female,71,cody28@example.org,+1-976-130-7939x829,Parrishstad,Oregon,USA,69828,2024-01-20,Small Business,Retail,Card,10.9,71.2
+CUST000826,Nicole Johnson,Female,38,nelsonlisa@example.com,(434)378-5053x79135,Josephside,Colorado,USA,61999,2021-12-07,Enterprise,Retail,Card,22.3,76.79
+CUST000827,Roger Freeman,Female,44,trowland@example.com,151.521.6277,North Ronald,Wisconsin,USA,57953,2021-12-26,Enterprise,App,Card,27.9,89.45
+CUST000828,Nicholas Morris,Other,68,jeremybutler@example.net,211-963-4993,Victorville,Maryland,USA,12774,2021-01-16,Small Business,Retail,Bank Transfer,53.2,63.72
+CUST000829,Joshua Williams,Male,40,ojordan@example.org,(278)464-2946,Lutzbury,Nevada,USA,89297,2022-10-27,Small Business,Web,Card,14.3,45.27
+CUST000830,Justin Evans,Male,19,gdaugherty@example.net,001-296-564-8255x703,North Juanchester,Colorado,USA,37408,2022-11-20,Residential,Retail,ACH,53.5,62.87
+CUST000831,Madison Ramirez,Female,31,gomezgerald@example.net,853.574.4886,Terranceburgh,Alabama,USA,07629,2020-08-28,Enterprise,Web,Wallet,14.1,40.4
+CUST000832,Kara Johnson,Male,77,brian37@example.com,(573)951-3772,Meganton,Wisconsin,USA,13860,2023-01-18,Residential,Retail,ACH,0.8,30.74
+CUST000833,Tina Davis,Male,38,grios@example.com,001-692-178-3659x96771,Castanedatown,Vermont,USA,28814,2023-01-23,Small Business,App,Wallet,41.0,52.09
+CUST000834,Monica Haynes,Other,40,dianesmith@example.org,+1-280-266-5977x279,Stokesmouth,Connecticut,USA,43609,2023-04-28,Small Business,Web,Card,8.8,26.07
+CUST000835,Michael Brown,Male,75,uhoward@example.org,001-653-098-9205x590,South Sarah,Texas,USA,22142,2021-06-17,Enterprise,Web,Wallet,53.8,60.36
+CUST000836,James White,Male,49,xgutierrez@example.org,001-943-544-3092x5333,Josephburgh,Pennsylvania,USA,07082,2022-06-25,Small Business,Retail,ACH,53.0,33.55
+CUST000837,Michael Stevens,Other,19,jeffrey94@example.com,(791)253-9240x5399,New Nathanstad,Wyoming,USA,09321,2020-06-30,Residential,Call Center,Wallet,31.8,53.94
+CUST000838,Andrew Clark,Female,75,catherine86@example.org,680.635.8436x50605,Port Cassandra,Montana,USA,47093,2022-05-19,Small Business,Call Center,ACH,45.9,5.0
+CUST000839,Bobby Castillo,Male,53,austin88@example.net,001-070-641-7415x076,Glennside,Alabama,USA,75793,2020-11-28,Small Business,Call Center,ACH,35.7,47.94
+CUST000840,Vincent Koch,Other,63,dillonsarah@example.net,107-296-1199,Courtneyhaven,South Dakota,USA,50132,2021-10-05,Residential,Call Center,Bank Transfer,26.5,34.01
+CUST000841,Kimberly Knapp,Male,26,susan91@example.org,+1-241-164-9902x186,Ramirezton,New Mexico,USA,63463,2024-12-30,Enterprise,Retail,Wallet,0.0,54.69
+CUST000842,Rachel Davis,Other,67,thompsonchristopher@example.net,(894)469-1675x4195,West Stacymouth,West Virginia,USA,33486,2025-08-30,Enterprise,App,ACH,22.6,36.06
+CUST000843,Brandon Ward,Male,69,kevinquinn@example.net,749.526.0148x8610,North Juan,Georgia,USA,79120,2020-05-16,Residential,Retail,ACH,32.9,5.0
+CUST000844,Veronica Johnston,Male,26,jbrown@example.net,+1-809-070-8180x359,Brandonfurt,Wyoming,USA,13230,2024-07-09,Small Business,App,Wallet,32.1,35.95
+CUST000845,Daniel Lopez,Other,69,jeffrey11@example.com,667-790-5828,West Alexa,Mississippi,USA,63768,2021-05-26,Small Business,Retail,Wallet,24.0,9.12
+CUST000846,Cory Lang,Female,51,cbailey@example.org,756.372.9835,North Robert,Wyoming,USA,45947,2024-02-15,Small Business,Web,Wallet,0.0,54.98
+CUST000847,Lee Powell,Female,74,nthompson@example.com,876.879.8504x75023,South Nicole,Pennsylvania,USA,47385,2020-09-26,Enterprise,Call Center,Wallet,33.8,75.43
+CUST000848,David Rice,Male,33,larrygarza@example.net,165-161-2418x69194,Andersonburgh,Arizona,USA,85019,2020-03-30,Enterprise,App,ACH,42.1,62.99
+CUST000849,Kelsey Forbes,Other,38,russellwilliam@example.org,893.654.1519x35549,Lake Olivia,Tennessee,USA,45936,2020-01-12,Enterprise,Web,Wallet,55.8,46.25
+CUST000850,Melanie Dennis,Female,32,nwhitaker@example.net,001-328-232-4051x70845,Port Janice,Tennessee,USA,93580,2024-06-16,Enterprise,Retail,Card,47.2,75.7
+CUST000851,James Banks,Other,27,david60@example.com,001-869-296-5783x161,Mcintoshville,Nebraska,USA,93521,2021-01-24,Residential,App,Bank Transfer,16.2,10.98
+CUST000852,Mark Sherman,Female,37,aholder@example.com,001-932-455-2205,East Ashleyview,Mississippi,USA,53897,2024-03-10,Residential,Retail,Bank Transfer,21.9,24.85
+CUST000853,Jill Thompson,Other,65,isharp@example.com,001-607-298-1499x925,East Shawn,Illinois,USA,43228,2020-01-12,Residential,Retail,ACH,24.1,36.62
+CUST000854,Margaret Crawford,Male,39,lorizuniga@example.org,(843)534-7676,Moodymouth,Hawaii,USA,27233,2020-11-12,Residential,App,Wallet,31.7,37.76
+CUST000855,Cheryl Larson,Other,71,kpearson@example.com,+1-705-015-6059x38532,New Markport,Utah,USA,77704,2024-10-07,Small Business,Retail,ACH,22.0,49.16
+CUST000856,Elizabeth Riley,Other,28,qcardenas@example.net,+1-188-998-2531,East Bettychester,Indiana,USA,17269,2022-04-14,Enterprise,Web,ACH,26.1,63.79
+CUST000857,Sherry Jones,Male,54,xpearson@example.net,(160)709-4669x9233,Sarahfort,Montana,USA,21105,2020-08-23,Enterprise,Web,ACH,45.0,74.15
+CUST000858,Debra Hunter,Male,61,jwilson@example.org,(041)760-1988,North Michael,Arizona,USA,35948,2025-08-11,Residential,Retail,ACH,51.0,51.18
+CUST000859,Robert Fox,Female,54,vcuevas@example.org,6571178607,Port Leah,North Carolina,USA,21164,2023-01-09,Residential,Retail,Wallet,24.8,28.02
+CUST000860,Elizabeth Harding,Female,57,tamarahunt@example.com,001-683-050-3197x080,East Richardmouth,Georgia,USA,94012,2023-02-12,Residential,Call Center,Bank Transfer,7.3,21.27
+CUST000861,Douglas Davis,Male,58,jbender@example.org,352.812.8792x375,South Stephenstad,Utah,USA,77714,2021-11-04,Residential,App,ACH,33.9,45.42
+CUST000862,Mrs. Pam Kelly,Female,27,nielsenstephanie@example.com,001-232-229-7307,Matthewfort,Nevada,USA,48864,2023-05-23,Small Business,App,Card,69.0,56.17
+CUST000863,Marvin Nunez,Other,40,robinsonshelley@example.org,421.894.2261,Lake Dana,Mississippi,USA,45933,2025-07-20,Residential,Retail,Bank Transfer,28.2,26.55
+CUST000864,Gary Rodriguez,Other,24,nreynolds@example.com,4061500958,Trevorbury,Minnesota,USA,80102,2024-01-18,Residential,Retail,ACH,52.3,73.87
+CUST000865,Ryan Velasquez,Female,28,cynthiabarker@example.com,671.135.0596x2256,Davidport,Maine,USA,95494,2023-07-14,Enterprise,Web,Card,0.0,33.48
+CUST000866,Rachel Romero,Other,36,davidpierce@example.net,(113)172-1620,Lake Loritown,Idaho,USA,35124,2022-12-07,Residential,App,ACH,0.0,68.21
+CUST000867,Angel Fry,Other,69,lauren13@example.net,299.800.2268x500,West Mariahmouth,Idaho,USA,15212,2024-01-01,Small Business,Retail,Card,77.1,30.2
+CUST000868,Lauren Johnson,Other,28,bsummers@example.org,(511)020-5807,Lake Brittanyborough,Maine,USA,34962,2020-09-05,Residential,App,Bank Transfer,34.9,61.91
+CUST000869,Shari Cortez,Female,57,roylopez@example.net,(873)164-5639x058,South Tammyton,Ohio,USA,87984,2021-08-13,Residential,Call Center,ACH,36.4,43.17
+CUST000870,Jason Peterson,Male,44,glennbush@example.net,787.942.2286x240,South Donald,Minnesota,USA,39778,2024-05-21,Enterprise,Web,Card,14.9,18.69
+CUST000871,Jeffrey Cannon,Other,23,felicia45@example.net,597.943.4908x375,South Diane,Georgia,USA,93659,2020-01-28,Enterprise,Call Center,Wallet,52.8,57.93
+CUST000872,Nicholas Kim,Other,71,denisegarcia@example.com,738.940.9589x4168,Lake Kellyside,South Dakota,USA,69638,2025-05-11,Enterprise,Call Center,Bank Transfer,22.8,39.72
+CUST000873,David Ramirez,Female,33,zpierce@example.net,155.584.9889x05203,West Davidborough,New Hampshire,USA,55864,2024-11-01,Residential,Retail,Card,48.0,53.22
+CUST000874,Lisa Barber,Other,40,rossjohn@example.net,001-240-693-4185,South Diana,Wisconsin,USA,28478,2020-04-30,Enterprise,Retail,ACH,44.3,22.18
+CUST000875,Steven Peterson,Female,56,qmartin@example.org,611.812.2957x210,Hendersonfort,Louisiana,USA,28957,2021-02-16,Enterprise,App,ACH,14.6,82.38
+CUST000876,Zachary Brewer,Female,24,carneysarah@example.com,001-588-596-1690x6498,Bushmouth,Oregon,USA,92042,2021-08-15,Residential,Web,Card,56.3,32.23
+CUST000877,Jennifer Taylor,Female,72,wanderson@example.com,+1-208-881-7651x928,North David,Wyoming,USA,10734,2023-02-17,Residential,Retail,ACH,15.4,18.56
+CUST000878,Allison Barnett,Other,34,fergusonmichelle@example.net,460-592-6296,Yvettetown,New Hampshire,USA,59858,2023-07-30,Small Business,App,Card,66.2,67.76
+CUST000879,Mr. Michael Harris,Female,32,qking@example.net,8855994580,Cruzshire,West Virginia,USA,51952,2022-07-12,Small Business,App,Bank Transfer,32.3,62.68
+CUST000880,Anna Wood,Other,67,singhdiana@example.net,(460)707-2269x70710,Gillborough,Delaware,USA,95272,2020-06-04,Small Business,Call Center,ACH,61.6,56.78
+CUST000881,Cynthia Wall,Female,48,georgeware@example.net,464-404-2700,West Allen,Utah,USA,97612,2024-05-25,Small Business,Retail,Wallet,15.9,51.24
+CUST000882,Blake Horton,Female,74,kevin50@example.net,(792)830-7062x736,East Alice,Tennessee,USA,51565,2022-10-16,Enterprise,Retail,Bank Transfer,7.4,36.02
+CUST000883,Bradley Costa,Female,60,duranbilly@example.org,(501)106-5272,Hendersonburgh,Hawaii,USA,68790,2025-02-20,Small Business,Retail,Wallet,42.1,60.98
+CUST000884,James Levy,Other,71,craigprince@example.net,(417)070-7671,Zavalaborough,Maine,USA,65488,2020-08-20,Residential,Web,Bank Transfer,56.6,62.97
+CUST000885,Paul Barnett,Male,49,julie34@example.org,001-690-761-4219x7590,North Brandonberg,Tennessee,USA,57891,2022-04-25,Enterprise,Call Center,Card,49.9,49.08
+CUST000886,Erin Nguyen,Female,19,krichmond@example.net,243-125-3529,Bradleyport,Florida,USA,17998,2025-04-17,Residential,Retail,Card,27.2,30.33
+CUST000887,Kerri Morris,Female,77,foxandrea@example.org,(054)934-9611,Rebeccaland,Indiana,USA,03775,2022-05-17,Small Business,Web,Card,43.6,29.71
+CUST000888,Andrew Lewis,Male,64,matthewcosta@example.com,027-362-6642,Yvettefort,New York,USA,38816,2021-11-01,Residential,Retail,Bank Transfer,24.1,85.08
+CUST000889,Casey Oconnell,Male,41,thomaslowery@example.net,+1-048-296-4873x61879,Evansfort,Missouri,USA,65305,2024-07-24,Residential,Retail,Card,10.7,31.26
+CUST000890,Christopher Ballard,Other,36,vwarren@example.net,(889)035-4191,Alexanderview,North Dakota,USA,09718,2021-01-30,Small Business,Retail,Wallet,31.4,52.79
+CUST000891,Danielle Molina,Male,21,fjohnson@example.net,+1-631-001-7076x25995,Lynchstad,Pennsylvania,USA,06908,2020-03-17,Residential,Web,Bank Transfer,42.5,33.73
+CUST000892,Erin Anderson,Female,53,kingdeanna@example.net,937.499.9807x9622,Derekport,New York,USA,71310,2020-03-31,Residential,Retail,Wallet,19.8,5.0
+CUST000893,Grace Robinson,Other,53,tammyglover@example.com,+1-388-054-7421x420,New Kathleentown,Illinois,USA,97927,2024-10-19,Enterprise,Web,Wallet,17.8,54.47
+CUST000894,Teresa Brock,Male,53,smithdan@example.com,383.578.9544,Dixonside,Nebraska,USA,22829,2022-03-20,Residential,Retail,ACH,55.6,14.24
+CUST000895,Joshua Gill,Female,30,david00@example.org,001-934-192-4546x16379,West Anna,South Carolina,USA,36132,2023-12-03,Residential,Call Center,Bank Transfer,0.0,23.52
+CUST000896,Angela Hickman,Female,45,charlesalvarez@example.com,733-520-8884x807,North Michael,Ohio,USA,19427,2024-04-29,Enterprise,Web,Bank Transfer,28.7,35.18
+CUST000897,Robert Adams,Male,23,hughesbrittany@example.net,(297)774-2326x0539,Craigton,New Mexico,USA,48471,2020-03-27,Enterprise,Web,Wallet,11.7,82.57
+CUST000898,Sarah Myers,Male,28,michellechan@example.net,234-847-2826,New Nicole,Colorado,USA,56907,2022-01-17,Residential,App,Bank Transfer,31.9,5.0
+CUST000899,Allison Morrison,Female,33,ucooper@example.com,036.456.5284,West Heathermouth,Michigan,USA,14972,2020-04-23,Residential,Retail,Wallet,13.6,12.06
+CUST000900,Joanna Jensen,Other,49,eugenemcgee@example.com,575.634.8213,Ruthburgh,South Dakota,USA,58232,2022-09-11,Small Business,App,Wallet,35.1,54.41
+CUST000901,Sara Goodwin,Female,55,trivers@example.com,+1-892-916-8643x606,Jacquelinestad,North Carolina,USA,98089,2022-09-16,Small Business,Call Center,Wallet,50.1,29.35
+CUST000902,David Estrada,Other,20,bellsandra@example.org,449-290-0141x067,Riversshire,Maryland,USA,55087,2023-03-10,Residential,Retail,Card,67.4,38.59
+CUST000903,Brian Hamilton,Male,58,luke67@example.net,585.797.7535x63486,Lewisfort,Alabama,USA,11828,2022-02-19,Enterprise,Retail,Bank Transfer,7.7,44.12
+CUST000904,Richard Reed,Female,41,garciapeter@example.com,001-975-566-9833,Lake Steven,Alabama,USA,15378,2024-11-26,Small Business,Retail,Wallet,15.0,45.11
+CUST000905,Joseph Rice,Other,61,bennettpaul@example.com,186-083-2811x3021,Port Scottview,Illinois,USA,55337,2022-06-29,Enterprise,Call Center,Wallet,38.0,39.03
+CUST000906,Timothy Orozco,Male,20,lopezjustin@example.org,+1-395-621-7901,East Aaronstad,Michigan,USA,51998,2024-07-07,Small Business,Retail,ACH,19.1,48.05
+CUST000907,Melissa Townsend,Male,40,joshua33@example.org,742-971-2774x263,Kimberlyview,Mississippi,USA,87745,2021-01-03,Residential,App,Card,28.2,51.07
+CUST000908,Robert Brewer,Male,58,hwells@example.org,+1-949-574-1189x126,Christinefort,Minnesota,USA,22959,2020-03-26,Small Business,Web,Card,22.3,37.05
+CUST000909,Trevor Carr,Female,57,johnsonvanessa@example.net,(980)867-8044x5967,Saraland,Utah,USA,96963,2024-08-12,Enterprise,App,Card,38.3,47.68
+CUST000910,Zachary Villanueva,Male,29,stevendavila@example.net,941-922-9897x5627,Lake Paul,Nebraska,USA,42371,2025-02-27,Enterprise,App,Bank Transfer,23.4,53.77
+CUST000911,Terry Davidson,Other,57,tiffany61@example.com,001-626-982-7207x5677,Timburgh,Virginia,USA,42108,2025-04-22,Residential,App,Bank Transfer,50.1,30.68
+CUST000912,Daniel Mitchell,Female,66,owatts@example.net,(280)359-3514x35940,Lake Daniel,South Carolina,USA,03514,2020-10-20,Residential,App,Bank Transfer,13.9,72.04
+CUST000913,Reginald Adams,Female,32,dyoung@example.com,+1-435-217-4233x605,Hugheshaven,New Hampshire,USA,96507,2022-03-10,Small Business,Web,ACH,39.5,54.74
+CUST000914,Christopher Clark,Male,35,clarkkirsten@example.net,(587)796-3764,Mitchellshire,Montana,USA,11732,2023-12-10,Enterprise,Call Center,Bank Transfer,32.6,36.57
+CUST000915,Eileen Rodriguez,Male,67,stevenmills@example.net,001-445-997-5984x5207,South Angela,Tennessee,USA,20541,2023-06-06,Enterprise,Call Center,Wallet,32.8,39.3
+CUST000916,James Liu,Other,18,ohodges@example.net,903-453-4515,Jessicachester,New York,USA,77766,2020-01-17,Small Business,Retail,Card,29.8,58.36
+CUST000917,Kristen Grant,Other,71,stewartalyssa@example.com,677.665.4025x041,North Brianville,California,USA,01012,2022-12-01,Residential,Retail,ACH,0.0,74.58
+CUST000918,Michelle Adkins,Female,29,brianna35@example.com,031.969.2745x28381,Maryfurt,Nevada,USA,36251,2023-12-25,Residential,Retail,Card,46.1,46.18
+CUST000919,Steve Adams,Other,62,sheparderika@example.com,043-817-5107x15579,New Cynthia,Michigan,USA,82550,2021-10-16,Enterprise,Retail,Card,28.6,60.32
+CUST000920,Evelyn Moore,Male,59,gregory56@example.net,001-247-900-9646,Nelsontown,New Mexico,USA,97404,2020-08-26,Enterprise,App,ACH,41.2,75.07
+CUST000921,Melissa Clark,Male,19,dalegarcia@example.com,+1-830-814-0113x356,Valeriehaven,Mississippi,USA,18263,2023-09-04,Enterprise,Retail,Bank Transfer,39.5,48.52
+CUST000922,Douglas Barrett,Male,74,jennifer12@example.org,082.754.6268,Lake Alan,Texas,USA,13053,2024-08-15,Enterprise,App,ACH,11.8,87.36
+CUST000923,Jessica Hunt,Other,44,wheelerphilip@example.com,654.582.5987x182,East Robert,Delaware,USA,38903,2021-11-29,Small Business,App,Card,50.5,57.41
+CUST000924,Tanner Miller,Male,50,morgandaniel@example.net,446.564.9624x5645,Theresashire,Hawaii,USA,58718,2021-03-24,Small Business,Web,Wallet,22.0,55.51
+CUST000925,Emma Ross,Female,44,bfoster@example.com,601-508-3500x2504,New Benjaminview,Arkansas,USA,52217,2020-08-20,Small Business,Retail,Bank Transfer,29.8,53.56
+CUST000926,Kari Cannon,Other,20,maldonadojessica@example.net,001-840-469-4630,South Christinamouth,Louisiana,USA,50963,2020-01-19,Residential,Web,Card,33.0,45.1
+CUST000927,Paul Jordan,Male,31,barryhill@example.com,001-798-144-9414,Gallagherton,California,USA,31103,2025-02-06,Residential,App,Card,50.1,56.16
+CUST000928,Donald Taylor,Other,30,randywilliams@example.com,536-822-3902x771,Williamsstad,Alaska,USA,50345,2024-04-20,Enterprise,Retail,ACH,25.0,40.83
+CUST000929,Mariah Clark,Female,73,joshua31@example.org,+1-825-926-2492x5378,Codyburgh,Massachusetts,USA,44495,2024-04-14,Enterprise,Web,Bank Transfer,19.8,31.84
+CUST000930,Mr. Steven Kramer,Male,54,shawn16@example.com,191-353-3606x855,Watsonfurt,New Mexico,USA,80707,2021-03-16,Residential,App,Wallet,28.3,57.78
+CUST000931,Jon Lee,Female,69,dakota71@example.net,124-894-8453,New Melissa,Florida,USA,26602,2023-03-19,Residential,Retail,Wallet,79.7,67.54
+CUST000932,Erin Stewart,Female,30,gabrielshaw@example.com,(422)761-4598x07886,Jeremyshire,Minnesota,USA,07949,2025-07-20,Enterprise,App,Bank Transfer,0.0,63.57
+CUST000933,Julia Mejia,Female,65,robert07@example.org,001-489-689-6580,North Kennethville,Pennsylvania,USA,74436,2021-05-08,Residential,Retail,ACH,0.0,33.87
+CUST000934,Joshua Arnold,Male,46,kevin56@example.org,764-726-6189x370,Phillipsberg,Pennsylvania,USA,15758,2024-06-14,Residential,Call Center,Wallet,57.0,47.83
+CUST000935,Sandra Campos,Male,56,ahall@example.com,(344)059-9582x346,Williamsview,California,USA,66640,2021-06-15,Small Business,Retail,ACH,8.1,46.63
+CUST000936,Caroline Morris,Other,53,danielthomas@example.com,001-850-852-7616x8163,South Ashleyfurt,Wisconsin,USA,83169,2020-10-02,Residential,App,Wallet,44.4,19.62
+CUST000937,Gabriel Moore,Male,42,tammywallace@example.net,001-370-023-2536,Andrewsport,Iowa,USA,12922,2020-12-08,Residential,Retail,Wallet,27.6,27.16
+CUST000938,Kenneth Valdez,Other,21,operez@example.net,001-589-636-5028x1060,New Jasmine,Maryland,USA,78788,2020-10-20,Residential,Web,Bank Transfer,43.4,35.66
+CUST000939,Victoria Rhodes,Male,30,emily10@example.net,099-633-9525x8357,West Clifford,Wyoming,USA,58185,2021-09-06,Small Business,App,ACH,54.3,31.05
+CUST000940,Christopher Finley,Male,42,melissaday@example.org,197.454.5264x54100,East Elizabethside,Oklahoma,USA,60797,2021-02-21,Enterprise,Call Center,Wallet,58.5,45.92
+CUST000941,Raymond Smith,Other,63,davisgeorge@example.org,311.827.4659,Woodfurt,North Carolina,USA,96187,2020-04-22,Enterprise,Retail,Wallet,34.7,43.63
+CUST000942,Sheila Brown,Male,26,wjames@example.org,001-131-342-6651x839,Allisonshire,South Carolina,USA,19572,2023-08-08,Small Business,Web,ACH,27.9,51.4
+CUST000943,Kimberly Rodriguez,Male,26,washingtonvictor@example.org,001-159-912-0415x2861,Kennethbury,New Mexico,USA,13999,2023-08-29,Small Business,Web,Bank Transfer,38.2,28.65
+CUST000944,Patricia Mckinney,Female,37,jacobjohnson@example.net,+1-330-653-3780x1821,Haletown,Colorado,USA,81587,2021-06-23,Enterprise,Web,Bank Transfer,51.4,21.32
+CUST000945,Joanne Larsen,Male,27,vphillips@example.org,823-511-3522,Port Pamela,New Hampshire,USA,59321,2021-06-03,Residential,Web,Card,21.8,43.13
+CUST000946,Pamela Hanna,Other,27,sharon86@example.net,+1-383-092-3803x72388,North Debra,Nevada,USA,07790,2020-04-11,Small Business,App,Card,36.8,55.22
+CUST000947,Rebecca Donaldson,Female,25,jdavis@example.net,070-382-7640,Howardport,Maine,USA,18227,2022-05-26,Residential,Call Center,Card,55.3,78.7
+CUST000948,Phillip Brown,Female,25,williamfranco@example.com,(357)638-1877,West Jennifer,Iowa,USA,93370,2021-07-30,Residential,Retail,ACH,21.5,30.61
+CUST000949,Jessica Park,Male,65,zbrown@example.com,(881)268-9837,Carlosfort,New Hampshire,USA,21057,2025-04-24,Small Business,Call Center,Bank Transfer,22.5,35.53
+CUST000950,Eric Smith,Female,67,thomas94@example.org,+1-541-892-7813x1096,South Edwardfurt,New York,USA,94439,2024-11-02,Enterprise,Retail,Wallet,47.4,66.02
+CUST000951,Ashley Rodriguez,Other,75,frank59@example.org,+1-020-996-4787x29236,Lake Leeton,Wyoming,USA,14563,2022-03-23,Small Business,Retail,Wallet,27.8,39.01
+CUST000952,Barbara Rice,Male,52,michael13@example.net,001-145-208-6087x85126,Ryanfort,South Carolina,USA,73730,2023-04-23,Residential,App,Wallet,44.6,44.75
+CUST000953,Cassandra Green,Male,27,blaircarol@example.com,(016)414-8940x9211,West Michelle,Utah,USA,66635,2025-03-12,Small Business,Call Center,Card,37.2,42.21
+CUST000954,Rachel Rojas,Male,20,kristen29@example.org,592.887.9335,New Curtismouth,Idaho,USA,29763,2020-10-02,Enterprise,App,Card,57.4,78.0
+CUST000955,Sherry Gutierrez,Other,27,mariagoodman@example.com,(999)737-6425,Kingfurt,Florida,USA,79119,2021-07-14,Small Business,Call Center,Bank Transfer,25.8,50.51
+CUST000956,John Hernandez,Male,45,ramirezcatherine@example.net,+1-867-549-0978x7075,South Alexismouth,Maryland,USA,48428,2021-11-04,Small Business,Retail,Bank Transfer,41.0,81.66
+CUST000957,Craig Cruz,Other,37,bjohnson@example.net,991.966.2124x1357,Williamville,California,USA,95801,2022-06-09,Enterprise,Retail,Bank Transfer,0.0,28.87
+CUST000958,Richard Hansen,Female,66,aprilrobles@example.com,+1-980-800-7026,Lake Emmaberg,Mississippi,USA,88704,2020-06-02,Small Business,Retail,Card,0.0,39.31
+CUST000959,Cindy Hall,Other,62,jjohnson@example.net,194.317.3742x249,Wagnerhaven,Connecticut,USA,10191,2025-03-11,Residential,Web,Wallet,2.9,22.25
+CUST000960,Jesse Camacho,Other,59,david63@example.com,302.891.7960x31441,Jimmyville,Hawaii,USA,89456,2022-11-05,Enterprise,App,Wallet,1.5,77.42
+CUST000961,Todd Jordan,Other,31,michael62@example.org,(078)319-9624x01992,Lake Shawn,Delaware,USA,59686,2023-10-02,Enterprise,Retail,Wallet,56.6,45.43
+CUST000962,Julie Hall,Other,48,kaylamontgomery@example.com,583-710-4928,Juliaville,Michigan,USA,65783,2023-10-04,Residential,Retail,Wallet,31.0,89.37
+CUST000963,Jeanette Adams,Male,51,cody05@example.org,037.415.3444x4480,Port Toddmouth,Wisconsin,USA,35049,2020-08-28,Enterprise,Call Center,Bank Transfer,64.9,62.84
+CUST000964,Tricia Eaton,Female,35,dmoore@example.net,001-808-784-9270x0342,Kristinmouth,West Virginia,USA,96346,2023-10-09,Enterprise,Retail,Card,0.0,30.86
+CUST000965,Matthew Dawson,Female,38,sandovaldaryl@example.org,(096)156-4717x795,Flemingborough,Florida,USA,06907,2022-09-15,Small Business,Web,Card,18.1,79.01
+CUST000966,Melinda Rowe,Other,48,caitlyn62@example.net,857-043-8138,New Williammouth,Virginia,USA,47559,2024-11-05,Small Business,Retail,ACH,0.0,42.67
+CUST000967,Debra Reyes,Male,80,jeannegarcia@example.com,918.418.5697x2310,East Johnchester,Alabama,USA,28800,2025-05-22,Residential,App,Wallet,1.7,62.62
+CUST000968,Jessica Fisher,Male,37,brianamiller@example.org,839-941-1788,Sanderschester,Kentucky,USA,38116,2025-04-28,Enterprise,Web,Card,20.3,42.7
+CUST000969,Gary Berry,Female,37,wstafford@example.com,927.030.9085x520,Andersentown,South Dakota,USA,75383,2022-02-26,Enterprise,App,ACH,9.2,17.89
+CUST000970,Erika Riggs,Other,27,carterarthur@example.org,481.200.5524,West Shannonborough,Massachusetts,USA,06710,2022-10-06,Enterprise,Retail,Wallet,15.6,27.5
+CUST000971,Gary Jordan,Male,20,martinezjorge@example.com,(359)835-5555,Ayalaville,Tennessee,USA,27587,2024-12-21,Small Business,Retail,Card,22.5,19.52
+CUST000972,Meghan Trujillo,Other,18,hutchinsonstephen@example.org,001-407-084-5432x09204,Port Denisestad,Delaware,USA,54863,2022-11-29,Residential,Web,Card,39.8,41.08
+CUST000973,Charles Peterson,Female,24,osbornandrew@example.com,054.118.8456,Sherryborough,Pennsylvania,USA,12272,2020-10-20,Enterprise,Web,Card,21.5,53.29
+CUST000974,Amy Adams,Female,55,christy21@example.net,(499)234-7403,East Pamela,Michigan,USA,10868,2025-01-26,Small Business,Web,Card,35.1,17.87
+CUST000975,Michael Perez,Other,60,tammyjefferson@example.com,196.623.4387,Tiffanyton,Alaska,USA,71772,2022-11-20,Residential,Call Center,Wallet,8.3,34.61
+CUST000976,Alexa King,Female,58,wrightdanielle@example.com,7922893146,South April,Nebraska,USA,68669,2025-04-10,Residential,Retail,ACH,46.1,39.47
+CUST000977,Stanley Delacruz,Other,51,kaufmansharon@example.com,227-872-9137x824,New Donaldberg,West Virginia,USA,99058,2025-08-17,Residential,Call Center,Bank Transfer,48.4,45.98
+CUST000978,Aaron Anderson,Other,33,erik71@example.net,592-252-7338x869,Dorothyside,Maine,USA,91646,2023-11-26,Small Business,Call Center,Bank Transfer,64.5,45.73
+CUST000979,Kyle Finley,Female,28,christopherlee@example.net,873-700-0491x50890,Annhaven,Illinois,USA,74055,2025-08-06,Small Business,Web,Wallet,44.0,67.98
+CUST000980,Heather Davis,Female,76,vanessa20@example.net,+1-845-560-2468x841,Lake Adrianafurt,South Carolina,USA,31869,2025-05-04,Small Business,Retail,Card,49.8,65.19
+CUST000981,John Moore,Male,50,danieljerry@example.org,(055)772-4193x8640,New Mario,Michigan,USA,30815,2024-10-02,Residential,App,ACH,42.4,44.69
+CUST000982,Sarah Young,Male,19,aarontodd@example.org,001-408-635-2697,Brianland,Wyoming,USA,29784,2024-07-23,Residential,App,Bank Transfer,47.6,33.9
+CUST000983,Kathleen Morgan,Male,34,justin50@example.net,+1-291-896-5594,New Ryanburgh,Kentucky,USA,97867,2023-12-19,Residential,Web,Bank Transfer,37.8,5.0
+CUST000984,Glen Walton,Other,18,scarroll@example.net,+1-951-427-6663x39697,East Larry,Hawaii,USA,35499,2021-04-12,Residential,Retail,Card,40.8,58.38
+CUST000985,Sydney Serrano,Other,35,deannarichardson@example.com,3272207135,Lake Brittany,Alaska,USA,90439,2020-10-31,Small Business,Web,Card,34.7,75.49
+CUST000986,Judith Collins,Male,26,breannasmith@example.org,001-957-193-0692x74339,South Susan,Nebraska,USA,99316,2020-02-13,Small Business,Call Center,Wallet,44.2,43.71
+CUST000987,Jennifer Meyer,Male,78,usmith@example.org,+1-695-774-4451,New Connie,South Dakota,USA,25316,2023-06-27,Enterprise,Call Center,Bank Transfer,43.8,23.67
+CUST000988,Ann Hamilton,Female,55,mark53@example.net,270-164-8722x69763,North Codyshire,Indiana,USA,89957,2023-05-03,Residential,App,Wallet,8.1,76.02
+CUST000989,Matthew Smith,Female,22,kevinreed@example.com,429-239-8746x57977,West Dianaside,Alaska,USA,02766,2023-06-10,Residential,Web,Wallet,33.3,46.06
+CUST000990,Angela Adams,Female,44,patricia90@example.net,+1-222-479-5043,East Jefferychester,Michigan,USA,69919,2025-05-07,Small Business,Call Center,Wallet,36.4,24.75
+CUST000991,Cynthia King,Female,50,egarcia@example.com,+1-740-446-9266,West Mark,Pennsylvania,USA,73946,2023-12-03,Enterprise,App,Card,47.1,59.84
+CUST000992,Richard Cunningham,Female,18,uellison@example.net,001-606-582-1055x3668,Nathanport,New Hampshire,USA,87354,2022-12-11,Residential,Call Center,Bank Transfer,33.9,56.9
+CUST000993,Nicholas Robinson,Other,46,johnrussell@example.org,(974)261-1513x042,Josephbury,Texas,USA,73375,2024-12-22,Small Business,Retail,Wallet,0.0,52.55
+CUST000994,Megan Thompson,Female,45,gardnerhannah@example.org,118.437.0066x760,West Deborahbury,Nebraska,USA,52004,2023-09-11,Residential,Call Center,Wallet,41.7,32.12
+CUST000995,Richard Wells,Female,57,charleskirby@example.net,815-999-0341,North Troymouth,Utah,USA,42511,2023-06-13,Small Business,Web,ACH,33.5,50.61
+CUST000996,Matthew Nelson,Other,21,michaelmartinez@example.net,+1-769-929-6442x62865,East Ashleystad,Vermont,USA,86897,2022-09-04,Residential,Call Center,Bank Transfer,36.4,89.77
+CUST000997,April Smith,Male,52,angelamason@example.net,001-234-384-5149x474,Port Donald,Alabama,USA,89142,2025-02-07,Residential,Retail,ACH,53.3,42.98
+CUST000998,Mark Nguyen,Male,73,jramirez@example.net,896-138-2572x591,Elizabethfort,Massachusetts,USA,41854,2022-03-11,Enterprise,Web,Card,8.0,64.25
+CUST000999,Maurice Foster,Male,49,umills@example.org,001-587-228-8865,Reillystad,New Hampshire,USA,77755,2025-07-05,Residential,Call Center,Bank Transfer,25.4,72.64
+CUST001000,Mary Brewer,Male,27,nicolenewton@example.net,975.572.1439x328,Donfort,Kentucky,USA,56473,2021-09-18,Residential,Retail,Wallet,47.4,41.81
